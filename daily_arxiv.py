@@ -12,9 +12,6 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-import requests.packages.urllib3.util.ssl_
-requests.packages.urllib3.util.ssl_.DEFAULT_CIPHERS = 'ALL'
-
 
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
