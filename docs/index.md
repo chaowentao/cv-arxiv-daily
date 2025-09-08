@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.06
+## Updated on 2025.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
