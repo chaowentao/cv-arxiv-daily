@@ -132,10 +132,10 @@ def get_daily_papers(topic,query="slam", max_results=2):
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
             # TODO: not found, two more chances
-            else:
-               repo_url = get_code_link(paper_title)
-               if repo_url is None:
-                   repo_url = get_code_link(paper_key)
+            # else:
+            #    repo_url = get_code_link(paper_title)
+            #    if repo_url is None:
+            #        repo_url = get_code_link(paper_key)
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
