@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.11
+## Updated on 2025.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,13 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts**|Lauren H. Cooke et.al.|[2509.08640](http://arxiv.org/abs/2509.08640)|null|
+|**2025-09-10**|**EfficientIML: Efficient High-Resolution Image Manipulation Localization**|Jinhan Li et.al.|[2509.08583](http://arxiv.org/abs/2509.08583)|null|
+|**2025-09-10**|**Physics-Guided Rectified Flow for Low-light RAW Image Enhancement**|Juntai Zeng et.al.|[2509.08330](http://arxiv.org/abs/2509.08330)|null|
 |**2025-09-09**|**Feature Space Analysis by Guided Diffusion Model**|Kimiaki Shirahama et.al.|[2509.07936](http://arxiv.org/abs/2509.07936)|**[link](https://github.com/KimiakiShirahama/FeatureSpaceAnalysisByGuidedDiffusionModel)**|
 |**2025-09-09**|**AgentX: Towards Orchestrating Robust Agentic Workflow Patterns with FaaS-hosted MCP Services**|Shiva Sai Krishna Anand Tokal et.al.|[2509.07595](http://arxiv.org/abs/2509.07595)|null|
 |**2025-09-08**|**Reconstruction Alignment Improves Unified Multimodal Models**|Ji Xie et.al.|[2509.07295](http://arxiv.org/abs/2509.07295)|null|
 |**2025-09-08**|**Automated Evaluation of Gender Bias Across 13 Large Multimodal Models**|Juan Manuel Contreras et.al.|[2509.07050](http://arxiv.org/abs/2509.07050)|null|
 |**2025-09-07**|**The Impact of Artificial Intelligence on Traditional Art Forms: A Disruption or Enhancement**|Viswa Chaitanya Marella et.al.|[2509.07029](http://arxiv.org/abs/2509.07029)|null|
 |**2025-09-09**|**Interleaving Reasoning for Better Text-to-Image Generation**|Wenxuan Huang et.al.|[2509.06945](http://arxiv.org/abs/2509.06945)|null|
-|**2025-09-08**|**TIDE: Achieving Balanced Subject-Driven Image Generation via Target-Instructed Diffusion Enhancement**|Jibai Lin et.al.|[2509.06499](http://arxiv.org/abs/2509.06499)|**[link](https://github.com/KomJay520/TIDE)**|
+|**2025-09-08**|**TIDE: Achieving Balanced Subject-Driven Image Generation via Target-Instructed Diffusion Enhancement**|Jibai Lin et.al.|[2509.06499](http://arxiv.org/abs/2509.06499)|null|
 |**2025-09-08**|**VQualA 2025 Challenge on Image Super-Resolution Generated Content Quality Assessment: Methods and Results**|Yixiao Li et.al.|[2509.06413](http://arxiv.org/abs/2509.06413)|null|
 |**2025-09-07**|**If generative AI is the answer, what is the question?**|Ambuj Tewari et.al.|[2509.06120](http://arxiv.org/abs/2509.06120)|null|
 |**2025-09-07**|**Home-made Diffusion Model from Scratch to Hatch**|Shih-Ying Yeh et.al.|[2509.06068](http://arxiv.org/abs/2509.06068)|null|
@@ -96,6 +99,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Joint Model-based Model-free Diffusion for Planning with Constraints**|Wonsuhk Jung et.al.|[2509.08775](http://arxiv.org/abs/2509.08775)|null|
+|**2025-09-10**|**Sharp power concavity of two relevant free boundary problems of reaction-diffusion type**|Qingyou He et.al.|[2509.08768](http://arxiv.org/abs/2509.08768)|null|
+|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
+|**2025-09-10**|**On the Lebesgue Constant of Extended-Domain Spectral Methods for Elliptic PDEs**|Po-Yi Wu et.al.|[2509.08745](http://arxiv.org/abs/2509.08745)|null|
+|**2025-09-10**|**Finite-temperature transport in the gapped spin-1/2 XXZ chain and one-dimensional lattice spinless fermion model**|J. M. P. Carmelo et.al.|[2509.08741](http://arxiv.org/abs/2509.08741)|null|
+|**2025-09-10**|**Data-driven generative simulation of SDEs using diffusion models**|Xuefeng Gao et.al.|[2509.08731](http://arxiv.org/abs/2509.08731)|null|
+|**2025-09-10**|**Accelerating Diffusion Transformer-Based Text-to-Speech with Transformer Layer Caching**|Siratish Sakpiboonchit et.al.|[2509.08696](http://arxiv.org/abs/2509.08696)|null|
+|**2025-09-10**|**The Small Magellanic Cloud through the lens of the James Webb Space Telescope : binaries and mass function within the galaxy outskirts**|M. V. Legnardi et.al.|[2509.08687](http://arxiv.org/abs/2509.08687)|null|
+|**2025-09-10**|**LADB: Latent Aligned Diffusion Bridges for Semi-Supervised Domain Translation**|Xuqin Wang et.al.|[2509.08628](http://arxiv.org/abs/2509.08628)|null|
+|**2025-09-10**|**Microstructural Control and Heat Transport Enhancement in Lanthanum Sulfate for Thermochemical Heat Storage**|Kunihiko Shizume et.al.|[2509.08585](http://arxiv.org/abs/2509.08585)|null|
 |**2025-09-09**|**LHAASO Galactic Plane $γ$ -rays Strongly Constrain Heavy Dark Matter**|Celine Boehm et.al.|[2509.07982](http://arxiv.org/abs/2509.07982)|null|
 |**2025-09-09**|**Edwards-Wilkinson limit for a stochastic advection-diffusion PDE**|Sotirios Kotitsas et.al.|[2509.07956](http://arxiv.org/abs/2509.07956)|null|
 |**2025-09-09**|**Feature Space Analysis by Guided Diffusion Model**|Kimiaki Shirahama et.al.|[2509.07936](http://arxiv.org/abs/2509.07936)|null|
@@ -121,7 +134,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-09**|**Feature Space Analysis by Guided Diffusion Model**|Kimiaki Shirahama et.al.|[2509.07936](http://arxiv.org/abs/2509.07936)|**[link](https://github.com/KimiakiShirahama/FeatureSpaceAnalysisByGuidedDiffusionModel)**|
+|**2025-09-10**|**RepViT-CXR: A Channel Replication Strategy for Vision Transformers in Chest X-ray Tuberculosis and Pneumonia Classification**|Faisal Ahmed et.al.|[2509.08234](http://arxiv.org/abs/2509.08234)|null|
+|**2025-09-09**|**Feature Space Analysis by Guided Diffusion Model**|Kimiaki Shirahama et.al.|[2509.07936](http://arxiv.org/abs/2509.07936)|null|
 |**2025-09-09**|**Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning**|Daniel DeAlcala et.al.|[2509.07879](http://arxiv.org/abs/2509.07879)|null|
 |**2025-09-09**|**Understanding Ice Crystal Habit Diversity with Self-Supervised Learning**|Joseph Ko et.al.|[2509.07688](http://arxiv.org/abs/2509.07688)|null|
 |**2025-09-08**|**XBusNet: Text-Guided Breast Ultrasound Segmentation via Multimodal Vision-Language Learning**|Raja Mallina et.al.|[2509.07213](http://arxiv.org/abs/2509.07213)|null|
@@ -158,6 +172,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
+|**2025-09-10**|**Single-frame super-resolution via Sparse Point Optimization**|Xiaofeng Zhang et.al.|[2509.08730](http://arxiv.org/abs/2509.08730)|null|
+|**2025-09-10**|**First-order State Space Model for Lightweight Image Super-resolution**|Yujie Zhu et.al.|[2509.08458](http://arxiv.org/abs/2509.08458)|null|
+|**2025-09-10**|**Hearing the Shape of a Cuboid Room Using Sparse Measure Recovery**|Antoine Deleforge et.al.|[2509.08443](http://arxiv.org/abs/2509.08443)|null|
+|**2025-09-09**|**The-Bodega: A Matlab Toolbox for Biologically Dynamic Microbubble Simulations on Realistic Hemodynamic Microvascular Graphs**|Stephen Alexander Lee et.al.|[2509.08149](http://arxiv.org/abs/2509.08149)|null|
 |**2025-09-09**|**Faster, Self-Supervised Super-Resolution for Anisotropic Multi-View MRI Using a Sparse Coordinate Loss**|Maja Schlereth et.al.|[2509.07798](http://arxiv.org/abs/2509.07798)|null|
 |**2025-09-07**|**Physics-Guided Diffusion Transformer with Spherical Harmonic Posterior Sampling for High-Fidelity Angular Super-Resolution in Diffusion MRI**|Mu Nan et.al.|[2509.07020](http://arxiv.org/abs/2509.07020)|null|
 |**2025-09-08**|**BIR-Adapter: A Low-Complexity Diffusion Model Adapter for Blind Image Restoration**|Cem Eteke et.al.|[2509.06904](http://arxiv.org/abs/2509.06904)|null|
@@ -175,6 +194,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Computational Imaging for Enhanced Computer Vision**|Humera Shaikh et.al.|[2509.08712](http://arxiv.org/abs/2509.08712)|null|
+|**2025-09-10**|**Deep Visual Odometry for Stereo Event Cameras**|Sheng Zhong et.al.|[2509.08235](http://arxiv.org/abs/2509.08235)|null|
+|**2025-09-09**|**Zero-Shot Metric Depth Estimation via Monocular Visual-Inertial Rescaling for Autonomous Aerial Navigation**|Steven Yang et.al.|[2509.08159](http://arxiv.org/abs/2509.08159)|null|
+|**2025-09-09**|**MCTED: A Machine-Learning-Ready Dataset for Digital Elevation Model Generation From Mars Imagery**|Rafał Osadnik et.al.|[2509.08027](http://arxiv.org/abs/2509.08027)|null|
 |**2025-09-08**|**Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.|[2509.06741](http://arxiv.org/abs/2509.06741)|null|
 |**2025-09-10**|**VIM-GS: Visual-Inertial Monocular Gaussian Splatting via Object-level Guidance in Large Scenes**|Shengkai Zhang et.al.|[2509.06685](http://arxiv.org/abs/2509.06685)|null|
 |**2025-09-07**|**S-LAM3D: Segmentation-Guided Monocular 3D Object Detection via Feature Space Fusion**|Diana-Alexandra Sas et.al.|[2509.05999](http://arxiv.org/abs/2509.05999)|null|
