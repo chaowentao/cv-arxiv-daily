@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.12
+## Updated on 2025.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,10 +16,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark**|Rongyao Fang et.al.|[2509.09680](http://arxiv.org/abs/2509.09680)|null|
+|**2025-09-11**|**Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth**|Daria Laslo et.al.|[2509.09610](http://arxiv.org/abs/2509.09610)|null|
+|**2025-09-11**|**Prompt Pirates Need a Map: Stealing Seeds helps Stealing Prompts**|Felix Mächtle et.al.|[2509.09488](http://arxiv.org/abs/2509.09488)|null|
+|**2025-09-10**|**Integrating Anatomical Priors into a Causal Diffusion Model**|Binxu Li et.al.|[2509.09054](http://arxiv.org/abs/2509.09054)|null|
+|**2025-09-10**|**Discovering Divergent Representations between Text-to-Image Models**|Lisa Dunlap et.al.|[2509.08940](http://arxiv.org/abs/2509.08940)|null|
 |**2025-09-10**|**RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts**|Lauren H. Cooke et.al.|[2509.08640](http://arxiv.org/abs/2509.08640)|null|
 |**2025-09-10**|**EfficientIML: Efficient High-Resolution Image Manipulation Localization**|Jinhan Li et.al.|[2509.08583](http://arxiv.org/abs/2509.08583)|null|
 |**2025-09-10**|**Physics-Guided Rectified Flow for Low-light RAW Image Enhancement**|Juntai Zeng et.al.|[2509.08330](http://arxiv.org/abs/2509.08330)|null|
-|**2025-09-09**|**Feature Space Analysis by Guided Diffusion Model**|Kimiaki Shirahama et.al.|[2509.07936](http://arxiv.org/abs/2509.07936)|**[link](https://github.com/KimiakiShirahama/FeatureSpaceAnalysisByGuidedDiffusionModel)**|
+|**2025-09-09**|**Feature Space Analysis by Guided Diffusion Model**|Kimiaki Shirahama et.al.|[2509.07936](http://arxiv.org/abs/2509.07936)|null|
 |**2025-09-09**|**AgentX: Towards Orchestrating Robust Agentic Workflow Patterns with FaaS-hosted MCP Services**|Shiva Sai Krishna Anand Tokal et.al.|[2509.07595](http://arxiv.org/abs/2509.07595)|null|
 |**2025-09-08**|**Reconstruction Alignment Improves Unified Multimodal Models**|Ji Xie et.al.|[2509.07295](http://arxiv.org/abs/2509.07295)|null|
 |**2025-09-08**|**Automated Evaluation of Gender Bias Across 13 Large Multimodal Models**|Juan Manuel Contreras et.al.|[2509.07050](http://arxiv.org/abs/2509.07050)|null|
@@ -99,6 +104,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Locality in Image Diffusion Models Emerges from Data Statistics**|Artem Lukoianov et.al.|[2509.09672](http://arxiv.org/abs/2509.09672)|null|
+|**2025-09-11**|**Geometric Neural Distance Fields for Learning Human Motion Priors**|Zhengdi Yu et.al.|[2509.09667](http://arxiv.org/abs/2509.09667)|null|
+|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-11**|**I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection**|Zhenguang Liu et.al.|[2509.09630](http://arxiv.org/abs/2509.09630)|null|
+|**2025-09-11**|**Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth**|Daria Laslo et.al.|[2509.09610](http://arxiv.org/abs/2509.09610)|null|
+|**2025-09-11**|**Constraints on Ultra-heavy DM from TeV-PeV gamma-ray diffuse measurements**|Manuel Rocamora et.al.|[2509.09609](http://arxiv.org/abs/2509.09609)|null|
+|**2025-09-11**|**Iterative energy reduction Galerkin methods and variational adaptivity**|Pascal Heid et.al.|[2509.09600](http://arxiv.org/abs/2509.09600)|null|
+|**2025-09-11**|**Exactly Solvable Model of Random Walks with Stochastic Exchange**|José Julian Díaz-Pérez et.al.|[2509.09577](http://arxiv.org/abs/2509.09577)|null|
+|**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
+|**2025-09-11**|**Generative Diffusion Contrastive Network for Multi-View Clustering**|Jian Zhu et.al.|[2509.09527](http://arxiv.org/abs/2509.09527)|null|
 |**2025-09-11**|**Joint Model-based Model-free Diffusion for Planning with Constraints**|Wonsuhk Jung et.al.|[2509.08775](http://arxiv.org/abs/2509.08775)|null|
 |**2025-09-10**|**Sharp power concavity of two relevant free boundary problems of reaction-diffusion type**|Qingyou He et.al.|[2509.08768](http://arxiv.org/abs/2509.08768)|null|
 |**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
@@ -134,6 +149,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**CoAtNeXt:An Attention-Enhanced ConvNeXtV2-Transformer Hybrid Model for Gastric Tissue Classification**|Mustafa Yurdakul et.al.|[2509.09242](http://arxiv.org/abs/2509.09242)|null|
+|**2025-09-11**|**Adaptive Pareto-Optimal Token Merging for Edge Transformer Models in Semantic Communication**|Omar Erak et.al.|[2509.09168](http://arxiv.org/abs/2509.09168)|null|
+|**2025-09-10**|**MoWE : A Mixture of Weather Experts**|Dibyajyoti Chakraborty et.al.|[2509.09052](http://arxiv.org/abs/2509.09052)|null|
+|**2025-09-10**|**CoSwin: Convolution Enhanced Hierarchical Shifted Window Attention For Small-Scale Vision**|Puskal Khadka et.al.|[2509.08959](http://arxiv.org/abs/2509.08959)|null|
 |**2025-09-10**|**RepViT-CXR: A Channel Replication Strategy for Vision Transformers in Chest X-ray Tuberculosis and Pneumonia Classification**|Faisal Ahmed et.al.|[2509.08234](http://arxiv.org/abs/2509.08234)|null|
 |**2025-09-09**|**Feature Space Analysis by Guided Diffusion Model**|Kimiaki Shirahama et.al.|[2509.07936](http://arxiv.org/abs/2509.07936)|null|
 |**2025-09-09**|**Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning**|Daniel DeAlcala et.al.|[2509.07879](http://arxiv.org/abs/2509.07879)|null|
@@ -172,6 +191,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**|Yuchan Jie et.al.|[2509.09427](http://arxiv.org/abs/2509.09427)|null|
 |**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
 |**2025-09-10**|**Single-frame super-resolution via Sparse Point Optimization**|Xiaofeng Zhang et.al.|[2509.08730](http://arxiv.org/abs/2509.08730)|null|
 |**2025-09-10**|**First-order State Space Model for Lightweight Image Super-resolution**|Yujie Zhu et.al.|[2509.08458](http://arxiv.org/abs/2509.08458)|null|
