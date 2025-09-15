@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.14
+## Updated on 2025.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -20,7 +20,7 @@ layout: default
 |**2025-09-11**|**Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth**|Daria Laslo et.al.|[2509.09610](http://arxiv.org/abs/2509.09610)|null|
 |**2025-09-11**|**Prompt Pirates Need a Map: Stealing Seeds helps Stealing Prompts**|Felix Mächtle et.al.|[2509.09488](http://arxiv.org/abs/2509.09488)|**[link](https://github.com/UzL-ITS/Prompt-Pirate)**|
 |**2025-09-10**|**Integrating Anatomical Priors into a Causal Diffusion Model**|Binxu Li et.al.|[2509.09054](http://arxiv.org/abs/2509.09054)|null|
-|**2025-09-10**|**Discovering Divergent Representations between Text-to-Image Models**|Lisa Dunlap et.al.|[2509.08940](http://arxiv.org/abs/2509.08940)|null|
+|**2025-09-10**|**Discovering Divergent Representations between Text-to-Image Models**|Lisa Dunlap et.al.|[2509.08940](http://arxiv.org/abs/2509.08940)|**[link](https://github.com/adobe-research/CompCon)**|
 |**2025-09-10**|**RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts**|Lauren H. Cooke et.al.|[2509.08640](http://arxiv.org/abs/2509.08640)|null|
 |**2025-09-10**|**EfficientIML: Efficient High-Resolution Image Manipulation Localization**|Jinhan Li et.al.|[2509.08583](http://arxiv.org/abs/2509.08583)|null|
 |**2025-09-10**|**Physics-Guided Rectified Flow for Low-light RAW Image Enhancement**|Juntai Zeng et.al.|[2509.08330](http://arxiv.org/abs/2509.08330)|null|
@@ -47,7 +47,7 @@ layout: default
 |**2025-09-05**|**Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**|Haosong Liu et.al.|[2509.04824](http://arxiv.org/abs/2509.04824)|null|
 |**2024-09-26**|**LGFN: Lightweight Light Field Image Super-Resolution using Local Convolution Modulation and Global Attention Feature Extraction**|Zhongxin Yu et.al.|[2409.17759](http://arxiv.org/abs/2409.17759)|null|
 |**2025-08-10**|**Less is More: Skim Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329](http://arxiv.org/abs/2407.15329)|null|
-|**2024-06-23**|**Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning**|Ruisheng Gao et.al.|[2406.16083](http://arxiv.org/abs/2406.16083)|**[link](https://github.com/RSGao/MLFSR)**|
+|**2024-06-23**|**Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning**|Ruisheng Gao et.al.|[2406.16083](http://arxiv.org/abs/2406.16083)|null|
 |**2024-05-11**|**Incorporating Degradation Estimation in Light Field Spatial Super-Resolution**|Zeyu Xiao et.al.|[2405.07012](http://arxiv.org/abs/2405.07012)|null|
 |**2024-02-29**|**Unsupervised Learning of High-resolution Light Field Imaging via Beam Splitter-based Hybrid Lenses**|Jianxin Lei et.al.|[2402.19020](http://arxiv.org/abs/2402.19020)|null|
 |**2023-05-30**|**Toward Real-World Light Field Super-Resolution**|Zeyu Xiao et.al.|[2305.18994](http://arxiv.org/abs/2305.18994)|null|
@@ -106,7 +106,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-11**|**Locality in Image Diffusion Models Emerges from Data Statistics**|Artem Lukoianov et.al.|[2509.09672](http://arxiv.org/abs/2509.09672)|null|
 |**2025-09-11**|**Geometric Neural Distance Fields for Learning Human Motion Priors**|Zhengdi Yu et.al.|[2509.09667](http://arxiv.org/abs/2509.09667)|null|
-|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
 |**2025-09-11**|**I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection**|Zhenguang Liu et.al.|[2509.09630](http://arxiv.org/abs/2509.09630)|null|
 |**2025-09-11**|**Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth**|Daria Laslo et.al.|[2509.09610](http://arxiv.org/abs/2509.09610)|null|
 |**2025-09-11**|**Constraints on Ultra-heavy DM from TeV-PeV gamma-ray diffuse measurements**|Manuel Rocamora et.al.|[2509.09609](http://arxiv.org/abs/2509.09609)|null|
@@ -191,8 +191,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-11**|**FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**|Yuchan Jie et.al.|[2509.09427](http://arxiv.org/abs/2509.09427)|null|
-|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
+|**2025-09-11**|**FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**|Yuchan Jie et.al.|[2509.09427](http://arxiv.org/abs/2509.09427)|**[link](https://github.com/XylonXu01/FS-Diff)**|
+|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|**[link](https://github.com/vivekoommen/Gen4Turbulence)**|
 |**2025-09-10**|**Single-frame super-resolution via Sparse Point Optimization**|Xiaofeng Zhang et.al.|[2509.08730](http://arxiv.org/abs/2509.08730)|null|
 |**2025-09-10**|**First-order State Space Model for Lightweight Image Super-resolution**|Yujie Zhu et.al.|[2509.08458](http://arxiv.org/abs/2509.08458)|null|
 |**2025-09-10**|**Hearing the Shape of a Cuboid Room Using Sparse Measure Recovery**|Antoine Deleforge et.al.|[2509.08443](http://arxiv.org/abs/2509.08443)|null|
