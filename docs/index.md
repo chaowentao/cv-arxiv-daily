@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.15
+## Updated on 2025.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,11 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis**|Tao Han et.al.|[2509.10441](http://arxiv.org/abs/2509.10441)|null|
+|**2025-09-12**|**Immunizing Images from Text to Image Editing via Adversarial Cross-Attention**|Matteo Trippodo et.al.|[2509.10359](http://arxiv.org/abs/2509.10359)|null|
+|**2025-09-12**|**Detecting Text Manipulation in Images using Vision Language Models**|Vidit Vidit et.al.|[2509.10278](http://arxiv.org/abs/2509.10278)|**[link](https://github.com/djdprogramming/adfa2)**|
+|**2025-09-12**|**MagicMirror: A Large-Scale Dataset and Benchmark for Fine-Grained Artifacts Assessment in Text-to-Image Generation**|Jia Wang et.al.|[2509.10260](http://arxiv.org/abs/2509.10260)|null|
+|**2025-09-12**|**Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization**|Yifan Chang et.al.|[2509.10140](http://arxiv.org/abs/2509.10140)|null|
 |**2025-09-11**|**FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark**|Rongyao Fang et.al.|[2509.09680](http://arxiv.org/abs/2509.09680)|null|
 |**2025-09-11**|**Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth**|Daria Laslo et.al.|[2509.09610](http://arxiv.org/abs/2509.09610)|null|
-|**2025-09-11**|**Prompt Pirates Need a Map: Stealing Seeds helps Stealing Prompts**|Felix Mächtle et.al.|[2509.09488](http://arxiv.org/abs/2509.09488)|**[link](https://github.com/UzL-ITS/Prompt-Pirate)**|
+|**2025-09-11**|**Prompt Pirates Need a Map: Stealing Seeds helps Stealing Prompts**|Felix Mächtle et.al.|[2509.09488](http://arxiv.org/abs/2509.09488)|null|
 |**2025-09-10**|**Integrating Anatomical Priors into a Causal Diffusion Model**|Binxu Li et.al.|[2509.09054](http://arxiv.org/abs/2509.09054)|null|
-|**2025-09-10**|**Discovering Divergent Representations between Text-to-Image Models**|Lisa Dunlap et.al.|[2509.08940](http://arxiv.org/abs/2509.08940)|**[link](https://github.com/adobe-research/CompCon)**|
+|**2025-09-10**|**Discovering Divergent Representations between Text-to-Image Models**|Lisa Dunlap et.al.|[2509.08940](http://arxiv.org/abs/2509.08940)|null|
 |**2025-09-10**|**RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts**|Lauren H. Cooke et.al.|[2509.08640](http://arxiv.org/abs/2509.08640)|null|
 |**2025-09-10**|**EfficientIML: Efficient High-Resolution Image Manipulation Localization**|Jinhan Li et.al.|[2509.08583](http://arxiv.org/abs/2509.08583)|null|
 |**2025-09-10**|**Physics-Guided Rectified Flow for Low-light RAW Image Enhancement**|Juntai Zeng et.al.|[2509.08330](http://arxiv.org/abs/2509.08330)|null|
@@ -104,6 +109,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis**|Tao Han et.al.|[2509.10441](http://arxiv.org/abs/2509.10441)|null|
+|**2025-09-12**|**Inpainting-Guided Policy Optimization for Diffusion Large Language Models**|Siyan Zhao et.al.|[2509.10396](http://arxiv.org/abs/2509.10396)|null|
+|**2025-09-12**|**GARD: Gamma-based Anatomical Restoration and Denoising for Retinal OCT**|Botond Fazekas et.al.|[2509.10341](http://arxiv.org/abs/2509.10341)|null|
+|**2025-09-12**|**Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching**|Zhixin Zheng et.al.|[2509.10312](http://arxiv.org/abs/2509.10312)|null|
+|**2025-09-12**|**Morphogenetic mechanical metamaterials: Emerging tensor properties from self-organized structures**|Thomas Fromentèze et.al.|[2509.10277](http://arxiv.org/abs/2509.10277)|null|
+|**2025-09-12**|**Mask Consistency Regularization in Object Removal**|Hua Yuan et.al.|[2509.10259](http://arxiv.org/abs/2509.10259)|null|
+|**2025-09-12**|**Computational modeling of diffusive dynamics in a bouncer system with an irregular surface**|Luiz Antonio Barreiro et.al.|[2509.10253](http://arxiv.org/abs/2509.10253)|null|
+|**2025-09-12**|**Phase Transitions for Elephant Random Walks with Two memory Channels**|Krishanu Maulik et.al.|[2509.10225](http://arxiv.org/abs/2509.10225)|null|
+|**2025-09-12**|**Ionospheric Electron Heat Flow Modulates Planetary Ambipolar Electric Fields**|Liangliang Yuan et.al.|[2509.10218](http://arxiv.org/abs/2509.10218)|null|
+|**2025-09-12**|**Subordinators and time-space fractional diffusion equations**|Mohamed Majdoub et.al.|[2509.10203](http://arxiv.org/abs/2509.10203)|null|
 |**2025-09-11**|**Locality in Image Diffusion Models Emerges from Data Statistics**|Artem Lukoianov et.al.|[2509.09672](http://arxiv.org/abs/2509.09672)|null|
 |**2025-09-11**|**Geometric Neural Distance Fields for Learning Human Motion Priors**|Zhengdi Yu et.al.|[2509.09667](http://arxiv.org/abs/2509.09667)|null|
 |**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
@@ -149,6 +164,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**I-Segmenter: Integer-Only Vision Transformer for Efficient Semantic Segmentation**|Jordan Sassoon et.al.|[2509.10334](http://arxiv.org/abs/2509.10334)|null|
+|**2025-09-12**|**Adversarial robustness through Lipschitz-Guided Stochastic Depth in Neural Networks**|Laith Nayal et.al.|[2509.10298](http://arxiv.org/abs/2509.10298)|null|
+|**2025-09-12**|**Neural Scaling Laws for Deep Regression**|Tilen Cadez et.al.|[2509.10000](http://arxiv.org/abs/2509.10000)|null|
+|**2025-09-12**|**ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking**|Siying Liu et.al.|[2509.09977](http://arxiv.org/abs/2509.09977)|null|
+|**2025-09-12**|**An Autoencoder and Vision Transformer-based Interpretability Analysis of the Differences in Automated Staging of Second and Third Molars**|Barkin Buyukcakir et.al.|[2509.09911](http://arxiv.org/abs/2509.09911)|null|
 |**2025-09-11**|**CoAtNeXt:An Attention-Enhanced ConvNeXtV2-Transformer Hybrid Model for Gastric Tissue Classification**|Mustafa Yurdakul et.al.|[2509.09242](http://arxiv.org/abs/2509.09242)|null|
 |**2025-09-11**|**Adaptive Pareto-Optimal Token Merging for Edge Transformer Models in Semantic Communication**|Omar Erak et.al.|[2509.09168](http://arxiv.org/abs/2509.09168)|null|
 |**2025-09-10**|**MoWE : A Mixture of Weather Experts**|Dibyajyoti Chakraborty et.al.|[2509.09052](http://arxiv.org/abs/2509.09052)|null|
@@ -191,8 +211,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-11**|**FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**|Yuchan Jie et.al.|[2509.09427](http://arxiv.org/abs/2509.09427)|**[link](https://github.com/XylonXu01/FS-Diff)**|
-|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|**[link](https://github.com/vivekoommen/Gen4Turbulence)**|
+|**2025-09-12**|**Robustness and Diagnostic Performance of Super-Resolution Fetal Brain MRI**|Ema Masterl et.al.|[2509.10257](http://arxiv.org/abs/2509.10257)|null|
+|**2025-09-12**|**Realism Control One-step Diffusion for Real-World Image Super-Resolution**|Zongliang Wu et.al.|[2509.10122](http://arxiv.org/abs/2509.10122)|null|
+|**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|null|
+|**2025-09-11**|**Images in Motion?: A First Look into Video Leakage in Collaborative Deep Learning**|Md Fazle Rasul et.al.|[2509.09742](http://arxiv.org/abs/2509.09742)|null|
+|**2025-09-11**|**FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**|Yuchan Jie et.al.|[2509.09427](http://arxiv.org/abs/2509.09427)|null|
+|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
 |**2025-09-10**|**Single-frame super-resolution via Sparse Point Optimization**|Xiaofeng Zhang et.al.|[2509.08730](http://arxiv.org/abs/2509.08730)|null|
 |**2025-09-10**|**First-order State Space Model for Lightweight Image Super-resolution**|Yujie Zhu et.al.|[2509.08458](http://arxiv.org/abs/2509.08458)|null|
 |**2025-09-10**|**Hearing the Shape of a Cuboid Room Using Sparse Measure Recovery**|Antoine Deleforge et.al.|[2509.08443](http://arxiv.org/abs/2509.08443)|null|
@@ -214,6 +238,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Self-supervised Learning Of Visual Pose Estimation Without Pose Labels By Classifying LED States**|Nicholas Carlotti et.al.|[2509.10405](http://arxiv.org/abs/2509.10405)|null|
 |**2025-09-10**|**Computational Imaging for Enhanced Computer Vision**|Humera Shaikh et.al.|[2509.08712](http://arxiv.org/abs/2509.08712)|null|
 |**2025-09-10**|**Deep Visual Odometry for Stereo Event Cameras**|Sheng Zhong et.al.|[2509.08235](http://arxiv.org/abs/2509.08235)|null|
 |**2025-09-09**|**Zero-Shot Metric Depth Estimation via Monocular Visual-Inertial Rescaling for Autonomous Aerial Navigation**|Steven Yang et.al.|[2509.08159](http://arxiv.org/abs/2509.08159)|null|
@@ -233,6 +258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**On the Geometric Accuracy of Implicit and Primitive-based Representations Derived from View Rendering Constraints**|Elias De Smijter et.al.|[2509.10241](http://arxiv.org/abs/2509.10241)|null|
 |**2025-09-09**|**RayGaussX: Accelerating Gaussian-Based Ray Marching for Real-Time and High-Quality Novel View Synthesis**|Hugo Blanc et.al.|[2509.07782](http://arxiv.org/abs/2509.07782)|null|
 |**2025-09-09**|**DiGS: Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|null|
 |**2025-09-07**|**MEGS $^{2}$ : Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning**|Jiarui Chen et.al.|[2509.07021](http://arxiv.org/abs/2509.07021)|null|
@@ -251,6 +277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**On the Geometric Accuracy of Implicit and Primitive-based Representations Derived from View Rendering Constraints**|Elias De Smijter et.al.|[2509.10241](http://arxiv.org/abs/2509.10241)|null|
 |**2025-09-09**|**SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting**|Mahtab Dahaghin et.al.|[2509.07809](http://arxiv.org/abs/2509.07809)|null|
 |**2025-09-09**|**HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting**|Yimin Pan et.al.|[2509.07774](http://arxiv.org/abs/2509.07774)|null|
 |**2025-09-09**|**DiGS: Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|null|
