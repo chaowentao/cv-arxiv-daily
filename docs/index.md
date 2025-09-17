@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence**|Zixin Yin et.al.|[2509.12203](http://arxiv.org/abs/2509.12203)|null|
+|**2025-09-15**|**Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking**|Zirui Zheng et.al.|[2509.12046](http://arxiv.org/abs/2509.12046)|null|
+|**2025-09-15**|**Robust Concept Erasure in Diffusion Models: A Theoretical Perspective on Security and Robustness**|Zixuan Fu et.al.|[2509.12024](http://arxiv.org/abs/2509.12024)|null|
+|**2025-09-15**|**Data-driven Smile Design: Personalized Dental Aesthetics Outcomes Using Deep Learning**|Marcus Lin et.al.|[2509.12001](http://arxiv.org/abs/2509.12001)|null|
+|**2025-09-15**|**Do It Yourself (DIY): Modifying Images for Poems in a Zero-Shot Setting Using Weighted Prompt Manipulation**|Sofia Jamil et.al.|[2509.11878](http://arxiv.org/abs/2509.11878)|null|
+|**2025-09-14**|**Beyond Sliders: Mastering the Art of Diffusion-based Image Manipulation**|Yufei Tang et.al.|[2509.11213](http://arxiv.org/abs/2509.11213)|null|
+|**2025-09-13**|**TrueSkin: Towards Fair and Accurate Skin Tone Recognition and Generation**|Haoming Lu et.al.|[2509.10980](http://arxiv.org/abs/2509.10980)|null|
+|**2025-09-13**|**ToMA: Token Merge with Attention for Image Generation with Diffusion Models**|Wenbo Lu et.al.|[2509.10918](http://arxiv.org/abs/2509.10918)|null|
+|**2025-09-12**|**Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration**|Xingchen Wan et.al.|[2509.10704](http://arxiv.org/abs/2509.10704)|null|
 |**2025-09-12**|**InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis**|Tao Han et.al.|[2509.10441](http://arxiv.org/abs/2509.10441)|null|
 |**2025-09-12**|**Immunizing Images from Text to Image Editing via Adversarial Cross-Attention**|Matteo Trippodo et.al.|[2509.10359](http://arxiv.org/abs/2509.10359)|null|
 |**2025-09-12**|**Detecting Text Manipulation in Images using Vision Language Models**|Vidit Vidit et.al.|[2509.10278](http://arxiv.org/abs/2509.10278)|**[link](https://github.com/djdprogramming/adfa2)**|
@@ -109,6 +118,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence**|Zixin Yin et.al.|[2509.12203](http://arxiv.org/abs/2509.12203)|null|
+|**2025-09-15**|**Homogeneous soil moisture fields suppress Sahelian MCS frequency**|Ben Maybee et.al.|[2509.12118](http://arxiv.org/abs/2509.12118)|null|
+|**2025-09-15**|**Predicting Structural Relaxation in Supercooled Small Molecules via Molecular Dynamics Simulations and Microscopic Theory**|Anh D. Phan et.al.|[2509.12092](http://arxiv.org/abs/2509.12092)|null|
+|**2025-09-15**|**Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.|[2509.12079](http://arxiv.org/abs/2509.12079)|null|
+|**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
+|**2025-09-15**|**Robust Concept Erasure in Diffusion Models: A Theoretical Perspective on Security and Robustness**|Zixuan Fu et.al.|[2509.12024](http://arxiv.org/abs/2509.12024)|null|
+|**2025-09-15**|**A shortcut through the macroscopic fluctuation theory: a generalised Fick law**|Théotim Berlioz et.al.|[2509.12017](http://arxiv.org/abs/2509.12017)|null|
+|**2025-09-15**|**Optimization for Massive 3D-RIS Deployment: A Generative Diffusion Model-Based Approach**|Kaining Wang et.al.|[2509.11969](http://arxiv.org/abs/2509.11969)|null|
+|**2025-09-15**|**Learning to Generate 4D LiDAR Sequences**|Ao Liang et.al.|[2509.11959](http://arxiv.org/abs/2509.11959)|null|
+|**2025-09-15**|**Adaptive least-squares space-time finite element methods for convection-diffusion problems**|Christian Köthe et.al.|[2509.11955](http://arxiv.org/abs/2509.11955)|null|
 |**2025-09-12**|**InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis**|Tao Han et.al.|[2509.10441](http://arxiv.org/abs/2509.10441)|null|
 |**2025-09-12**|**Inpainting-Guided Policy Optimization for Diffusion Large Language Models**|Siyan Zhao et.al.|[2509.10396](http://arxiv.org/abs/2509.10396)|null|
 |**2025-09-12**|**GARD: Gamma-based Anatomical Restoration and Denoising for Retinal OCT**|Botond Fazekas et.al.|[2509.10341](http://arxiv.org/abs/2509.10341)|null|
@@ -164,6 +183,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**3DViT-GAT: A Unified Atlas-Based 3D Vision Transformer and Graph Learning Framework for Major Depressive Disorder Detection Using Structural MRI Data**|Nojod M. Alotaibi et.al.|[2509.12143](http://arxiv.org/abs/2509.12143)|null|
+|**2025-09-15**|**A Computer Vision Pipeline for Individual-Level Behavior Analysis: Benchmarking on the Edinburgh Pig Dataset**|Haiyu Yang et.al.|[2509.12047](http://arxiv.org/abs/2509.12047)|null|
+|**2025-09-15**|**MindVL: Towards Efficient and Effective Training of Multimodal Large Language Models on Ascend NPUs**|Feilong Chen et.al.|[2509.11662](http://arxiv.org/abs/2509.11662)|null|
+|**2025-09-14**|**MAUI: Reconstructing Private Client Data in Federated Transfer Learning**|Ahaan Dabholkar et.al.|[2509.11451](http://arxiv.org/abs/2509.11451)|null|
+|**2025-09-14**|**Intelligent Reservoir Decision Support: An Integrated Framework Combining Large Language Models, Advanced Prompt Engineering, and Multimodal Data Fusion for Real-Time Petroleum Operations**|Seyed Kourosh Mahjour et.al.|[2509.11376](http://arxiv.org/abs/2509.11376)|null|
+|**2025-09-13**|**Transformer Networks for Continuous Gravitational-wave Searches**|Prasanna. M. Joshi et.al.|[2509.10912](http://arxiv.org/abs/2509.10912)|null|
+|**2025-09-12**|**Privacy-Preserving Decentralized Federated Learning via Explainable Adaptive Differential Privacy**|Fardin Jalil Piran et.al.|[2509.10691](http://arxiv.org/abs/2509.10691)|null|
+|**2025-09-12**|**Automated Cervical Os Segmentation for Camera-Guided, Speculum-Free Screening**|Aoife McDonald-Bowyer et.al.|[2509.10593](http://arxiv.org/abs/2509.10593)|null|
 |**2025-09-12**|**I-Segmenter: Integer-Only Vision Transformer for Efficient Semantic Segmentation**|Jordan Sassoon et.al.|[2509.10334](http://arxiv.org/abs/2509.10334)|null|
 |**2025-09-12**|**Adversarial robustness through Lipschitz-Guided Stochastic Depth in Neural Networks**|Laith Nayal et.al.|[2509.10298](http://arxiv.org/abs/2509.10298)|null|
 |**2025-09-12**|**Neural Scaling Laws for Deep Regression**|Tilen Cadez et.al.|[2509.10000](http://arxiv.org/abs/2509.10000)|null|
@@ -194,6 +221,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-14**|**ROSGS: Relightable Outdoor Scenes With Gaussian Splatting**|Lianjun Liao et.al.|[2509.11275](http://arxiv.org/abs/2509.11275)|null|
+|**2025-09-14**|**SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion**|Zhiwen Yang et.al.|[2509.11171](http://arxiv.org/abs/2509.11171)|null|
+|**2025-09-14**|**Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.|[2509.11169](http://arxiv.org/abs/2509.11169)|null|
 |**2025-09-09**|**SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting**|Mahtab Dahaghin et.al.|[2509.07809](http://arxiv.org/abs/2509.07809)|null|
 |**2025-09-09**|**DiGS: Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|null|
 |**2025-09-03**|**GS-TG: 3D Gaussian Splatting Accelerator with Tile Grouping for Reducing Redundant Sorting while Preserving Rasterization Efficiency**|Joongho Jo et.al.|[2509.00911](http://arxiv.org/abs/2509.00911)|null|
@@ -211,6 +241,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-14**|**Solving ill-conditioned polynomial equations using score-based priors with application to multi-target detection**|Rafi Beinhorn et.al.|[2509.11397](http://arxiv.org/abs/2509.11397)|null|
+|**2025-09-14**|**SMILE: A Super-resolution Guided Multi-task Learning Method for Hyperspectral Unmixing**|Ruiying Li et.al.|[2509.11093](http://arxiv.org/abs/2509.11093)|null|
+|**2025-09-13**|**Real-Time Super-Resolution Imaging System Based on Zero-Shot Learning for Infrared Non-Destructive Testing**|Pengfei Zhu et.al.|[2509.10902](http://arxiv.org/abs/2509.10902)|null|
+|**2025-09-13**|**A novel IR-SRGAN assisted super-resolution evaluation of photothermal coherence tomography for impact damage in toughened thermoplastic CFRP laminates under room temperature and low temperature**|Pengfei Zhu et.al.|[2509.10894](http://arxiv.org/abs/2509.10894)|null|
+|**2025-09-13**|**CogGNN: Cognitive Graph Neural Networks in Generative Connectomics**|Mayssa Soussia et.al.|[2509.10864](http://arxiv.org/abs/2509.10864)|null|
 |**2025-09-12**|**Robustness and Diagnostic Performance of Super-Resolution Fetal Brain MRI**|Ema Masterl et.al.|[2509.10257](http://arxiv.org/abs/2509.10257)|null|
 |**2025-09-12**|**Realism Control One-step Diffusion for Real-World Image Super-Resolution**|Zongliang Wu et.al.|[2509.10122](http://arxiv.org/abs/2509.10122)|null|
 |**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|null|
@@ -238,6 +273,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation**|Francis Xiatian Zhang et.al.|[2509.11885](http://arxiv.org/abs/2509.11885)|null|
+|**2025-09-14**|**In-Vivo Skin 3-D Surface Reconstruction and Wrinkle Depth Estimation using Handheld High Resolution Tactile Sensing**|Akhil Padmanabha et.al.|[2509.11385](http://arxiv.org/abs/2509.11385)|null|
+|**2025-09-14**|**The System Description of CPS Team for Track on Driving with Language of CVPR 2024 Autonomous Grand Challenge**|Jinghan Peng et.al.|[2509.11071](http://arxiv.org/abs/2509.11071)|null|
 |**2025-09-12**|**Self-supervised Learning Of Visual Pose Estimation Without Pose Labels By Classifying LED States**|Nicholas Carlotti et.al.|[2509.10405](http://arxiv.org/abs/2509.10405)|null|
 |**2025-09-10**|**Computational Imaging for Enhanced Computer Vision**|Humera Shaikh et.al.|[2509.08712](http://arxiv.org/abs/2509.08712)|null|
 |**2025-09-10**|**Deep Visual Odometry for Stereo Event Cameras**|Sheng Zhong et.al.|[2509.08235](http://arxiv.org/abs/2509.08235)|null|
@@ -258,7 +296,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-12**|**On the Geometric Accuracy of Implicit and Primitive-based Representations Derived from View Rendering Constraints**|Elias De Smijter et.al.|[2509.10241](http://arxiv.org/abs/2509.10241)|null|
+|**2025-09-15**|**HoloGarment: 360° Novel View Synthesis of In-the-Wild Garments**|Johanna Karras et.al.|[2509.12187](http://arxiv.org/abs/2509.12187)|null|
+|**2025-09-15**|**Segmentation-Driven Initialization for Sparse-view 3D Gaussian Splatting**|Yi-Hsin Li et.al.|[2509.11853](http://arxiv.org/abs/2509.11853)|null|
+|**2025-09-14**|**SVR-GS: Spatially Variant Regularization for Probabilistic Masks in 3D Gaussian Splatting**|Ashkan Taghipour et.al.|[2509.11116](http://arxiv.org/abs/2509.11116)|null|
+|**2025-09-14**|**WildSmoke: Ready-to-Use Dynamic 3D Smoke Assets from a Single Video in the Wild**|Yuqiu Liu et.al.|[2509.11114](http://arxiv.org/abs/2509.11114)|null|
+|**2025-09-13**|**AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting**|Gurutva Patle et.al.|[2509.11003](http://arxiv.org/abs/2509.11003)|null|
+|**2025-09-15**|**On the Geometric Accuracy of Implicit and Primitive-based Representations Derived from View Rendering Constraints**|Elias De Smijter et.al.|[2509.10241](http://arxiv.org/abs/2509.10241)|null|
 |**2025-09-09**|**RayGaussX: Accelerating Gaussian-Based Ray Marching for Real-Time and High-Quality Novel View Synthesis**|Hugo Blanc et.al.|[2509.07782](http://arxiv.org/abs/2509.07782)|null|
 |**2025-09-09**|**DiGS: Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|null|
 |**2025-09-07**|**MEGS $^{2}$ : Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning**|Jiarui Chen et.al.|[2509.07021](http://arxiv.org/abs/2509.07021)|null|
@@ -277,7 +320,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-12**|**On the Geometric Accuracy of Implicit and Primitive-based Representations Derived from View Rendering Constraints**|Elias De Smijter et.al.|[2509.10241](http://arxiv.org/abs/2509.10241)|null|
+|**2025-09-15**|**Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.12138](http://arxiv.org/abs/2509.12138)|null|
+|**2025-09-15**|**Segmentation-Driven Initialization for Sparse-view 3D Gaussian Splatting**|Yi-Hsin Li et.al.|[2509.11853](http://arxiv.org/abs/2509.11853)|null|
+|**2025-09-15**|**A Controllable 3D Deepfake Generation Framework with Gaussian Splatting**|Wending Liu et.al.|[2509.11624](http://arxiv.org/abs/2509.11624)|null|
+|**2025-09-14**|**On the Skinning of Gaussian Avatars**|Nikolaos Zioulis et.al.|[2509.11411](http://arxiv.org/abs/2509.11411)|null|
+|**2025-09-14**|**ROSGS: Relightable Outdoor Scenes With Gaussian Splatting**|Lianjun Liao et.al.|[2509.11275](http://arxiv.org/abs/2509.11275)|null|
+|**2025-09-14**|**SVR-GS: Spatially Variant Regularization for Probabilistic Masks in 3D Gaussian Splatting**|Ashkan Taghipour et.al.|[2509.11116](http://arxiv.org/abs/2509.11116)|null|
+|**2025-09-13**|**AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting**|Gurutva Patle et.al.|[2509.11003](http://arxiv.org/abs/2509.11003)|null|
+|**2025-09-13**|**Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation**|Yi-Ruei Liu et.al.|[2509.10759](http://arxiv.org/abs/2509.10759)|null|
+|**2025-09-12**|**T2Bs: Text-to-Character Blendshapes via Video Generation**|Jiahao Luo et.al.|[2509.10678](http://arxiv.org/abs/2509.10678)|null|
+|**2025-09-15**|**On the Geometric Accuracy of Implicit and Primitive-based Representations Derived from View Rendering Constraints**|Elias De Smijter et.al.|[2509.10241](http://arxiv.org/abs/2509.10241)|null|
 |**2025-09-09**|**SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting**|Mahtab Dahaghin et.al.|[2509.07809](http://arxiv.org/abs/2509.07809)|null|
 |**2025-09-09**|**HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting**|Yimin Pan et.al.|[2509.07774](http://arxiv.org/abs/2509.07774)|null|
 |**2025-09-09**|**DiGS: Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|null|
