@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.21
+## Updated on 2025.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,11 +19,11 @@ layout: default
 |**2025-09-18**|**Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation**|Xiaoyu Yue et.al.|[2509.15185](http://arxiv.org/abs/2509.15185)|null|
 |**2025-09-18**|**Forecasting and Visualizing Air Quality from Sky Images with Vision-Language Models**|Mohammad Saleh Vahdatpour et.al.|[2509.15076](http://arxiv.org/abs/2509.15076)|null|
 |**2025-09-18**|**AutoEdit: Automatic Hyperparameter Tuning for Image Editing**|Chau Pham et.al.|[2509.15031](http://arxiv.org/abs/2509.15031)|null|
-|**2025-09-18**|**Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for Realistic Underwater Image Generation**|Vasiliki Ismiroglou et.al.|[2509.15011](http://arxiv.org/abs/2509.15011)|**[link](https://github.com/vismiroglou/STSR)**|
+|**2025-09-19**|**Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for Realistic Underwater Image Generation**|Vasiliki Ismiroglou et.al.|[2509.15011](http://arxiv.org/abs/2509.15011)|**[link](https://github.com/vismiroglou/STSR)**|
 |**2025-09-18**|**NeRF-based Visualization of 3D Cues Supporting Data-Driven Spacecraft Pose Estimation**|Antoine Legrand et.al.|[2509.14890](http://arxiv.org/abs/2509.14890)|null|
 |**2025-09-18**|**MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks**|Mingsong Li et.al.|[2509.14638](http://arxiv.org/abs/2509.14638)|null|
 |**2025-09-18**|**Event-LAB: Towards Standardized Evaluation of Neuromorphic Localization Methods**|Adam D. Hines et.al.|[2509.14516](http://arxiv.org/abs/2509.14516)|null|
-|**2025-09-17**|**AToken: A Unified Tokenizer for Vision**|Jiasen Lu et.al.|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
+|**2025-09-19**|**AToken: A Unified Tokenizer for Vision**|Jiasen Lu et.al.|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
 |**2025-09-17**|**GenExam: A Multidisciplinary Text-to-Image Exam**|Zhaokai Wang et.al.|[2509.14232](http://arxiv.org/abs/2509.14232)|null|
 |**2025-09-17**|**An Exploratory Study on Abstract Images and Visual Representations Learned from Them**|Haotian Li et.al.|[2509.14149](http://arxiv.org/abs/2509.14149)|null|
 |**2025-09-17**|**Noise-Level Diffusion Guidance: Well Begun is Half Done**|Harvey Mannering et.al.|[2509.13936](http://arxiv.org/abs/2509.13936)|**[link](https://github.com/harveymannering/NoiseLevelGuidance)**|
@@ -147,7 +147,7 @@ layout: default
 |**2025-09-18**|**WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance**|Chenxi Song et.al.|[2509.15130](http://arxiv.org/abs/2509.15130)|null|
 |**2025-09-18**|**Learning Mechanistic Subtypes of Neurodegeneration with a Physics-Informed Variational Autoencoder Mixture Model**|Sanduni Pinnawala et.al.|[2509.15124](http://arxiv.org/abs/2509.15124)|null|
 |**2025-09-18**|**LOFAR 58 MHz Legacy Survey of the 3CRR Catalog**|J. M. Boxelaar et.al.|[2509.15115](http://arxiv.org/abs/2509.15115)|null|
-|**2025-09-18**|**Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn Dialogue**|Xingyao Lin et.al.|[2509.15061](http://arxiv.org/abs/2509.15061)|null|
+|**2025-09-19**|**Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn Dialogue**|Xingyao Lin et.al.|[2509.15061](http://arxiv.org/abs/2509.15061)|null|
 |**2025-09-18**|**How long does it take an Elephant Random Walk to forget its training**|Zheng Fang et.al.|[2509.15049](http://arxiv.org/abs/2509.15049)|null|
 |**2025-09-17**|**Defending Diffusion Models Against Membership Inference Attacks via Higher-Order Langevin Dynamics**|Benjamin Sterling et.al.|[2509.14225](http://arxiv.org/abs/2509.14225)|null|
 |**2025-09-17**|**Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster IV. A study of the Globular Cluster population in four UDGs**|Marco Mirabile et.al.|[2509.14206](http://arxiv.org/abs/2509.14206)|null|
@@ -354,7 +354,7 @@ layout: default
 |**2025-09-17**|**Gaussian Alignment for Relative Camera Pose Estimation via Single-View Reconstruction**|Yumin Li et.al.|[2509.13652](http://arxiv.org/abs/2509.13652)|null|
 |**2025-09-16**|**ColonCrafter: A Depth Estimation Model for Colonoscopy Videos Using Diffusion Priors**|Romain Hardy et.al.|[2509.13525](http://arxiv.org/abs/2509.13525)|null|
 |**2025-09-18**|**MINGLE: VLMs for Semantically Complex Region Detection in Urban Scenes**|Liu Liu et.al.|[2509.13484](http://arxiv.org/abs/2509.13484)|null|
-|**2025-09-16**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|null|
+|**2025-09-18**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|null|
 |**2025-09-16**|**ROOM: A Physics-Based Continuum Robot Simulator for Photorealistic Medical Datasets Generation**|Salvatore Esposito et.al.|[2509.13177](http://arxiv.org/abs/2509.13177)|null|
 |**2025-09-15**|**BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation**|Francis Xiatian Zhang et.al.|[2509.11885](http://arxiv.org/abs/2509.11885)|null|
 |**2025-09-14**|**In-Vivo Skin 3-D Surface Reconstruction and Wrinkle Depth Estimation using Handheld High Resolution Tactile Sensing**|Akhil Padmanabha et.al.|[2509.11385](http://arxiv.org/abs/2509.11385)|null|
