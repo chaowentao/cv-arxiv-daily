@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
+|**2025-09-24**|**Biologically Plausible Learning via Bidirectional Spike-Based Distillation**|Changze Lv et.al.|[2509.20284](http://arxiv.org/abs/2509.20284)|null|
+|**2025-09-25**|**Does the Manipulation Process Matter? RITA: Reasoning Composite Image Manipulations via Reversely-Ordered Incremental-Transition Autoregression**|Xuekang Zhu et.al.|[2509.20006](http://arxiv.org/abs/2509.20006)|null|
+|**2025-09-24**|**Learnable Sampler Distillation for Discrete Diffusion Models**|Feiyang Fu et.al.|[2509.19962](http://arxiv.org/abs/2509.19962)|**[link](https://github.com/feiyangfu/LSD)**|
+|**2025-09-24**|**FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models**|Xin Wang et.al.|[2509.19870](http://arxiv.org/abs/2509.19870)|null|
+|**2025-09-24**|**CAMILA: Context-Aware Masking for Image Editing with Language Alignment**|Hyunseung Kim et.al.|[2509.19731](http://arxiv.org/abs/2509.19731)|null|
+|**2025-09-24**|**Selective Classifier-free Guidance for Zero-shot Text-to-speech**|John Zheng et.al.|[2509.19668](http://arxiv.org/abs/2509.19668)|null|
+|**2025-09-23**|**Synthesizing Artifact Dataset for Pixel-level Detection**|Dennis Menn et.al.|[2509.19589](http://arxiv.org/abs/2509.19589)|null|
 |**2025-09-23**|**OverLayBench: A Benchmark for Layout-to-Image Generation with Dense Overlaps**|Bingnan Li et.al.|[2509.19282](http://arxiv.org/abs/2509.19282)|null|
 |**2025-09-24**|**Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation**|Shufan Li et.al.|[2509.19244](http://arxiv.org/abs/2509.19244)|null|
 |**2025-09-23**|**One-shot Embroidery Customization via Contrastive LoRA Modulation**|Jun Ma et.al.|[2509.18948](http://arxiv.org/abs/2509.18948)|**[link](https://github.com/Style3D/embroidery_customization-impl)**|
@@ -164,6 +172,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/abs/2509.20358)|null|
+|**2025-09-24**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Remo Steiner et.al.|[2509.20297](http://arxiv.org/abs/2509.20297)|null|
+|**2025-09-24**|**FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis**|Xichen Xu et.al.|[2509.20295](http://arxiv.org/abs/2509.20295)|null|
+|**2025-09-24**|**On Brinkman flows with curvature-induced phase separation in binary mixtures**|Pierluigi Colli et.al.|[2509.20282](http://arxiv.org/abs/2509.20282)|null|
+|**2025-09-24**|**Turing instability and 2-D pattern formation in reaction-diffusion systems derived from kinetic theory**|Stefano Boccelli et.al.|[2509.20268](http://arxiv.org/abs/2509.20268)|null|
+|**2025-09-24**|**Radial Variations in Residence Time Distribution for Pipe Flows**|Etienne Boulais et.al.|[2509.20256](http://arxiv.org/abs/2509.20256)|null|
+|**2025-09-24**|**AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving**|Jinhao Chai et.al.|[2509.20253](http://arxiv.org/abs/2509.20253)|null|
+|**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
+|**2025-09-24**|**KSDiff: Keyframe-Augmented Speech-Aware Dual-Path Diffusion for Facial Animation**|Tianle Lyu et.al.|[2509.20128](http://arxiv.org/abs/2509.20128)|null|
+|**2025-09-24**|**Experiments on geostrophic convection: the role of the Prandtl number**|Hannah M. Clercx et.al.|[2509.20126](http://arxiv.org/abs/2509.20126)|null|
 |**2025-09-23**|**CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target for Better Flow Matching**|Chen Chen et.al.|[2509.19300](http://arxiv.org/abs/2509.19300)|null|
 |**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|null|
 |**2025-09-23**|**A Gradient Flow Approach to Solving Inverse Problems with Latent Diffusion Models**|Tim Y. J. Wang et.al.|[2509.19276](http://arxiv.org/abs/2509.19276)|null|
@@ -289,6 +307,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
+|**2025-09-24**|**EfficienT-HDR: An Efficient Transformer-Based Framework via Multi-Exposure Fusion for HDR Reconstruction**|Yu-Shen Huang et.al.|[2509.19779](http://arxiv.org/abs/2509.19779)|null|
+|**2025-09-24**|**Enhancing Transformer-Based Vision Models: Addressing Feature Map Anomalies Through Novel Optimization Strategies**|Sumit Mamtani et.al.|[2509.19687](http://arxiv.org/abs/2509.19687)|null|
+|**2025-09-23**|**The Platonic Universe: Do Foundation Models See the Same Sky?**|UniverseTBD et.al.|[2509.19453](http://arxiv.org/abs/2509.19453)|null|
 |**2025-09-23**|**Latent Danger Zone: Distilling Unified Attention for Cross-Architecture Black-box Attacks**|Yang Li et.al.|[2509.19044](http://arxiv.org/abs/2509.19044)|null|
 |**2025-09-23**|**Weakly Supervised Food Image Segmentation using Vision Transformers and Segment Anything Model**|Ioannis Sarafis et.al.|[2509.19028](http://arxiv.org/abs/2509.19028)|null|
 |**2025-09-23**|**No Labels Needed: Zero-Shot Image Classification with Collaborative Self-Learning**|Matheus Vinícius Todescato et.al.|[2509.18938](http://arxiv.org/abs/2509.18938)|null|
@@ -392,6 +414,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**An Anisotropic Cross-View Texture Transfer with Multi-Reference Non-Local Attention for CT Slice Interpolation**|Kwang-Hyun Uhm et.al.|[2509.20242](http://arxiv.org/abs/2509.20242)|null|
 |**2025-09-23**|**A Two-Dimensional Super-Resolution Method for Reconfigurable Intelligent Surface-Assisted Near-Field Localization**|Feng Xi et.al.|[2509.18774](http://arxiv.org/abs/2509.18774)|null|
 |**2025-09-23**|**Prompt-Guided Dual Latent Steering for Inversion Problems**|Yichen Wu et.al.|[2509.18619](http://arxiv.org/abs/2509.18619)|null|
 |**2025-09-23**|**SSCM: A Spatial-Semantic Consistent Model for Multi-Contrast MRI Super-Resolution**|Xiaoman Wu et.al.|[2509.18593](http://arxiv.org/abs/2509.18593)|null|
@@ -441,6 +464,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting**|Yixun Zhang et.al.|[2509.19793](http://arxiv.org/abs/2509.19793)|null|
+|**2025-09-24**|**VIMD: Monocular Visual-Inertial Motion and Depth Estimation**|Saimouli Katragadda et.al.|[2509.19713](http://arxiv.org/abs/2509.19713)|null|
+|**2025-09-24**|**Enhancing Transformer-Based Vision Models: Addressing Feature Map Anomalies Through Novel Optimization Strategies**|Sumit Mamtani et.al.|[2509.19687](http://arxiv.org/abs/2509.19687)|null|
 |**2025-09-24**|**An on-chip Pixel Processing Approach with 2.4μs latency for Asynchronous Read-out of SPAD-based dToF Flash LiDARs**|Yiyang Liu et.al.|[2509.19192](http://arxiv.org/abs/2509.19192)|null|
 |**2025-09-23**|**RoSe: Robust Self-supervised Stereo Matching under Adverse Weather Conditions**|Yun Wang et.al.|[2509.19165](http://arxiv.org/abs/2509.19165)|null|
 |**2025-09-23**|**RS3DBench: A Comprehensive Benchmark for 3D Spatial Perception in Remote Sensing**|Jiayu Wang et.al.|[2509.18897](http://arxiv.org/abs/2509.18897)|null|
@@ -489,6 +515,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
 |**2025-09-23**|**VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**|Weijie Wang et.al.|[2509.19297](http://arxiv.org/abs/2509.19297)|null|
 |**2025-09-23**|**Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting**|Zijing Guo et.al.|[2509.18956](http://arxiv.org/abs/2509.18956)|null|
 |**2025-09-23**|**FixingGS: Enhancing 3D Gaussian Splatting via Training-Free Score Distillation**|Zhaorui Wang et.al.|[2509.18759](http://arxiv.org/abs/2509.18759)|null|
@@ -531,6 +558,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
+|**2025-09-24**|**GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes**|Guo Chen et.al.|[2509.19937](http://arxiv.org/abs/2509.19937)|null|
+|**2025-09-24**|**Aerial-Ground Image Feature Matching via 3D Gaussian Splatting-based Intermediate View Rendering**|Jiangxue Yu et.al.|[2509.19898](http://arxiv.org/abs/2509.19898)|null|
+|**2025-09-24**|**BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting**|Yixun Zhang et.al.|[2509.19793](http://arxiv.org/abs/2509.19793)|null|
+|**2025-09-24**|**PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction**|Yufei Han et.al.|[2509.19726](http://arxiv.org/abs/2509.19726)|null|
 |**2025-09-23**|**VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**|Weijie Wang et.al.|[2509.19297](http://arxiv.org/abs/2509.19297)|null|
 |**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|null|
 |**2025-09-23**|**WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction**|Hung Nguyen et.al.|[2509.19073](http://arxiv.org/abs/2509.19073)|null|
