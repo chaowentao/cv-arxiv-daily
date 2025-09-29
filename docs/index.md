@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -25,7 +25,7 @@ layout: default
 |**2025-09-25**|**FreeInsert: Personalized Object Insertion with Geometric and Style Control**|Yuhong Zhang et.al.|[2509.20756](http://arxiv.org/abs/2509.20756)|null|
 |**2025-09-24**|**InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On**|Julien Han et.al.|[2509.20524](http://arxiv.org/abs/2509.20524)|null|
 |**2025-09-24**|**Seedream 4.0: Toward Next-generation Multimodal Image Generation**|Team Seedream et.al.|[2509.20427](http://arxiv.org/abs/2509.20427)|null|
-|**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
+|**2025-09-25**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
 |**2025-09-24**|**Biologically Plausible Learning via Bidirectional Spike-Based Distillation**|Changze Lv et.al.|[2509.20284](http://arxiv.org/abs/2509.20284)|null|
 |**2025-09-25**|**Does the Manipulation Process Matter? RITA: Reasoning Composite Image Manipulations via Reversely-Ordered Incremental-Transition Autoregression**|Xuekang Zhu et.al.|[2509.20006](http://arxiv.org/abs/2509.20006)|null|
 |**2025-09-24**|**Learnable Sampler Distillation for Discrete Diffusion Models**|Feiyang Fu et.al.|[2509.19962](http://arxiv.org/abs/2509.19962)|**[link](https://github.com/feiyangfu/LSD)**|
@@ -183,7 +183,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-25**|**Two ADI compact difference methods for variable-exponent diffusion wave equations**|Hao Zhang et.al.|[2509.21316](http://arxiv.org/abs/2509.21316)|null|
 |**2025-09-25**|**Einstein@Home Searches for Gamma-ray Pulsars in the Inner Galaxy**|C. J. Clark et.al.|[2509.21307](http://arxiv.org/abs/2509.21307)|null|
-|**2025-09-25**|**Outflow-cloud interaction as the possible origin of the peculiar radio emission in the tidal disruption event AT2018cqh**|Lei Yang et.al.|[2509.21299](http://arxiv.org/abs/2509.21299)|null|
+|**2025-09-26**|**Outflow-cloud interaction as the possible origin of the peculiar radio emission in the tidal disruption event AT2018cqh**|Lei Yang et.al.|[2509.21299](http://arxiv.org/abs/2509.21299)|null|
 |**2025-09-25**|**Does FLUX Already Know How to Perform Physically Plausible Image Composition?**|Shilin Lu et.al.|[2509.21278](http://arxiv.org/abs/2509.21278)|null|
 |**2025-09-25**|**Dense Semantic Matching with VGGT Prior**|Songlin Yang et.al.|[2509.21263](http://arxiv.org/abs/2509.21263)|null|
 |**2025-09-25**|**Un-Doubling Diffusion: LLM-guided Disambiguation of Homonym Duplication**|Evgeny Kaskov et.al.|[2509.21262](http://arxiv.org/abs/2509.21262)|null|
@@ -451,7 +451,7 @@ layout: default
 |**2025-09-23**|**Prompt-Guided Dual Latent Steering for Inversion Problems**|Yichen Wu et.al.|[2509.18619](http://arxiv.org/abs/2509.18619)|null|
 |**2025-09-23**|**SSCM: A Spatial-Semantic Consistent Model for Multi-Contrast MRI Super-Resolution**|Xiaoman Wu et.al.|[2509.18593](http://arxiv.org/abs/2509.18593)|null|
 |**2025-09-23**|**Source-Free Domain Adaptive Semantic Segmentation of Remote Sensing Images with Diffusion-Guided Label Enrichment**|Wenjie Liu et.al.|[2509.18502](http://arxiv.org/abs/2509.18502)|null|
-|**2025-09-22**|**Audio Super-Resolution with Latent Bridge Models**|Chang Li et.al.|[2509.17609](http://arxiv.org/abs/2509.17609)|null|
+|**2025-09-26**|**Audio Super-Resolution with Latent Bridge Models**|Chang Li et.al.|[2509.17609](http://arxiv.org/abs/2509.17609)|null|
 |**2025-09-21**|**Super-resolution reconstruction of turbulent flows from a single Lagrangian trajectory**|Hua-Lin Wu et.al.|[2509.17109](http://arxiv.org/abs/2509.17109)|null|
 |**2025-09-21**|**$\mathtt{M^3VIR}$ : A Large-Scale Multi-Modality Multi-View Synthesized Benchmark Dataset for Image Restoration and Content Creation**|Yuanzhi Li et.al.|[2509.16873](http://arxiv.org/abs/2509.16873)|null|
 |**2025-09-20**|**OS-DiffVSR: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution**|Hanting Li et.al.|[2509.16507](http://arxiv.org/abs/2509.16507)|null|
