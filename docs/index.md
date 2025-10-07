@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.06
+## Updated on 2025.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,8 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Product-Quantised Image Representation for High-Quality Image Synthesis**|Denis Zavadski et.al.|[2510.03191](http://arxiv.org/abs/2510.03191)|null|
+|**2025-10-03**|**UniShield: An Adaptive Multi-Agent Framework for Unified Forgery Image Detection and Localization**|Qing Huang et.al.|[2510.03161](http://arxiv.org/abs/2510.03161)|null|
+|**2025-10-03**|**Learning Robust Diffusion Models from Imprecise Supervision**|Dong-Dong Wu et.al.|[2510.03016](http://arxiv.org/abs/2510.03016)|null|
+|**2025-10-03**|**TIT-Score: Evaluating Long-Prompt Based Text-to-Image Alignment via Text-to-Image-to-Text Consistency**|Juntong Wang et.al.|[2510.02987](http://arxiv.org/abs/2510.02987)|null|
+|**2025-10-03**|**PromptMap: Supporting Exploratory Text-to-Image Generation**|Yuhan Guo et.al.|[2510.02814](http://arxiv.org/abs/2510.02814)|null|
+|**2025-10-03**|**OTR: Synthesizing Overlay Text Dataset for Text Removal**|Jan Zdenek et.al.|[2510.02787](http://arxiv.org/abs/2510.02787)|null|
+|**2025-10-03**|**Fine-Tuning Diffusion Models via Intermediate Distribution Shaping**|Gautham Govind Anil et.al.|[2510.02692](http://arxiv.org/abs/2510.02692)|null|
+|**2025-10-03**|**Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models**|Benjamin Yu et.al.|[2510.02654](http://arxiv.org/abs/2510.02654)|null|
 |**2025-10-02**|**NoiseShift: Resolution-Aware Noise Recalibration for Better Low-Resolution Image Generation**|Ruozhen He et.al.|[2510.02307](http://arxiv.org/abs/2510.02307)|null|
-|**2025-10-02**|**Knowledge Distillation Detection for Open-weights Models**|Qin Shi et.al.|[2510.02302](http://arxiv.org/abs/2510.02302)|**[link](https://github.com/shqii1j/distillation_detection)**|
+|**2025-10-02**|**Knowledge Distillation Detection for Open-weights Models**|Qin Shi et.al.|[2510.02302](http://arxiv.org/abs/2510.02302)|null|
 |**2025-10-02**|**Continual Personalization for Diffusion Models**|Yu-Chien Liao et.al.|[2510.02296](http://arxiv.org/abs/2510.02296)|null|
 |**2025-10-02**|**DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing**|Zihan Zhou et.al.|[2510.02253](http://arxiv.org/abs/2510.02253)|null|
 |**2025-10-02**|**Fine-Tuning Flow Matching via Maximum Likelihood Estimation of Reconstructions**|Zhaoyi Li et.al.|[2510.02081](http://arxiv.org/abs/2510.02081)|null|
@@ -177,7 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-12**|**A Robust Epipolar-Domain Regularization Algorithm for Light Field Depth Estimation**|Noor Islam S. Mohammad et.al.|[2508.08900](http://arxiv.org/abs/2508.08900)|null|
+|**2025-10-04**|**Deep Spectral Epipolar Representations for Dense Light Field Reconstruction**|Noor Islam S. Mohammad et.al.|[2508.08900](http://arxiv.org/abs/2508.08900)|null|
 |**2025-05-14**|**Iterative Occlusion-Aware Light Field Depth Estimation using 4D Geometrical Cues**|Rui Lourenço et.al.|[2403.02043](http://arxiv.org/abs/2403.02043)|null|
 |**2023-05-28**|**OccCasNet: Occlusion-aware Cascade Cost Volume for Light Field Depth Estimation**|Wentao Chao et.al.|[2305.17710](http://arxiv.org/abs/2305.17710)|null|
 |**2023-08-18**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang et.al.|[2301.08433](http://arxiv.org/abs/2301.08433)|null|
@@ -222,6 +230,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner**|Cai Zhou et.al.|[2510.03206](http://arxiv.org/abs/2510.03206)|null|
+|**2025-10-03**|**Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft**|Junchao Huang et.al.|[2510.03198](http://arxiv.org/abs/2510.03198)|null|
+|**2025-10-03**|**Product-Quantised Image Representation for High-Quality Image Synthesis**|Denis Zavadski et.al.|[2510.03191](http://arxiv.org/abs/2510.03191)|null|
+|**2025-10-03**|**HESS J1831 $-$ 098 -- Exploring a pulsar halo scenario with H.E.S.S. data**|Karim Sabri et.al.|[2510.03183](http://arxiv.org/abs/2510.03183)|null|
+|**2025-10-03**|**HAVIR: HierArchical Vision to Image Reconstruction using CLIP-Guided Versatile Diffusion**|Shiyi Zhang et.al.|[2510.03122](http://arxiv.org/abs/2510.03122)|null|
+|**2025-10-03**|**Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction**|Kaisi Guan et.al.|[2510.03117](http://arxiv.org/abs/2510.03117)|null|
+|**2025-10-03**|**GeoComplete: Geometry-Aware Diffusion for Reference-Driven Image Completion**|Beibei Lin et.al.|[2510.03110](http://arxiv.org/abs/2510.03110)|null|
+|**2025-10-03**|**Deciphering the radio-star formation correlation on kpc scales. IV. Radio halos of highly-inclined Virgo cluster spiral galaxies**|B. Vollmer et.al.|[2510.03098](http://arxiv.org/abs/2510.03098)|null|
+|**2025-10-03**|**Distilled Protein Backbone Generation**|Liyang Xie et.al.|[2510.03095](http://arxiv.org/abs/2510.03095)|null|
+|**2025-10-03**|**Latent Diffusion Unlearning: Protecting Against Unauthorized Personalization Through Trajectory Shifted Perturbations**|Naresh Kumar Devulapally et.al.|[2510.03089](http://arxiv.org/abs/2510.03089)|null|
 |**2025-10-02**|**Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject Fidelity**|Eric Tillmann Bill et.al.|[2510.02315](http://arxiv.org/abs/2510.02315)|null|
 |**2025-10-02**|**NoiseShift: Resolution-Aware Noise Recalibration for Better Low-Resolution Image Generation**|Ruozhen He et.al.|[2510.02307](http://arxiv.org/abs/2510.02307)|null|
 |**2025-10-02**|**Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive**|Tyler Farghly et.al.|[2510.02305](http://arxiv.org/abs/2510.02305)|null|
@@ -521,6 +539,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**ROGR: Relightable 3D Objects using Generative Relighting**|Jiapeng Tang et.al.|[2510.03163](http://arxiv.org/abs/2510.03163)|null|
 |**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](http://arxiv.org/abs/2510.02314)|null|
 |**2025-10-01**|**Multi-level Dynamic Style Transfer for NeRFs**|Zesheng Li et.al.|[2510.00592](http://arxiv.org/abs/2510.00592)|null|
 |**2025-09-29**|**VGGT-X: When VGGT Meets Dense Novel View Synthesis**|Yang Liu et.al.|[2509.25191](http://arxiv.org/abs/2509.25191)|null|
@@ -561,6 +580,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**PocketSR: The Super-Resolution Expert in Your Pocket Mobiles**|Haoze Sun et.al.|[2510.03012](http://arxiv.org/abs/2510.03012)|null|
 |**2025-10-02**|**Pure-Pass: Fine-Grained, Adaptive Masking for Dynamic Token-Mixing Routing in Lightweight Image Super-Resolution**|Junyu Wu et.al.|[2510.01997](http://arxiv.org/abs/2510.01997)|null|
 |**2025-10-02**|**NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems**|Roman Jacome et.al.|[2510.01608](http://arxiv.org/abs/2510.01608)|null|
 |**2025-10-01**|**InfVSR: Breaking Length Limits of Generic Video Super-Resolution**|Ziqing Zhang et.al.|[2510.00948](http://arxiv.org/abs/2510.00948)|null|
@@ -641,6 +661,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Whisker-based Tactile Flight for Tiny Drones**|Chaoxiang Ye et.al.|[2510.03119](http://arxiv.org/abs/2510.03119)|null|
 |**2025-10-02**|**Non-Rigid Structure-from-Motion via Differential Geometry with Recoverable Conformal Scale**|Yongbo Chen et.al.|[2510.01665](http://arxiv.org/abs/2510.01665)|null|
 |**2025-10-01**|**Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**|Yanbo Xu et.al.|[2510.01184](http://arxiv.org/abs/2510.01184)|null|
 |**2025-09-30**|**DA $^2$ : Depth Anything in Any Direction**|Haodong Li et.al.|[2509.26618](http://arxiv.org/abs/2509.26618)|null|
@@ -710,6 +731,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**FSFSplatter: Build Surface and Novel Views with Sparse-Views within 3min**|Yibin Zhao et.al.|[2510.02691](http://arxiv.org/abs/2510.02691)|null|
 |**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](http://arxiv.org/abs/2510.02314)|null|
 |**2025-10-01**|**Instant4D: 4D Gaussian Splatting in Minutes**|Zhanpeng Luo et.al.|[2510.01119](http://arxiv.org/abs/2510.01119)|null|
 |**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen et.al.|[2509.26621](http://arxiv.org/abs/2509.26621)|null|
@@ -774,6 +796,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei et.al.|[2510.03104](http://arxiv.org/abs/2510.03104)|null|
+|**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
+|**2025-10-03**|**From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting**|Jianing Chen et.al.|[2510.02732](http://arxiv.org/abs/2510.02732)|null|
+|**2025-10-03**|**FSFSplatter: Build Surface and Novel Views with Sparse-Views within 3min**|Yibin Zhao et.al.|[2510.02691](http://arxiv.org/abs/2510.02691)|null|
+|**2025-10-02**|**SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting**|Sung-Yeon Park et.al.|[2510.02469](http://arxiv.org/abs/2510.02469)|null|
 |**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](http://arxiv.org/abs/2510.02314)|null|
 |**2025-10-02**|**Performance-Guided Refinement for Visual Aerial Navigation using Editable Gaussian Splatting in FalconGym 2.0**|Yan Miao et.al.|[2510.02248](http://arxiv.org/abs/2510.02248)|null|
 |**2025-10-02**|**Spec-Gloss Surfels and Normal-Diffuse Priors for Relightable Glossy Objects**|Georgios Kouros et.al.|[2510.02069](http://arxiv.org/abs/2510.02069)|null|
