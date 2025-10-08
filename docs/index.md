@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Factuality Matters: When Image Generation and Editing Meet Structured Visuals**|Le Zhuo et.al.|[2510.05091](http://arxiv.org/abs/2510.05091)|**[link](https://github.com/zhuole1025/Structured-Visuals)**|
+|**2025-10-06**|**SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder**|Ronen Kamenetsky et.al.|[2510.05081](http://arxiv.org/abs/2510.05081)|null|
+|**2025-10-06**|**No-reference Quality Assessment of Contrast-distorted Images using Contrast-enhanced Pseudo Reference**|Mohammad-Ali Mahmoudpour et.al.|[2510.05053](http://arxiv.org/abs/2510.05053)|null|
+|**2025-10-06**|**SONA: Learning Conditional, Unconditional, and Mismatching-Aware Discriminator**|Yuhta Takida et.al.|[2510.04576](http://arxiv.org/abs/2510.04576)|null|
+|**2025-10-06**|**3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG**|Shun-ichiro Hayashi et.al.|[2510.04536](http://arxiv.org/abs/2510.04536)|null|
+|**2025-10-06**|**TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion Sampling**|Hyunmin Cho et.al.|[2510.04533](http://arxiv.org/abs/2510.04533)|null|
+|**2025-10-06**|**Asynchronous Denoising Diffusion Models for Aligning Text-to-Image Generation**|Zijing Hu et.al.|[2510.04504](http://arxiv.org/abs/2510.04504)|null|
+|**2025-10-06**|**TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement**|Hao Fang et.al.|[2510.04483](http://arxiv.org/abs/2510.04483)|null|
+|**2025-10-05**|**ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation**|Jay Zhangjie Wu et.al.|[2510.04290](http://arxiv.org/abs/2510.04290)|null|
+|**2025-10-05**|**MASC: Boosting Autoregressive Image Generation with a Manifold-Aligned Semantic Clustering**|Lixuan He et.al.|[2510.04220](http://arxiv.org/abs/2510.04220)|null|
 |**2025-10-03**|**Product-Quantised Image Representation for High-Quality Image Synthesis**|Denis Zavadski et.al.|[2510.03191](http://arxiv.org/abs/2510.03191)|null|
 |**2025-10-03**|**UniShield: An Adaptive Multi-Agent Framework for Unified Forgery Image Detection and Localization**|Qing Huang et.al.|[2510.03161](http://arxiv.org/abs/2510.03161)|null|
 |**2025-10-03**|**Learning Robust Diffusion Models from Imprecise Supervision**|Dong-Dong Wu et.al.|[2510.03016](http://arxiv.org/abs/2510.03016)|null|
@@ -200,6 +210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-04**|**Deep Spectral Epipolar Representations for Dense Light Field Reconstruction**|Noor Islam S. Mohammad et.al.|[2508.08900](http://arxiv.org/abs/2508.08900)|null|
 |**2025-01-14**|**The photography transforms and their analytic inversion formulas**|Duo Liu et.al.|[2502.02596](http://arxiv.org/abs/2502.02596)|null|
 |**2024-03-15**|**Den-SOFT: Dense Space-Oriented Light Field DataseT for 6-DOF Immersive Experience**|Xiaohang Yu et.al.|[2403.09973](http://arxiv.org/abs/2403.09973)|null|
 |**2024-05-09**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137](http://arxiv.org/abs/2403.01137)|null|
@@ -230,6 +241,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Finish First, Perfect Later: Test-Time Token-Level Cross-Validation for Diffusion Large Language Models**|Runchu Tian et.al.|[2510.05090](http://arxiv.org/abs/2510.05090)|null|
+|**2025-10-06**|**SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder**|Ronen Kamenetsky et.al.|[2510.05081](http://arxiv.org/abs/2510.05081)|null|
+|**2025-10-06**|**SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs**|Dachuan Shi et.al.|[2510.05069](http://arxiv.org/abs/2510.05069)|null|
+|**2025-10-06**|**Spectral Properties of Anomalous Microwave Emission in 144 Galactic Clouds**|Roke Cepeda-Arroita et.al.|[2510.05067](http://arxiv.org/abs/2510.05067)|null|
+|**2025-10-06**|**StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation**|Mingyu Liu et.al.|[2510.05057](http://arxiv.org/abs/2510.05057)|null|
+|**2025-10-06**|**Test-Time Scaling in Diffusion LLMs via Hidden Semi-Autoregressive Experts**|Jihoon Lee et.al.|[2510.05040](http://arxiv.org/abs/2510.05040)|null|
+|**2025-10-06**|**Graph-Aware Diffusion for Signal Generation**|Sergio Rozada et.al.|[2510.05036](http://arxiv.org/abs/2510.05036)|null|
+|**2025-10-06**|**Comparing fine-tuning strategies of MACE machine learning force field for modeling Li-ion diffusion in LiF for batteries**|Nada Alghamdi et.al.|[2510.05020](http://arxiv.org/abs/2510.05020)|null|
+|**2025-10-06**|**Bridging Text and Video Generation: A Survey**|Nilay Kumar et.al.|[2510.04999](http://arxiv.org/abs/2510.04999)|null|
+|**2025-10-06**|**SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization**|Théophane Vallaeys et.al.|[2510.04961](http://arxiv.org/abs/2510.04961)|null|
 |**2025-10-03**|**Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner**|Cai Zhou et.al.|[2510.03206](http://arxiv.org/abs/2510.03206)|null|
 |**2025-10-03**|**Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft**|Junchao Huang et.al.|[2510.03198](http://arxiv.org/abs/2510.03198)|null|
 |**2025-10-03**|**Product-Quantised Image Representation for High-Quality Image Synthesis**|Denis Zavadski et.al.|[2510.03191](http://arxiv.org/abs/2510.03191)|null|
@@ -425,6 +446,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Neuroplastic Modular Framework: Cross-Domain Image Classification of Garbage and Industrial Surfaces**|Debojyoti Ghosh et.al.|[2510.05071](http://arxiv.org/abs/2510.05071)|null|
+|**2025-10-06**|**A Comparative Study of Vision Transformers and CNNs for Few-Shot Rigid Transformation and Fundamental Matrix Estimation**|Alon Kaya et.al.|[2510.04794](http://arxiv.org/abs/2510.04794)|null|
+|**2025-10-05**|**Fit Pixels, Get Labels: Meta-learned Implicit Networks for Image Segmentation**|Kushal Vyas et.al.|[2510.04021](http://arxiv.org/abs/2510.04021)|null|
 |**2025-10-02**|**MMDEW: Multipurpose Multiclass Density Estimation in the Wild**|Villanelle O'Reilly et.al.|[2510.02213](http://arxiv.org/abs/2510.02213)|null|
 |**2025-10-02**|**Towards fairer public transit: Real-time tensor-based multimodal fare evasion and fraud detection**|Peter Wauyo et.al.|[2510.02165](http://arxiv.org/abs/2510.02165)|null|
 |**2025-10-02**|**VGDM: Vision-Guided Diffusion Model for Brain Tumor Detection and Segmentation**|Arman Behnam et.al.|[2510.02086](http://arxiv.org/abs/2510.02086)|null|
@@ -546,7 +570,7 @@ layout: default
 |**2025-10-02**|**GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction**|Huaizhi Qu et.al.|[2509.25075](http://arxiv.org/abs/2509.25075)|null|
 |**2025-09-28**|**From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations**|Javed Ahmad et.al.|[2509.23555](http://arxiv.org/abs/2509.23555)|null|
 |**2025-09-30**|**FM-SIREN & FM-FINER: Nyquist-Informed Frequency Multiplier for Implicit Neural Representation with Periodic Activation**|Mohammed Alsakabi et.al.|[2509.23438](http://arxiv.org/abs/2509.23438)|null|
-|**2025-09-27**|**OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting**|Atakan Topaloglu et.al.|[2509.23258](http://arxiv.org/abs/2509.23258)|null|
+|**2025-10-04**|**OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting**|Atakan Topaloglu et.al.|[2509.23258](http://arxiv.org/abs/2509.23258)|null|
 |**2025-09-23**|**WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction**|Hung Nguyen et.al.|[2509.19073](http://arxiv.org/abs/2509.19073)|null|
 |**2025-09-23**|**Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting**|Zijing Guo et.al.|[2509.18956](http://arxiv.org/abs/2509.18956)|null|
 |**2025-09-22**|**From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes**|Guoxi Huang et.al.|[2509.17789](http://arxiv.org/abs/2509.17789)|null|
@@ -580,6 +604,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Super-resolution of partially coherent bosonic sources**|Joaquín López-Suárez et.al.|[2510.04818](http://arxiv.org/abs/2510.04818)|null|
+|**2025-10-04**|**Super-resolution image projection over an extended depth of field using a diffractive decoder**|Hanlong Chen et.al.|[2510.03938](http://arxiv.org/abs/2510.03938)|null|
+|**2025-10-04**|**SDAKD: Student Discriminator Assisted Knowledge Distillation for Super-Resolution Generative Adversarial Networks**|Nikolaos Kaparinos et.al.|[2510.03870](http://arxiv.org/abs/2510.03870)|null|
+|**2025-10-04**|**Towards Robust and Generalizable Continuous Space-Time Video Super-Resolution with Events**|Shuoyan Wei et.al.|[2510.03833](http://arxiv.org/abs/2510.03833)|null|
+|**2025-10-03**|**Diffusion-Based, Data-Assimilation-Enabled Super-Resolution of Hub-height Winds**|Xiaolong Ma et.al.|[2510.03364](http://arxiv.org/abs/2510.03364)|null|
+|**2025-10-02**|**Inference-Time Search using Side Information for Diffusion-based Image Reconstruction**|Mahdi Farahbakhsh et.al.|[2510.03352](http://arxiv.org/abs/2510.03352)|null|
 |**2025-10-03**|**PocketSR: The Super-Resolution Expert in Your Pocket Mobiles**|Haoze Sun et.al.|[2510.03012](http://arxiv.org/abs/2510.03012)|null|
 |**2025-10-02**|**Pure-Pass: Fine-Grained, Adaptive Masking for Dynamic Token-Mixing Routing in Lightweight Image Super-Resolution**|Junyu Wu et.al.|[2510.01997](http://arxiv.org/abs/2510.01997)|null|
 |**2025-10-02**|**NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems**|Roman Jacome et.al.|[2510.01608](http://arxiv.org/abs/2510.01608)|null|
@@ -661,6 +691,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model**|Peter Van Katwyk et.al.|[2510.05054](http://arxiv.org/abs/2510.05054)|null|
+|**2025-10-06**|**Benchmark on Monocular Metric Depth Estimation in Wildlife Setting**|Niccolò Niccoli et.al.|[2510.04723](http://arxiv.org/abs/2510.04723)|null|
+|**2025-10-04**|**Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics**|Hanwen Zhang et.al.|[2510.03750](http://arxiv.org/abs/2510.03750)|null|
 |**2025-10-03**|**Whisker-based Tactile Flight for Tiny Drones**|Chaoxiang Ye et.al.|[2510.03119](http://arxiv.org/abs/2510.03119)|null|
 |**2025-10-02**|**Non-Rigid Structure-from-Motion via Differential Geometry with Recoverable Conformal Scale**|Yongbo Chen et.al.|[2510.01665](http://arxiv.org/abs/2510.01665)|null|
 |**2025-10-01**|**Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**|Yanbo Xu et.al.|[2510.01184](http://arxiv.org/abs/2510.01184)|null|
@@ -731,6 +764,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Did you just see that? Arbitrary view synthesis for egocentric replay of operating room workflows from ambient sensors**|Han Zhang et.al.|[2510.04802](http://arxiv.org/abs/2510.04802)|null|
+|**2025-10-05**|**RAP: 3D Rasterization Augmented End-to-End Planning**|Lan Feng et.al.|[2510.04333](http://arxiv.org/abs/2510.04333)|null|
+|**2025-10-05**|**Scaling Sequence-to-Sequence Generative Neural Rendering**|Shikun Liu et.al.|[2510.04236](http://arxiv.org/abs/2510.04236)|null|
 |**2025-10-03**|**FSFSplatter: Build Surface and Novel Views with Sparse-Views within 3min**|Yibin Zhao et.al.|[2510.02691](http://arxiv.org/abs/2510.02691)|null|
 |**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](http://arxiv.org/abs/2510.02314)|null|
 |**2025-10-01**|**Instant4D: 4D Gaussian Splatting in Minutes**|Zhanpeng Luo et.al.|[2510.01119](http://arxiv.org/abs/2510.01119)|null|
@@ -796,6 +832,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee et.al.|[2510.03857](http://arxiv.org/abs/2510.03857)|null|
+|**2025-10-03**|**SketchPlan: Diffusion Based Drone Planning From Human Sketches**|Sixten Norelius et.al.|[2510.03545](http://arxiv.org/abs/2510.03545)|null|
 |**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei et.al.|[2510.03104](http://arxiv.org/abs/2510.03104)|null|
 |**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
 |**2025-10-03**|**From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting**|Jianing Chen et.al.|[2510.02732](http://arxiv.org/abs/2510.02732)|null|
