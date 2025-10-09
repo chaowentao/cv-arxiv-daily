@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-06**|**Factuality Matters: When Image Generation and Editing Meet Structured Visuals**|Le Zhuo et.al.|[2510.05091](http://arxiv.org/abs/2510.05091)|**[link](https://github.com/zhuole1025/Structured-Visuals)**|
+|**2025-10-07**|**Diffusion-Based Image Editing for Breaking Robust Watermarks**|Yunyi Ni et.al.|[2510.05978](http://arxiv.org/abs/2510.05978)|null|
+|**2025-10-07**|**$\bf{D^3}$ QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection**|Yanran Zhang et.al.|[2510.05891](http://arxiv.org/abs/2510.05891)|null|
+|**2025-10-07**|**Vipera: Blending Visual and LLM-Driven Guidance for Systematic Auditing of Text-to-Image Generative AI**|Yanwei Huang et.al.|[2510.05742](http://arxiv.org/abs/2510.05742)|null|
+|**2025-10-07**|**Beyond Spectral Peaks: Interpreting the Cues Behind Synthetic Image Detection**|Sara Mandelli et.al.|[2510.05633](http://arxiv.org/abs/2510.05633)|null|
+|**2025-10-07**|**Efficient Conditional Generation on Scale-based Visual Autoregressive Models**|Jiaqi Liu et.al.|[2510.05610](http://arxiv.org/abs/2510.05610)|null|
+|**2025-10-07**|**Improving Chain-of-Thought Efficiency for Autoregressive Image Generation**|Zeqi Gu et.al.|[2510.05593](http://arxiv.org/abs/2510.05593)|null|
+|**2025-10-06**|**Factuality Matters: When Image Generation and Editing Meet Structured Visuals**|Le Zhuo et.al.|[2510.05091](http://arxiv.org/abs/2510.05091)|null|
 |**2025-10-06**|**SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder**|Ronen Kamenetsky et.al.|[2510.05081](http://arxiv.org/abs/2510.05081)|null|
 |**2025-10-06**|**No-reference Quality Assessment of Contrast-distorted Images using Contrast-enhanced Pseudo Reference**|Mohammad-Ali Mahmoudpour et.al.|[2510.05053](http://arxiv.org/abs/2510.05053)|null|
 |**2025-10-06**|**SONA: Learning Conditional, Unconditional, and Mismatching-Aware Discriminator**|Yuhta Takida et.al.|[2510.04576](http://arxiv.org/abs/2510.04576)|null|
@@ -241,6 +247,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Fine-grained Defocus Blur Control for Generative Image Models**|Ayush Shrivastava et.al.|[2510.06215](http://arxiv.org/abs/2510.06215)|null|
+|**2025-10-07**|**On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond**|Chenxiao Yang et.al.|[2510.06190](http://arxiv.org/abs/2510.06190)|null|
+|**2025-10-07**|**Thermodynamic Performance Limits for Score-Based Diffusion Models**|Nathan X. Kodama et.al.|[2510.06174](http://arxiv.org/abs/2510.06174)|null|
+|**2025-10-07**|**Bimanual 3D Hand Motion and Articulation Forecasting in Everyday Images**|Aditya Prakash et.al.|[2510.06145](http://arxiv.org/abs/2510.06145)|null|
+|**2025-10-07**|**CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits**|Kangyu Wang et.al.|[2510.06133](http://arxiv.org/abs/2510.06133)|null|
+|**2025-10-07**|**Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation**|Jiawei Mao et.al.|[2510.06131](http://arxiv.org/abs/2510.06131)|null|
+|**2025-10-07**|**Phase-induced switching of ferromagnetic insulators in Josephson spin valves**|A. A. Mazanik et.al.|[2510.06109](http://arxiv.org/abs/2510.06109)|null|
+|**2025-10-07**|**Complete Synchronization and Pattern Selection through Amplitude Dynamics and Diffusion in Heterogeneous Oscillatory Media**|Nicolas Thomé et.al.|[2510.06083](http://arxiv.org/abs/2510.06083)|null|
+|**2025-10-07**|**Mechanistic-statistical inference of mosquito dynamics from mark-release-recapture data**|Nga Nguyen et.al.|[2510.06080](http://arxiv.org/abs/2510.06080)|null|
+|**2025-10-07**|**Controllable Audio-Visual Viewpoint Generation from 360° Spatial Information**|Christian Marinoni et.al.|[2510.06060](http://arxiv.org/abs/2510.06060)|null|
 |**2025-10-06**|**Finish First, Perfect Later: Test-Time Token-Level Cross-Validation for Diffusion Large Language Models**|Runchu Tian et.al.|[2510.05090](http://arxiv.org/abs/2510.05090)|null|
 |**2025-10-06**|**SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder**|Ronen Kamenetsky et.al.|[2510.05081](http://arxiv.org/abs/2510.05081)|null|
 |**2025-10-06**|**SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs**|Dachuan Shi et.al.|[2510.05069](http://arxiv.org/abs/2510.05069)|null|
@@ -446,6 +462,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**There is More to Attention: Statistical Filtering Enhances Explanations in Vision Transformers**|Meghna P Ayyar et.al.|[2510.06070](http://arxiv.org/abs/2510.06070)|null|
+|**2025-10-07**|**Leveraging Vision Transformers for Enhanced Classification of Emotions using ECG Signals**|Pubudu L. Indrasiri et.al.|[2510.05826](http://arxiv.org/abs/2510.05826)|null|
+|**2025-10-07**|**Context Matters: Learning Global Semantics for Visual Reasoning and Comprehension**|Jike Zhong et.al.|[2510.05674](http://arxiv.org/abs/2510.05674)|null|
 |**2025-10-06**|**Neuroplastic Modular Framework: Cross-Domain Image Classification of Garbage and Industrial Surfaces**|Debojyoti Ghosh et.al.|[2510.05071](http://arxiv.org/abs/2510.05071)|null|
 |**2025-10-06**|**A Comparative Study of Vision Transformers and CNNs for Few-Shot Rigid Transformation and Fundamental Matrix Estimation**|Alon Kaya et.al.|[2510.04794](http://arxiv.org/abs/2510.04794)|null|
 |**2025-10-05**|**Fit Pixels, Get Labels: Meta-learned Implicit Networks for Image Segmentation**|Kushal Vyas et.al.|[2510.04021](http://arxiv.org/abs/2510.04021)|null|
@@ -604,6 +623,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|[2510.06098](http://arxiv.org/abs/2510.06098)|null|
+|**2025-10-07**|**Universal super-resolution framework for imaging of quantum dots**|Dominik Vašinka et.al.|[2510.06076](http://arxiv.org/abs/2510.06076)|null|
+|**2025-10-07**|**Rasterized Steered Mixture of Experts for Efficient 2D Image Regression**|Yi-Hsin Li et.al.|[2510.05814](http://arxiv.org/abs/2510.05814)|null|
+|**2025-10-07**|**Mapping complex optical light field distributions with single fluorescent molecules**|Daniel Marx et.al.|[2510.05791](http://arxiv.org/abs/2510.05791)|null|
 |**2025-10-06**|**Super-resolution of partially coherent bosonic sources**|Joaquín López-Suárez et.al.|[2510.04818](http://arxiv.org/abs/2510.04818)|null|
 |**2025-10-04**|**Super-resolution image projection over an extended depth of field using a diffractive decoder**|Hanlong Chen et.al.|[2510.03938](http://arxiv.org/abs/2510.03938)|null|
 |**2025-10-04**|**SDAKD: Student Discriminator Assisted Knowledge Distillation for Super-Resolution Generative Adversarial Networks**|Nikolaos Kaparinos et.al.|[2510.03870](http://arxiv.org/abs/2510.03870)|null|
@@ -691,6 +714,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
+|**2025-10-07**|**EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark**|Deheng Zhang et.al.|[2510.06218](http://arxiv.org/abs/2510.06218)|null|
+|**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](http://arxiv.org/abs/2510.06216)|null|
+|**2025-10-07**|**DeLTa: Demonstration and Language-Guided Novel Transparent Object Manipulation**|Taeyeop Lee et.al.|[2510.05662](http://arxiv.org/abs/2510.05662)|null|
+|**2025-10-08**|**Human Action Recognition from Point Clouds over Time**|James Dickens et.al.|[2510.05506](http://arxiv.org/abs/2510.05506)|null|
 |**2025-10-06**|**HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model**|Peter Van Katwyk et.al.|[2510.05054](http://arxiv.org/abs/2510.05054)|null|
 |**2025-10-06**|**Benchmark on Monocular Metric Depth Estimation in Wildlife Setting**|Niccolò Niccoli et.al.|[2510.04723](http://arxiv.org/abs/2510.04723)|null|
 |**2025-10-04**|**Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics**|Hanwen Zhang et.al.|[2510.03750](http://arxiv.org/abs/2510.03750)|null|
@@ -773,7 +801,7 @@ layout: default
 |**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen et.al.|[2509.26621](http://arxiv.org/abs/2509.26621)|null|
 |**2025-09-30**|**EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models**|Seamie Hayes et.al.|[2509.26087](http://arxiv.org/abs/2509.26087)|null|
 |**2025-09-30**|**LLM-Powered Code Analysis and Optimization for Gaussian Splatting Kernels**|Yi Hu et.al.|[2509.25626](http://arxiv.org/abs/2509.25626)|null|
-|**2025-09-29**|**VGGT-X: When VGGT Meets Dense Novel View Synthesis**|Yang Liu et.al.|[2509.25191](http://arxiv.org/abs/2509.25191)|null|
+|**2025-10-08**|**VGGT-X: When VGGT Meets Dense Novel View Synthesis**|Yang Liu et.al.|[2509.25191](http://arxiv.org/abs/2509.25191)|null|
 |**2025-09-29**|**Triangle Splatting+: Differentiable Rendering with Opaque Triangles**|Jan Held et.al.|[2509.25122](http://arxiv.org/abs/2509.25122)|null|
 |**2025-09-29**|**LVT: Large-Scale Scene Reconstruction via Local View Transformers**|Tooba Imtiaz et.al.|[2509.25001](http://arxiv.org/abs/2509.25001)|null|
 |**2025-09-29**|**DWGS: Enhancing Sparse-View Gaussian Splatting with Hybrid-Loss Depth Estimation and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
@@ -832,6 +860,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars**|Peizhi Yan et.al.|[2510.05488](http://arxiv.org/abs/2510.05488)|null|
 |**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee et.al.|[2510.03857](http://arxiv.org/abs/2510.03857)|null|
 |**2025-10-03**|**SketchPlan: Diffusion Based Drone Planning From Human Sketches**|Sixten Norelius et.al.|[2510.03545](http://arxiv.org/abs/2510.03545)|null|
 |**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei et.al.|[2510.03104](http://arxiv.org/abs/2510.03104)|null|
