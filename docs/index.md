@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-13**|**DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training**|Haoran Feng et.al.|[2510.11712](http://arxiv.org/abs/2510.11712)|**[link](https://github.com/Insta360-Research-Team/DiT360)**|
+|**2025-10-14**|**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**|Kevin Li et.al.|[2510.12789](http://arxiv.org/abs/2510.12789)|null|
+|**2025-10-14**|**Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning**|Xingang Guo et.al.|[2510.12712](http://arxiv.org/abs/2510.12712)|null|
+|**2025-10-14**|**LayerSync: Self-aligning Intermediate Layers**|Yasaman Haghighi et.al.|[2510.12581](http://arxiv.org/abs/2510.12581)|null|
+|**2025-10-14**|**Local Background Features Matter in Out-of-Distribution Detection**|Jinlun Ye et.al.|[2510.12259](http://arxiv.org/abs/2510.12259)|null|
+|**2025-10-14**|**BIGFix: Bidirectional Image Generation with Token Fixing**|Victor Besnier et.al.|[2510.12231](http://arxiv.org/abs/2510.12231)|null|
+|**2025-10-14**|**Hierarchical Koopman Diffusion: Fast Generation with Interpretable Diffusion Trajectory**|Hanru Bai et.al.|[2510.12220](http://arxiv.org/abs/2510.12220)|null|
+|**2025-10-14**|**ImageSentinel: Protecting Visual Datasets from Unauthorized Retrieval-Augmented Image Generation**|Ziyuan Luo et.al.|[2510.12119](http://arxiv.org/abs/2510.12119)|null|
+|**2025-10-15**|**Improving Text-to-Image Generation with Input-Side Inference-Time Scaling**|Ruibo Chen et.al.|[2510.12041](http://arxiv.org/abs/2510.12041)|null|
+|**2025-10-13**|**Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements**|Brett Levac et.al.|[2510.11964](http://arxiv.org/abs/2510.11964)|null|
+|**2025-10-13**|**DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training**|Haoran Feng et.al.|[2510.11712](http://arxiv.org/abs/2510.11712)|null|
 |**2025-10-13**|**Diffusion Transformers with Representation Autoencoders**|Boyang Zheng et.al.|[2510.11690](http://arxiv.org/abs/2510.11690)|**[link](https://github.com/bytetriper/RAE)**|
 |**2025-10-13**|**InfiniHuman: Infinite 3D Human Creation with Precise Control**|Yuxuan Xue et.al.|[2510.11650](http://arxiv.org/abs/2510.11650)|**[link](https://github.com/YuxuanSnow/InfiniHuman)**|
 |**2025-10-13**|**Uncertainty-Aware ControlNet: Bridging Domain Gaps with Synthetic Image Generation**|Joshua Niemeijer et.al.|[2510.11346](http://arxiv.org/abs/2510.11346)|null|
@@ -281,6 +290,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving**|Yingyan Li et.al.|[2510.12796](http://arxiv.org/abs/2510.12796)|null|
+|**2025-10-14**|**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**|Kevin Li et.al.|[2510.12789](http://arxiv.org/abs/2510.12789)|null|
+|**2025-10-14**|**MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars**|Felix Taubner et.al.|[2510.12785](http://arxiv.org/abs/2510.12785)|null|
+|**2025-10-14**|**FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution**|Junhao Zhuang et.al.|[2510.12747](http://arxiv.org/abs/2510.12747)|null|
+|**2025-10-14**|**Oxygen-vacancy-induced Raman softening in the catalyst Fe $_2$(MoO$_4$)$_3$**|Young-Joon Song et.al.|[2510.12746](http://arxiv.org/abs/2510.12746)|null|
+|**2025-10-14**|**T(R,O) Grasp: Efficient Graph Diffusion of Robot-Object Spatial Transformation for Cross-Embodiment Dexterous Grasping**|Xin Fei et.al.|[2510.12724](http://arxiv.org/abs/2510.12724)|null|
+|**2025-10-14**|**DiffEM: Learning from Corrupted Data with Diffusion Models via Expectation Maximization**|Danial Hosseintabar et.al.|[2510.12691](http://arxiv.org/abs/2510.12691)|null|
+|**2025-10-14**|**Moment-based Posterior Sampling for Multi-reference Alignment**|Axel Janson et.al.|[2510.12651](http://arxiv.org/abs/2510.12651)|null|
+|**2025-10-14**|**Contraction and entropy production in continuous-time Sinkhorn dynamics**|Anand Srinivasan et.al.|[2510.12639](http://arxiv.org/abs/2510.12639)|null|
+|**2025-10-14**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|
 |**2025-10-13**|**Point Prompting: Counterfactual Tracking with Video Diffusion Models**|Ayush Shrivastava et.al.|[2510.11715](http://arxiv.org/abs/2510.11715)|null|
 |**2025-10-13**|**Diffusion Transformers with Representation Autoencoders**|Boyang Zheng et.al.|[2510.11690](http://arxiv.org/abs/2510.11690)|null|
 |**2025-10-14**|**Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models**|Nianyi Lin et.al.|[2510.11683](http://arxiv.org/abs/2510.11683)|null|
@@ -536,6 +555,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Hybrid Explanation-Guided Learning for Transformer-Based Chest X-Ray Diagnosis**|Shelley Zixin Shu et.al.|[2510.12704](http://arxiv.org/abs/2510.12704)|null|
+|**2025-10-14**|**On the Use of Hierarchical Vision Foundation Models for Low-Cost Human Mesh Recovery and Pose Estimation**|Shuhei Tarashima et.al.|[2510.12660](http://arxiv.org/abs/2510.12660)|null|
+|**2025-10-14**|**Hybrid Vision Transformer and Quantum Convolutional Neural Network for Image Classification**|Mingzhu Wang et.al.|[2510.12291](http://arxiv.org/abs/2510.12291)|null|
+|**2025-10-14**|**SpikePool: Event-driven Spiking Transformer with Pooling Attention**|Donghyun Lee et.al.|[2510.12102](http://arxiv.org/abs/2510.12102)|null|
+|**2025-10-13**|**Evaluating the Explainability of Vision Transformers in Medical Imaging**|Leili Barekatain et.al.|[2510.12021](http://arxiv.org/abs/2510.12021)|null|
 |**2025-10-13**|**Comparing Symmetrized Determinant Neural Quantum States for the Hubbard Model**|Louis Sharma et.al.|[2510.11710](http://arxiv.org/abs/2510.11710)|null|
 |**2025-10-14**|**Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|[2510.11576](http://arxiv.org/abs/2510.11576)|null|
 |**2025-10-13**|**ILD-VIT: A Unified Vision Transformer Architecture for Detection of Interstitial Lung Disease from Respiratory Sounds**|Soubhagya Ranjan Hota et.al.|[2510.11458](http://arxiv.org/abs/2510.11458)|null|
@@ -724,6 +748,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Efficient Perceptual Image Super Resolution: AIM 2025 Study and Benchmark**|Bruno Longarela et.al.|[2510.12765](http://arxiv.org/abs/2510.12765)|null|
+|**2025-10-14**|**FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution**|Junhao Zhuang et.al.|[2510.12747](http://arxiv.org/abs/2510.12747)|null|
+|**2025-10-14**|**Time-Correlated Video Bridge Matching**|Viacheslav Vasilev et.al.|[2510.12453](http://arxiv.org/abs/2510.12453)|null|
+|**2025-10-14**|**Probabilistic Super-Resolution for Urban Micrometeorology via a Schrödinger Bridge**|Yuki Yasuda et.al.|[2510.12148](http://arxiv.org/abs/2510.12148)|null|
 |**2025-10-13**|**A review of cultural heritage inspection: Toward terahertz from mid-infrared region**|Pengfei Zhu et.al.|[2510.11521](http://arxiv.org/abs/2510.11521)|null|
 |**2025-10-11**|**Are Video Models Emerging as Zero-Shot Learners and Reasoners in Medical Imaging?**|Yuxiang Lai et.al.|[2510.10254](http://arxiv.org/abs/2510.10254)|null|
 |**2025-10-11**|**Average Kernel Sizes -- Computable Sharp Accuracy Bounds for Inverse Problems**|Nina M. Gottschling et.al.|[2510.10229](http://arxiv.org/abs/2510.10229)|null|
@@ -832,6 +860,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization**|Wenpu Li et.al.|[2510.12753](http://arxiv.org/abs/2510.12753)|null|
+|**2025-10-14**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li et.al.|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
 |**2025-10-13**|**Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**|Jean-Paul Travert et.al.|[2510.11305](http://arxiv.org/abs/2510.11305)|null|
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
 |**2025-10-10**|**Fast Self-Supervised depth and mask aware Association for Multi-Object Tracking**|Milad Khanchi et.al.|[2510.09878](http://arxiv.org/abs/2510.09878)|null|
@@ -921,6 +951,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**SPORTS: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding**|Zhiliu Yang et.al.|[2510.12749](http://arxiv.org/abs/2510.12749)|null|
+|**2025-10-14**|**Scene Coordinate Reconstruction Priors**|Wenjing Bian et.al.|[2510.12387](http://arxiv.org/abs/2510.12387)|null|
+|**2025-10-14**|**Hybrid Gaussian Splatting for Novel Urban View Synthesis**|Mohamed Omran et.al.|[2510.12308](http://arxiv.org/abs/2510.12308)|null|
 |**2025-10-13**|**VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment**|Qing Li et.al.|[2510.11473](http://arxiv.org/abs/2510.11473)|null|
 |**2025-10-13**|**MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference**|Wenyuan Zhang et.al.|[2510.11387](http://arxiv.org/abs/2510.11387)|null|
 |**2025-10-12**|**WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting**|Yifan Liu et.al.|[2510.10726](http://arxiv.org/abs/2510.10726)|null|
@@ -1007,6 +1040,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction**|Fengzhi Guo et.al.|[2510.12768](http://arxiv.org/abs/2510.12768)|null|
+|**2025-10-14**|**BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring**|An Zhao et.al.|[2510.12493](http://arxiv.org/abs/2510.12493)|null|
+|**2025-10-14**|**Hybrid Gaussian Splatting for Novel Urban View Synthesis**|Mohamed Omran et.al.|[2510.12308](http://arxiv.org/abs/2510.12308)|null|
+|**2025-10-14**|**PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes**|Ying A et.al.|[2510.12282](http://arxiv.org/abs/2510.12282)|null|
+|**2025-10-14**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|Yusen Xie et.al.|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
+|**2025-10-14**|**G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior**|Junfeng Ni et.al.|[2510.12099](http://arxiv.org/abs/2510.12099)|null|
+|**2025-10-13**|**GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality**|Anastasiya Pechko et.al.|[2510.11878](http://arxiv.org/abs/2510.11878)|null|
 |**2025-10-13**|**Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams**|Takuya Nakabayashi et.al.|[2510.11717](http://arxiv.org/abs/2510.11717)|null|
 |**2025-10-13**|**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**|Maggie Wang et.al.|[2510.11689](http://arxiv.org/abs/2510.11689)|null|
 |**2025-10-13**|**VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment**|Qing Li et.al.|[2510.11473](http://arxiv.org/abs/2510.11473)|null|
