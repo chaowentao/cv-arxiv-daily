@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -30,8 +30,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|**[link](https://github.com/Cominclip/OmniVerifier)**|
+|**2025-10-15**|**Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation**|Yifu Luo et.al.|[2510.13418](http://arxiv.org/abs/2510.13418)|null|
+|**2025-10-15**|**End-to-End Multi-Modal Diffusion Mamba**|Chunhao Lu et.al.|[2510.13253](http://arxiv.org/abs/2510.13253)|null|
+|**2025-10-15**|**Counting Hallucinations in Diffusion Models**|Shuai Fu et.al.|[2510.13080](http://arxiv.org/abs/2510.13080)|**[link](https://github.com/ShyFoo/CountHallu-Diff)**|
 |**2025-10-14**|**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**|Kevin Li et.al.|[2510.12789](http://arxiv.org/abs/2510.12789)|null|
-|**2025-10-14**|**Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning**|Xingang Guo et.al.|[2510.12712](http://arxiv.org/abs/2510.12712)|null|
+|**2025-10-16**|**Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning**|Xingang Guo et.al.|[2510.12712](http://arxiv.org/abs/2510.12712)|null|
 |**2025-10-14**|**LayerSync: Self-aligning Intermediate Layers**|Yasaman Haghighi et.al.|[2510.12581](http://arxiv.org/abs/2510.12581)|null|
 |**2025-10-14**|**Local Background Features Matter in Out-of-Distribution Detection**|Jinlun Ye et.al.|[2510.12259](http://arxiv.org/abs/2510.12259)|null|
 |**2025-10-14**|**BIGFix: Bidirectional Image Generation with Token Fixing**|Victor Besnier et.al.|[2510.12231](http://arxiv.org/abs/2510.12231)|null|
@@ -237,7 +241,7 @@
 |**2025-09-05**|**Improving Spatial Resolution of Background Oriented Schlieren Based on Directional Rays**|Xiang Li et.al.|[2509.04992](http://arxiv.org/abs/2509.04992)|null|
 |**2025-09-05**|**STADI: Fine-Grained Step-Patch Diffusion Parallelism for Heterogeneous GPUs**|Han Liang et.al.|[2509.04719](http://arxiv.org/abs/2509.04719)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Light Field Super Resolution
 
@@ -256,7 +260,7 @@
 |**2022-10-09**|**Learning Texture Transformer Network for Light Field Super-Resolution**|Javeria Shabbir et.al.|[2210.09293](http://arxiv.org/abs/2210.09293)|null|
 |**2022-07-26**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894](http://arxiv.org/abs/2207.11894)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Light Field Depth Estimation
 
@@ -273,7 +277,7 @@
 |**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576](http://arxiv.org/abs/2203.01576)|null|
 |**2022-01-24**|**Occlusion-aware Unsupervised Learning of Depth from 4-D Light Fields**|Jing Jin et.al.|[2106.03043](http://arxiv.org/abs/2106.03043)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Light Field View Synthesis
 
@@ -291,7 +295,7 @@
 |**2022-04-26**|**Acquiring a Dynamic Light Field through a Single-Shot Coded Image**|Ryoya Mizuno et.al.|[2204.12089](http://arxiv.org/abs/2204.12089)|null|
 |**2022-04-01**|**Epipolar Focus Spectrum: A Novel Light Field Representation and Application in Dense-view Reconstruction**|Yaning Li et.al.|[2204.00193](http://arxiv.org/abs/2204.00193)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Light Field Other Applications
 
@@ -308,12 +312,22 @@
 |**2019-03-31**|**Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network**|Jonathan Samuel Lumentut et.al.|[1904.00352](http://arxiv.org/abs/1904.00352)|null|
 |**2017-12-20**|**Light Field Segmentation From Super-pixel Graph Representation**|Xianqiang Lv et.al.|[1712.07394](http://arxiv.org/abs/1712.07394)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models**|Nir Goren et.al.|[2510.13793](http://arxiv.org/abs/2510.13793)|null|
+|**2025-10-15**|**Adaptive Visual Conditioning for Semantic Consistency in Diffusion-Based Story Continuation**|Seyed Mohammad Mousavi et.al.|[2510.13787](http://arxiv.org/abs/2510.13787)|null|
+|**2025-10-15**|**PriorGuide: Test-Time Prior Adaptation for Simulation-Based Inference**|Yang Yang et.al.|[2510.13763](http://arxiv.org/abs/2510.13763)|null|
+|**2025-10-15**|**Strong solution for polymeric fluid-structure interaction with small initial acceleration**|Prince Romeo Mensah et.al.|[2510.13753](http://arxiv.org/abs/2510.13753)|null|
+|**2025-10-15**|**UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy**|Tianshuo Xu et.al.|[2510.13745](http://arxiv.org/abs/2510.13745)|null|
+|**2025-10-15**|**Comparing subgrid models for cosmic ray diffusion in a magnetized isolated galaxy simulation**|Sarah Thiele et.al.|[2510.13737](http://arxiv.org/abs/2510.13737)|null|
+|**2025-10-15**|**Cyclic Self-Supervised Diffusion for Ultra Low-field to High-field MRI Synthesis**|Zhenxuan Zhang et.al.|[2510.13735](http://arxiv.org/abs/2510.13735)|null|
+|**2025-10-15**|**Internal Diffusion Limited Aggregation with Critical Branching Random Walks**|Amine Asselah et.al.|[2510.13733](http://arxiv.org/abs/2510.13733)|null|
+|**2025-10-15**|**MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion**|Minjung Shin et.al.|[2510.13702](http://arxiv.org/abs/2510.13702)|null|
+|**2025-10-15**|**Generating healthy counterfactuals with denoising diffusion bridge models**|Ana Lawry Aguila et.al.|[2510.13684](http://arxiv.org/abs/2510.13684)|null|
 |**2025-10-14**|**DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving**|Yingyan Li et.al.|[2510.12796](http://arxiv.org/abs/2510.12796)|null|
 |**2025-10-14**|**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**|Kevin Li et.al.|[2510.12789](http://arxiv.org/abs/2510.12789)|null|
 |**2025-10-14**|**MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars**|Felix Taubner et.al.|[2510.12785](http://arxiv.org/abs/2510.12785)|null|
@@ -575,12 +589,15 @@
 |**2025-09-08**|**floq: Training Critics via Flow-Matching for Scaling Compute in Value-Based RL**|Bhavya Agrawalla et.al.|[2509.06863](http://arxiv.org/abs/2509.06863)|null|
 |**2025-09-08**|**Stochastic modelling of cosmic-ray sources for Galactic diffuse emissions**|Anton Stall et.al.|[2509.06857](http://arxiv.org/abs/2509.06857)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Vision Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Scaling Vision Transformers for Functional MRI with Flat Maps**|Connor Lane et.al.|[2510.13768](http://arxiv.org/abs/2510.13768)|null|
+|**2025-10-15**|**Invited Paper: BitMedViT: Ternary-Quantized Vision Transformer for Medical AI Assistants on the Edge**|Mikolaj Walczak et.al.|[2510.13760](http://arxiv.org/abs/2510.13760)|null|
+|**2025-10-15**|**DOLFIN: Balancing Stability and Plasticity in Federated Continual Learning**|Omayma Moussadek et.al.|[2510.13567](http://arxiv.org/abs/2510.13567)|null|
 |**2025-10-14**|**Hybrid Explanation-Guided Learning for Transformer-Based Chest X-Ray Diagnosis**|Shelley Zixin Shu et.al.|[2510.12704](http://arxiv.org/abs/2510.12704)|null|
 |**2025-10-14**|**On the Use of Hierarchical Vision Foundation Models for Low-Cost Human Mesh Recovery and Pose Estimation**|Shuhei Tarashima et.al.|[2510.12660](http://arxiv.org/abs/2510.12660)|null|
 |**2025-10-14**|**Hybrid Vision Transformer and Quantum Convolutional Neural Network for Image Classification**|Mingzhu Wang et.al.|[2510.12291](http://arxiv.org/abs/2510.12291)|null|
@@ -722,12 +739,13 @@
 |**2025-09-07**|**Challenges in Deep Learning-Based Small Organ Segmentation: A Benchmarking Perspective for Medical Research with Limited Datasets**|Phongsakon Mark Konrad et.al.|[2509.05892](http://arxiv.org/abs/2509.05892)|null|
 |**2025-09-05**|**TemporalFlowViz: Parameter-Aware Visual Analytics for Interpreting Scramjet Combustion Evolution**|Yifei Jia et.al.|[2509.04834](http://arxiv.org/abs/2509.04834)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-14**|**SimULi: Real-Time LiDAR and Camera Simulation with Unscented Transforms**|Haithem Turki et.al.|[2510.12901](http://arxiv.org/abs/2510.12901)|null|
 |**2025-10-13**|**Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency**|Yuxin Cheng et.al.|[2510.10993](http://arxiv.org/abs/2510.10993)|null|
 |**2025-10-11**|**Opacity-Gradient Driven Density Control for Compact and Efficient Few-Shot 3D Gaussian Splatting**|Abdelrhman Elrawy et.al.|[2510.10257](http://arxiv.org/abs/2510.10257)|null|
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
@@ -772,12 +790,13 @@
 |**2025-08-19**|**Is-NeRF: In-scattering Neural Radiance Field for Blurred Images**|Nan Luo et.al.|[2508.13808](http://arxiv.org/abs/2508.13808)|null|
 |**2025-08-17**|**PreSem-Surf: RGB-D Surface Reconstruction with Progressive Semantic Modeling and SG-MLP Pre-Rendering Mechanism**|Yuyan Ye et.al.|[2508.13228](http://arxiv.org/abs/2508.13228)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Super Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-11**|**Local-Global Context-Aware and Structure-Preserving Image Super-Resolution**|Sanchar Palit et.al.|[2510.13649](http://arxiv.org/abs/2510.13649)|null|
 |**2025-10-14**|**Efficient Perceptual Image Super Resolution: AIM 2025 Study and Benchmark**|Bruno Longarela et.al.|[2510.12765](http://arxiv.org/abs/2510.12765)|null|
 |**2025-10-14**|**FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution**|Junhao Zhuang et.al.|[2510.12747](http://arxiv.org/abs/2510.12747)|null|
 |**2025-10-14**|**Time-Correlated Video Bridge Matching**|Viacheslav Vasilev et.al.|[2510.12453](http://arxiv.org/abs/2510.12453)|null|
@@ -886,12 +905,14 @@
 |**2025-09-04**|**Split Conformal Prediction in the Function Space with Neural Operators**|David Millard et.al.|[2509.04623](http://arxiv.org/abs/2509.04623)|null|
 |**2025-09-04**|**SwinSRGAN: Swin Transformer-based Generative Adversarial Network for High-Fidelity Speech Super-Resolution**|Jiajun Yuan et.al.|[2509.03913](http://arxiv.org/abs/2509.03913)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](http://arxiv.org/abs/2510.13565)|null|
+|**2025-10-15**|**FlyAwareV2: A Multimodal Cross-Domain UAV Dataset for Urban Scene Understanding**|Francesco Barbato et.al.|[2510.13243](http://arxiv.org/abs/2510.13243)|null|
 |**2025-10-14**|**E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization**|Wenpu Li et.al.|[2510.12753](http://arxiv.org/abs/2510.12753)|null|
 |**2025-10-14**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li et.al.|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
 |**2025-10-13**|**Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**|Jean-Paul Travert et.al.|[2510.11305](http://arxiv.org/abs/2510.11305)|null|
@@ -979,12 +1000,13 @@
 |**2025-09-02**|**Doctoral Thesis: Geometric Deep Learning For Camera Pose Prediction, Registration, Depth Estimation, and 3D Reconstruction**|Xueyang Kang et.al.|[2509.01873](http://arxiv.org/abs/2509.01873)|null|
 |**2025-09-01**|**Generalizable Self-supervised Monocular Depth Estimation with Mixture of Low-Rank Experts for Diverse Endoscopic Scenes**|Liangjing Shao et.al.|[2509.01206](http://arxiv.org/abs/2509.01206)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## View Synthesis
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**True Self-Supervised Novel View Synthesis is Transferable**|Thomas W. Mitchel et.al.|[2510.13063](http://arxiv.org/abs/2510.13063)|null|
 |**2025-10-14**|**SPORTS: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding**|Zhiliu Yang et.al.|[2510.12749](http://arxiv.org/abs/2510.12749)|null|
 |**2025-10-14**|**Scene Coordinate Reconstruction Priors**|Wenjing Bian et.al.|[2510.12387](http://arxiv.org/abs/2510.12387)|null|
 |**2025-10-14**|**Hybrid Gaussian Splatting for Novel Urban View Synthesis**|Mohamed Omran et.al.|[2510.12308](http://arxiv.org/abs/2510.12308)|null|
@@ -1070,12 +1092,15 @@
 |**2025-08-31**|**Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion**|Xueyang Kang et.al.|[2509.00843](http://arxiv.org/abs/2509.00843)|null|
 |**2025-08-28**|**DrivingGaussian++: Towards Realistic Reconstruction and Editable Simulation for Surrounding Dynamic Driving Scenes**|Yajiao Xiong et.al.|[2508.20965](http://arxiv.org/abs/2508.20965)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator**|Hyojun Go et.al.|[2510.13454](http://arxiv.org/abs/2510.13454)|null|
+|**2025-10-15**|**Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering**|Siddharth Tourani et.al.|[2510.13381](http://arxiv.org/abs/2510.13381)|null|
+|**2025-10-15**|**STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control**|Zhen Li et.al.|[2510.13186](http://arxiv.org/abs/2510.13186)|null|
 |**2025-10-14**|**Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction**|Fengzhi Guo et.al.|[2510.12768](http://arxiv.org/abs/2510.12768)|null|
 |**2025-10-14**|**BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring**|An Zhao et.al.|[2510.12493](http://arxiv.org/abs/2510.12493)|null|
 |**2025-10-14**|**Hybrid Gaussian Splatting for Novel Urban View Synthesis**|Mohamed Omran et.al.|[2510.12308](http://arxiv.org/abs/2510.12308)|null|
@@ -1222,7 +1247,7 @@
 |**2025-09-03**|**ContraGS: Codebook-Condensed and Trainable Gaussian Splatting for Fast, Memory-Efficient Reconstruction**|Sankeerth Durvasula et.al.|[2509.03775](http://arxiv.org/abs/2509.03775)|null|
 |**2025-09-02**|**Efficient Geometry Compression and Communication for 3D Gaussian Splatting Point Clouds**|Liang Xie et.al.|[2509.02232](http://arxiv.org/abs/2509.02232)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
