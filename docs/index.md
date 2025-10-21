@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,8 +16,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**BLIP3o-NEXT: Next Frontier of Native Image Generation**|Jiuhai Chen et.al.|[2510.15857](http://arxiv.org/abs/2510.15857)|null|
+|**2025-10-17**|**Controlling the image generation process with parametric activation functions**|Ilia Pavlov et.al.|[2510.15778](http://arxiv.org/abs/2510.15778)|null|
+|**2025-10-17**|**NDM: A Noise-driven Detection and Mitigation Framework against Implicit Sexual Intentions in Text-to-Image Generation**|Yitong Sun et.al.|[2510.15752](http://arxiv.org/abs/2510.15752)|null|
+|**2025-10-17**|**Unimedvl: Unifying Medical Multimodal Understanding And Generation Through Observation-Knowledge-Analysis**|Junzhi Ning et.al.|[2510.15710](http://arxiv.org/abs/2510.15710)|null|
+|**2025-10-17**|**Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation**|Xiaoming Zhu et.al.|[2510.15564](http://arxiv.org/abs/2510.15564)|null|
+|**2025-10-16**|**Salient Concept-Aware Generative Data Augmentation**|Tianchen Zhao et.al.|[2510.15194](http://arxiv.org/abs/2510.15194)|null|
+|**2025-10-16**|**Constantly Improving Image Models Need Constantly Improving Benchmarks**|Jiaxin Ge et.al.|[2510.15021](http://arxiv.org/abs/2510.15021)|null|
 |**2025-10-16**|**Coupled Diffusion Sampling for Training-Free Multi-View Image Editing**|Hadi Alzayer et.al.|[2510.14981](http://arxiv.org/abs/2510.14981)|null|
-|**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari et.al.|[2510.14978](http://arxiv.org/abs/2510.14978)|**[link](https://github.com/Sfedfcv/redesigned-pancake)**|
+|**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari et.al.|[2510.14978](http://arxiv.org/abs/2510.14978)|null|
 |**2025-10-16**|**WithAnyone: Towards Controllable and ID Consistent Image Generation**|Hengyuan Xu et.al.|[2510.14975](http://arxiv.org/abs/2510.14975)|null|
 |**2025-10-16**|**ScaleWeaver: Weaving Efficient Controllable T2I Generation with Multi-Scale Reference Attention**|Keli Liu et.al.|[2510.14882](http://arxiv.org/abs/2510.14882)|null|
 |**2025-10-16**|**In-Context Learning with Unpaired Clips for Instruction-based Video Editing**|Xinyao Liao et.al.|[2510.14648](http://arxiv.org/abs/2510.14648)|**[link](https://github.com/leoisufa/ICVE)**|
@@ -304,6 +311,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery**|Jie-Ying Lee et.al.|[2510.15869](http://arxiv.org/abs/2510.15869)|null|
+|**2025-10-17**|**LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal**|Shr-Ruei Tsai et.al.|[2510.15868](http://arxiv.org/abs/2510.15868)|null|
+|**2025-10-17**|**Quantum Monte Carlo Calculations of Light Nuclei with Fully Propagated Theoretical Uncertainties**|Ryan Curry et.al.|[2510.15860](http://arxiv.org/abs/2510.15860)|null|
+|**2025-10-17**|**BLIP3o-NEXT: Next Frontier of Native Image Generation**|Jiuhai Chen et.al.|[2510.15857](http://arxiv.org/abs/2510.15857)|null|
+|**2025-10-17**|**Error analysis of a compositional score-based algorithm for simulation-based inference**|Camille Touron et.al.|[2510.15817](http://arxiv.org/abs/2510.15817)|null|
+|**2025-10-17**|**ReCon: Region-Controllable Data Augmentation with Rectification and Alignment for Object Detection**|Haowei Zhu et.al.|[2510.15783](http://arxiv.org/abs/2510.15783)|null|
+|**2025-10-17**|**QSilk: Micrograin Stabilization and Adaptive Quantile Clipping for Detail-Friendly Latent Diffusion**|Denis Rychkovskiy et.al.|[2510.15761](http://arxiv.org/abs/2510.15761)|null|
+|**2025-10-17**|**NDM: A Noise-driven Detection and Mitigation Framework against Implicit Sexual Intentions in Text-to-Image Generation**|Yitong Sun et.al.|[2510.15752](http://arxiv.org/abs/2510.15752)|null|
+|**2025-10-17**|**Attention Sinks in Diffusion Language Models**|Maximo Eduardo Rulli et.al.|[2510.15731](http://arxiv.org/abs/2510.15731)|null|
+|**2025-10-17**|**Real-Time Modeling of Skyrmion Dynamics in Arbitrary 2D Spatially Dependent Pinning Potential Landscapes**|Simon M. Fröhlich et.al.|[2510.15713](http://arxiv.org/abs/2510.15713)|null|
 |**2025-10-16**|**Coupled Diffusion Sampling for Training-Free Multi-View Image Editing**|Hadi Alzayer et.al.|[2510.14981](http://arxiv.org/abs/2510.14981)|null|
 |**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari et.al.|[2510.14978](http://arxiv.org/abs/2510.14978)|null|
 |**2025-10-16**|**Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation**|Shaowei Liu et.al.|[2510.14976](http://arxiv.org/abs/2510.14976)|null|
@@ -589,6 +606,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI**|Gerard Comas-Quiles et.al.|[2510.15684](http://arxiv.org/abs/2510.15684)|null|
+|**2025-10-17**|**Improving Micro-Expression Recognition with Phase-Aware Temporal Augmentation**|Vu Tram Anh Khuong et.al.|[2510.15466](http://arxiv.org/abs/2510.15466)|null|
 |**2025-10-16**|**Decorrelation Speeds Up Vision Transformers**|Kieran Carrigg et.al.|[2510.14657](http://arxiv.org/abs/2510.14657)|null|
 |**2025-10-16**|**Adapting Self-Supervised Representations as a Latent Space for Efficient Generation**|Ming Gui et.al.|[2510.14630](http://arxiv.org/abs/2510.14630)|null|
 |**2025-10-16**|**Zero-Shot Wildlife Sorting Using Vision Transformers: Evaluating Clustering and Continuous Similarity Ordering**|Hugo Markoff et.al.|[2510.14596](http://arxiv.org/abs/2510.14596)|null|
@@ -794,6 +813,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**Lightweight CycleGAN Models for Cross-Modality Image Transformation and Experimental Quality Assessment in Fluorescence Microscopy**|Mohammad Soltaninezhad et.al.|[2510.15579](http://arxiv.org/abs/2510.15579)|null|
+|**2025-10-17**|**Compressive Modeling and Visualization of Multivariate Scientific Data using Implicit Neural Representation**|Abhay Kumar Dwivedi et.al.|[2510.15535](http://arxiv.org/abs/2510.15535)|null|
+|**2025-10-16**|**Deep generative priors for 3D brain analysis**|Ana Lawry Aguila et.al.|[2510.15119](http://arxiv.org/abs/2510.15119)|null|
+|**2025-10-15**|**Nano-electronvolt Fourier-limited transition of a single surface-adsorbed molecule**|Masoud Mirzaei et.al.|[2510.14999](http://arxiv.org/abs/2510.14999)|null|
 |**2025-10-11**|**Local-Global Context-Aware and Structure-Preserving Image Super-Resolution**|Sanchar Palit et.al.|[2510.13649](http://arxiv.org/abs/2510.13649)|null|
 |**2025-10-14**|**Efficient Perceptual Image Super Resolution: AIM 2025 Study and Benchmark**|Bruno Longarela et.al.|[2510.12765](http://arxiv.org/abs/2510.12765)|null|
 |**2025-10-14**|**FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution**|Junhao Zhuang et.al.|[2510.12747](http://arxiv.org/abs/2510.12747)|null|
@@ -907,6 +930,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images**|Jiaxin Guo et.al.|[2510.15072](http://arxiv.org/abs/2510.15072)|null|
 |**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](http://arxiv.org/abs/2510.14960)|null|
 |**2025-10-16**|**Multi-modal video data-pipelines for machine learning with minimal human supervision**|Mihai-Cristian Pîrvu et.al.|[2510.14862](http://arxiv.org/abs/2510.14862)|null|
 |**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](http://arxiv.org/abs/2510.13565)|null|
@@ -1002,12 +1026,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction**|Ting-Yu Yen et.al.|[2510.15386](http://arxiv.org/abs/2510.15386)|null|
+|**2025-10-17**|**DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion**|Weijie Wang et.al.|[2510.15264](http://arxiv.org/abs/2510.15264)|null|
+|**2025-10-16**|**SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images**|Jiaxin Guo et.al.|[2510.15072](http://arxiv.org/abs/2510.15072)|null|
 |**2025-10-15**|**True Self-Supervised Novel View Synthesis is Transferable**|Thomas W. Mitchel et.al.|[2510.13063](http://arxiv.org/abs/2510.13063)|null|
 |**2025-10-14**|**SPORTS: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding**|Zhiliu Yang et.al.|[2510.12749](http://arxiv.org/abs/2510.12749)|null|
 |**2025-10-14**|**Scene Coordinate Reconstruction Priors**|Wenjing Bian et.al.|[2510.12387](http://arxiv.org/abs/2510.12387)|null|
 |**2025-10-14**|**Hybrid Gaussian Splatting for Novel Urban View Synthesis**|Mohamed Omran et.al.|[2510.12308](http://arxiv.org/abs/2510.12308)|null|
 |**2025-10-13**|**VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment**|Qing Li et.al.|[2510.11473](http://arxiv.org/abs/2510.11473)|null|
-|**2025-10-13**|**MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference**|Wenyuan Zhang et.al.|[2510.11387](http://arxiv.org/abs/2510.11387)|null|
+|**2025-10-19**|**MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference**|Wenyuan Zhang et.al.|[2510.11387](http://arxiv.org/abs/2510.11387)|null|
 |**2025-10-12**|**WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting**|Yifan Liu et.al.|[2510.10726](http://arxiv.org/abs/2510.10726)|null|
 |**2025-10-12**|**Dynamic Gaussian Splatting from Defocused and Motion-blurred Monocular Videos**|Xuankai Zhang et.al.|[2510.10691](http://arxiv.org/abs/2510.10691)|null|
 |**2025-10-12**|**Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework**|Shanzhi Yin et.al.|[2510.10492](http://arxiv.org/abs/2510.10492)|null|
@@ -1092,6 +1119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction**|Ting-Yu Yen et.al.|[2510.15386](http://arxiv.org/abs/2510.15386)|null|
+|**2025-10-17**|**GaussGym: An open-source real-to-sim framework for learning locomotion from pixels**|Alejandro Escontrela et.al.|[2510.15352](http://arxiv.org/abs/2510.15352)|null|
+|**2025-10-16**|**SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images**|Jiaxin Guo et.al.|[2510.15072](http://arxiv.org/abs/2510.15072)|null|
 |**2025-10-16**|**Leveraging Learned Image Prior for 3D Gaussian Compression**|Seungjoo Shin et.al.|[2510.14705](http://arxiv.org/abs/2510.14705)|null|
 |**2025-10-16**|**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**|Junyi Wu et.al.|[2510.14564](http://arxiv.org/abs/2510.14564)|null|
 |**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde et.al.|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
