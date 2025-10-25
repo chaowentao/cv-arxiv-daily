@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.24
+## Updated on 2025.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**|Guocheng Gordon Qian et.al.|[2510.20820](http://arxiv.org/abs/2510.20820)|null|
+|**2025-10-23**|**ARGenSeg: Image Segmentation with Autoregressive Image Generation Model**|Xiaolong Wang et.al.|[2510.20803](http://arxiv.org/abs/2510.20803)|null|
+|**2025-10-23**|**DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion**|Noam Issachar et.al.|[2510.20766](http://arxiv.org/abs/2510.20766)|**[link](https://github.com/guyyariv/DyPE)**|
+|**2025-10-23**|**ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata**|Samuel Soutullo et.al.|[2510.20708](http://arxiv.org/abs/2510.20708)|null|
+|**2025-10-23**|**UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset**|Chen Zhao et.al.|[2510.20661](http://arxiv.org/abs/2510.20661)|null|
+|**2025-10-23**|**GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation Models**|Muhammad Atif Butt et.al.|[2510.20586](http://arxiv.org/abs/2510.20586)|null|
+|**2025-10-23**|**Positional Encoding Field**|Yunpeng Bai et.al.|[2510.20385](http://arxiv.org/abs/2510.20385)|null|
+|**2025-10-23**|**What do AI-Generated Images Want?**|Amanda Wasielewski et.al.|[2510.20350](http://arxiv.org/abs/2510.20350)|null|
+|**2025-10-23**|**Synthetic Data for Robust Runway Detection**|Estelle Chigot et.al.|[2510.20349](http://arxiv.org/abs/2510.20349)|null|
+|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](http://arxiv.org/abs/2510.20217)|null|
 |**2025-10-22**|**Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing**|Yusu Qian et.al.|[2510.19808](http://arxiv.org/abs/2510.19808)|null|
 |**2025-10-22**|**D2D: Detector-to-Differentiable Critic for Improved Numeracy in Text-to-Image Generation**|Nobline Yoo et.al.|[2510.19278](http://arxiv.org/abs/2510.19278)|null|
 |**2025-10-21**|**SSD: Spatial-Semantic Head Decoupling for Efficient Autoregressive Image Generation**|Siyong Jian et.al.|[2510.18716](http://arxiv.org/abs/2510.18716)|null|
@@ -329,6 +339,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge**|Nimrod Berman et.al.|[2510.20819](http://arxiv.org/abs/2510.20819)|null|
+|**2025-10-23**|**BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation**|Liang Ye et.al.|[2510.20792](http://arxiv.org/abs/2510.20792)|null|
+|**2025-10-23**|**DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion**|Noam Issachar et.al.|[2510.20766](http://arxiv.org/abs/2510.20766)|null|
+|**2025-10-23**|**Consumption-Investment Problem in Rank-Based Models**|David Itkin et.al.|[2510.20763](http://arxiv.org/abs/2510.20763)|null|
+|**2025-10-23**|**AutoScape: Geometry-Consistent Long-Horizon Scene Generation**|Jiacheng Chen et.al.|[2510.20726](http://arxiv.org/abs/2510.20726)|null|
+|**2025-10-23**|**Search for neutrino emission from LHAASO observed Microquasar with IceCube 10-year data**|Rong-Lan Li et.al.|[2510.20687](http://arxiv.org/abs/2510.20687)|null|
+|**2025-10-23**|**Downsizing Diffusion Models for Cardinality Estimation**|Xinhe Mu et.al.|[2510.20681](http://arxiv.org/abs/2510.20681)|null|
+|**2025-10-23**|**Niebla: an open-source code for modelling the extragalactic background light**|Sara Porras-Bedmar et.al.|[2510.20664](http://arxiv.org/abs/2510.20664)|null|
+|**2025-10-23**|**UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset**|Chen Zhao et.al.|[2510.20661](http://arxiv.org/abs/2510.20661)|null|
+|**2025-10-23**|**MS-BART: Unified Modeling of Mass Spectra and Molecules for Structure Elucidation**|Yang Han et.al.|[2510.20615](http://arxiv.org/abs/2510.20615)|null|
 |**2025-10-22**|**OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation**|Guowei Xu et.al.|[2510.19789](http://arxiv.org/abs/2510.19789)|null|
 |**2025-10-23**|**A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation**|Jiacheng Liu et.al.|[2510.19755](http://arxiv.org/abs/2510.19755)|null|
 |**2025-10-22**|**Cultural Dimensions of Artificial Intelligence Adoption: Empirical Insights for Wave 1 from a Multinational Longitudinal Pilot Study**|Michelle J. Cummings-Koether et.al.|[2510.19743](http://arxiv.org/abs/2510.19743)|null|
@@ -654,6 +674,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**ACS-SegNet: An Attention-Based CNN-SegFormer Segmentation Network for Tissue Segmentation in Histopathology**|Nima Torbati et.al.|[2510.20754](http://arxiv.org/abs/2510.20754)|null|
+|**2025-10-23**|**Dynamic Weight Adjustment for Knowledge Distillation: Leveraging Vision Transformer for High-Accuracy Lung Cancer Detection and Real-Time Deployment**|Saif Ur Rehman Khan et.al.|[2510.20438](http://arxiv.org/abs/2510.20438)|null|
+|**2025-10-23**|**Knowledge-Informed Neural Network for Complex-Valued SAR Image Recognition**|Haodong Yang et.al.|[2510.20284](http://arxiv.org/abs/2510.20284)|null|
+|**2025-10-22**|**Transformed Multi-view 3D Shape Features with Contrastive Learning**|Márcus Vinícius Lobo Costa et.al.|[2510.19955](http://arxiv.org/abs/2510.19955)|null|
 |**2025-10-22**|**Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1**|Qianli Ma et.al.|[2510.19600](http://arxiv.org/abs/2510.19600)|null|
 |**2025-10-22**|**A Training-Free Framework for Open-Vocabulary Image Segmentation and Recognition with EfficientNet and CLIP**|Ying Dai et.al.|[2510.19333](http://arxiv.org/abs/2510.19333)|null|
 |**2025-10-22**|**Mixing Configurations for Downstream Prediction**|Juntang Wang et.al.|[2510.19248](http://arxiv.org/abs/2510.19248)|null|
@@ -829,6 +853,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**From Far and Near: Perceptual Evaluation of Crowd Representations Across Levels of Detail**|Xiaohan Sun et.al.|[2510.20558](http://arxiv.org/abs/2510.20558)|null|
+|**2025-10-22**|**Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses**|Damian Bowness et.al.|[2510.20027](http://arxiv.org/abs/2510.20027)|null|
 |**2025-10-22**|**AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields**|Woo Jae Kim et.al.|[2510.19371](http://arxiv.org/abs/2510.19371)|null|
 |**2025-10-22**|**Advances in 4D Representation: Geometry, Motion, and Interaction**|Mingrui Zhao et.al.|[2510.19255](http://arxiv.org/abs/2510.19255)|null|
 |**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde et.al.|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
@@ -881,6 +907,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge**|Nimrod Berman et.al.|[2510.20819](http://arxiv.org/abs/2510.20819)|null|
+|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|null|
+|**2025-10-22**|**BrainPuzzle: Hybrid Physics and Data-Driven Reconstruction for Transcranial Ultrasound Tomography**|Shengyu Chen et.al.|[2510.20029](http://arxiv.org/abs/2510.20029)|null|
 |**2025-10-22**|**SCEESR: Semantic-Control Edge Enhancement for Diffusion-Based Super-Resolution**|Yun Kai Zhuang et.al.|[2510.19272](http://arxiv.org/abs/2510.19272)|null|
 |**2025-10-22**|**Step-Aware Residual-Guided Diffusion for EEG Spatial Super-Resolution**|Hongjun Liu et.al.|[2510.19166](http://arxiv.org/abs/2510.19166)|null|
 |**2025-10-21**|**DP $^2$ O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2510.18851](http://arxiv.org/abs/2510.18851)|null|
@@ -1007,6 +1036,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|null|
 |**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|null|
 |**2025-10-21**|**GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation**|Tuan Pham et.al.|[2510.18291](http://arxiv.org/abs/2510.18291)|null|
@@ -1111,6 +1141,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Positional Encoding Field**|Yunpeng Bai et.al.|[2510.20385](http://arxiv.org/abs/2510.20385)|null|
+|**2025-10-23**|**Inverse Image-Based Rendering for Light Field Generation from Single Images**|Hyunjun Jung et.al.|[2510.20132](http://arxiv.org/abs/2510.20132)|null|
+|**2025-10-22**|**Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses**|Damian Bowness et.al.|[2510.20027](http://arxiv.org/abs/2510.20027)|null|
 |**2025-10-21**|**Re-Activating Frozen Primitives for 3D Gaussian Splatting**|Yuxin Cheng et.al.|[2510.19653](http://arxiv.org/abs/2510.19653)|null|
 |**2025-10-22**|**PoseCrafter: Extreme Pose Estimation with Hybrid Video Synthesis**|Qing Mao et.al.|[2510.19527](http://arxiv.org/abs/2510.19527)|null|
 |**2025-10-22**|**AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields**|Woo Jae Kim et.al.|[2510.19371](http://arxiv.org/abs/2510.19371)|null|
@@ -1213,6 +1246,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation**|Guangqi Jiang et.al.|[2510.20813](http://arxiv.org/abs/2510.20813)|null|
+|**2025-10-23**|**Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking**|Zixuan Wu et.al.|[2510.20335](http://arxiv.org/abs/2510.20335)|null|
+|**2025-10-23**|**COS3D: Collaborative Open-Vocabulary 3D Segmentation**|Runsong Zhu et.al.|[2510.20238](http://arxiv.org/abs/2510.20238)|null|
+|**2025-10-22**|**Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses**|Damian Bowness et.al.|[2510.20027](http://arxiv.org/abs/2510.20027)|null|
 |**2025-10-21**|**Re-Activating Frozen Primitives for 3D Gaussian Splatting**|Yuxin Cheng et.al.|[2510.19653](http://arxiv.org/abs/2510.19653)|null|
 |**2025-10-22**|**VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction**|Junhong Lin et.al.|[2510.19578](http://arxiv.org/abs/2510.19578)|null|
 |**2025-10-22**|**Advances in 4D Representation: Geometry, Motion, and Interaction**|Mingrui Zhao et.al.|[2510.19255](http://arxiv.org/abs/2510.19255)|null|
