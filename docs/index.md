@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.27
+## Updated on 2025.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,9 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Visual Diffusion Models are Geometric Solvers**|Nir Goren et.al.|[2510.21697](http://arxiv.org/abs/2510.21697)|null|
+|**2025-10-24**|**Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image Generation**|Yifu Luo et.al.|[2510.21583](http://arxiv.org/abs/2510.21583)|null|
+|**2025-10-24**|**TerraGen: A Unified Multi-Task Layout Generation Framework for Remote Sensing Data Augmentation**|Datao Tang et.al.|[2510.21391](http://arxiv.org/abs/2510.21391)|null|
+|**2025-10-24**|**FairImagen: Post-Processing for Bias Mitigation in Text-to-Image Models**|Zihao Fu et.al.|[2510.21363](http://arxiv.org/abs/2510.21363)|**[link](https://github.com/fuzihaofzh/FairImagen)**|
+|**2025-10-24**|**In Silico Mapping of Visual Categorical Selectivity Across the Whole Brain**|Ethan Hwang et.al.|[2510.21142](http://arxiv.org/abs/2510.21142)|null|
+|**2025-10-24**|**SafetyPairs: Isolating Safety Critical Image Features with Counterfactual Image Generation**|Alec Helbling et.al.|[2510.21120](http://arxiv.org/abs/2510.21120)|null|
+|**2025-10-23**|**Preventing Shortcuts in Adapter Training via Providing the Shortcuts**|Anujraaj Argo Goyal et.al.|[2510.20887](http://arxiv.org/abs/2510.20887)|null|
 |**2025-10-23**|**LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**|Guocheng Gordon Qian et.al.|[2510.20820](http://arxiv.org/abs/2510.20820)|null|
 |**2025-10-23**|**ARGenSeg: Image Segmentation with Autoregressive Image Generation Model**|Xiaolong Wang et.al.|[2510.20803](http://arxiv.org/abs/2510.20803)|null|
-|**2025-10-23**|**DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion**|Noam Issachar et.al.|[2510.20766](http://arxiv.org/abs/2510.20766)|**[link](https://github.com/guyyariv/DyPE)**|
+|**2025-10-23**|**DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion**|Noam Issachar et.al.|[2510.20766](http://arxiv.org/abs/2510.20766)|null|
 |**2025-10-23**|**ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata**|Samuel Soutullo et.al.|[2510.20708](http://arxiv.org/abs/2510.20708)|null|
 |**2025-10-23**|**UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset**|Chen Zhao et.al.|[2510.20661](http://arxiv.org/abs/2510.20661)|null|
 |**2025-10-23**|**GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation Models**|Muhammad Atif Butt et.al.|[2510.20586](http://arxiv.org/abs/2510.20586)|null|
@@ -339,6 +346,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Visual Diffusion Models are Geometric Solvers**|Nir Goren et.al.|[2510.21697](http://arxiv.org/abs/2510.21697)|null|
+|**2025-10-24**|**BachVid: Training-Free Video Generation with Consistent Background and Character**|Han Yan et.al.|[2510.21696](http://arxiv.org/abs/2510.21696)|null|
+|**2025-10-24**|**Recovering Initial States in Certain Quasilinear Parabolic Problems from Time Averages**|Bogdan-Vasile Matioc et.al.|[2510.21687](http://arxiv.org/abs/2510.21687)|null|
+|**2025-10-24**|**Exploring the statistical properties of double radio relics in the TNG-Cluster and TNG300 simulations**|Wonki Lee et.al.|[2510.21632](http://arxiv.org/abs/2510.21632)|null|
+|**2025-10-24**|**Epipolar Geometry Improves Video Generation Models**|Orest Kupyn et.al.|[2510.21615](http://arxiv.org/abs/2510.21615)|null|
+|**2025-10-24**|**Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds**|Oscar Davis et.al.|[2510.21608](http://arxiv.org/abs/2510.21608)|null|
+|**2025-10-24**|**S3OD: Towards Generalizable Salient Object Detection with Synthetic Data**|Orest Kupyn et.al.|[2510.21605](http://arxiv.org/abs/2510.21605)|null|
+|**2025-10-24**|**Kinetic theory of emulsions with matter supply**|Jacqueline Janssen et.al.|[2510.21552](http://arxiv.org/abs/2510.21552)|null|
+|**2025-10-24**|**HollowFlow: Efficient Sample Likelihood Evaluation using Hollow Message Passing**|Johann Flemming Gloy et.al.|[2510.21542](http://arxiv.org/abs/2510.21542)|null|
+|**2025-10-24**|**Towards a Golden Classifier-Free Guidance Path via Foresight Fixed Point Iterations**|Kaibo Wang et.al.|[2510.21512](http://arxiv.org/abs/2510.21512)|null|
 |**2025-10-23**|**Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge**|Nimrod Berman et.al.|[2510.20819](http://arxiv.org/abs/2510.20819)|null|
 |**2025-10-23**|**BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation**|Liang Ye et.al.|[2510.20792](http://arxiv.org/abs/2510.20792)|null|
 |**2025-10-23**|**DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion**|Noam Issachar et.al.|[2510.20766](http://arxiv.org/abs/2510.20766)|null|
@@ -674,6 +691,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**GranViT: A Fine-Grained Vision Model With Autoregressive Perception For MLLMs**|Guanghao Zheng et.al.|[2510.21501](http://arxiv.org/abs/2510.21501)|null|
+|**2025-10-24**|**CT-CLIP: A Multi-modal Fusion Framework for Robust Apple Leaf Disease Recognition in Complex Environments**|Lemin Liu et.al.|[2510.21346](http://arxiv.org/abs/2510.21346)|null|
 |**2025-10-23**|**ACS-SegNet: An Attention-Based CNN-SegFormer Segmentation Network for Tissue Segmentation in Histopathology**|Nima Torbati et.al.|[2510.20754](http://arxiv.org/abs/2510.20754)|null|
 |**2025-10-23**|**Dynamic Weight Adjustment for Knowledge Distillation: Leveraging Vision Transformer for High-Accuracy Lung Cancer Detection and Real-Time Deployment**|Saif Ur Rehman Khan et.al.|[2510.20438](http://arxiv.org/abs/2510.20438)|null|
 |**2025-10-23**|**Knowledge-Informed Neural Network for Complex-Valued SAR Image Recognition**|Haodong Yang et.al.|[2510.20284](http://arxiv.org/abs/2510.20284)|null|
@@ -907,7 +926,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-23**|**Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge**|Nimrod Berman et.al.|[2510.20819](http://arxiv.org/abs/2510.20819)|null|
+|**2025-10-24**|**Restore Text First, Enhance Image Later: Two-Stage Scene Text Image Super-Resolution with Glyph Structure Guidance**|Minxing Luo et.al.|[2510.21590](http://arxiv.org/abs/2510.21590)|null|
+|**2025-10-24**|**Bayesian approach for spatial super-resolution of heterodyne wind lidars**|Theo Martin et.al.|[2510.21288](http://arxiv.org/abs/2510.21288)|null|
+|**2025-10-26**|**Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge**|Nimrod Berman et.al.|[2510.20819](http://arxiv.org/abs/2510.20819)|null|
 |**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|null|
 |**2025-10-22**|**BrainPuzzle: Hybrid Physics and Data-Driven Reconstruction for Transcranial Ultrasound Tomography**|Shengyu Chen et.al.|[2510.20029](http://arxiv.org/abs/2510.20029)|null|
 |**2025-10-22**|**SCEESR: Semantic-Control Edge Enhancement for Diffusion-Based Super-Resolution**|Yun Kai Zhuang et.al.|[2510.19272](http://arxiv.org/abs/2510.19272)|null|
@@ -1246,6 +1267,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Towards Physically Executable 3D Gaussian for Embodied Navigation**|Bingchen Miao et.al.|[2510.21307](http://arxiv.org/abs/2510.21307)|null|
 |**2025-10-23**|**GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation**|Guangqi Jiang et.al.|[2510.20813](http://arxiv.org/abs/2510.20813)|null|
 |**2025-10-23**|**Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking**|Zixuan Wu et.al.|[2510.20335](http://arxiv.org/abs/2510.20335)|null|
 |**2025-10-23**|**COS3D: Collaborative Open-Vocabulary 3D Segmentation**|Runsong Zhu et.al.|[2510.20238](http://arxiv.org/abs/2510.20238)|null|
