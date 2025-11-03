@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.02
+## Updated on 2025.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1173,7 +1173,7 @@ layout: default
 |**2025-10-25**|**EndoSfM3D: Learning to 3D Reconstruct Any Endoscopic Surgery Scene using Self-supervised Foundation Model**|Changhao Zhang et.al.|[2510.22359](http://arxiv.org/abs/2510.22359)|null|
 |**2025-10-25**|**CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding**|Lihuang Fang et.al.|[2510.22119](http://arxiv.org/abs/2510.22119)|null|
 |**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|null|
-|**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
+|**2025-10-30**|**How Should One Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|null|
 |**2025-10-21**|**GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation**|Tuan Pham et.al.|[2510.18291](http://arxiv.org/abs/2510.18291)|null|
 |**2025-10-21**|**PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception**|Kaichen Zhou et.al.|[2510.17568](http://arxiv.org/abs/2510.17568)|null|
