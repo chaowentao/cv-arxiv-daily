@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.07
+## Updated on 2025.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,10 +16,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**Evolutionary Optimization Trumps Adam Optimization on Embedding Space Exploration**|Domício Pereira Neto et.al.|[2511.03913](http://arxiv.org/abs/2511.03913)|null|
+|**2025-11-04**|**Attention-based ROI Discovery in 3D Tissue Images**|Hossein Fathollahian et.al.|[2511.03751](http://arxiv.org/abs/2511.03751)|null|
 |**2025-11-05**|**Seeing What You Say: Expressive Image Generation from Speech**|Jiyoung Lee et.al.|[2511.03423](http://arxiv.org/abs/2511.03423)|null|
 |**2025-11-05**|**Finetuning-Free Personalization of Text to Image Generation via Hypernetworks**|Sagar Shrestha et.al.|[2511.03156](http://arxiv.org/abs/2511.03156)|null|
 |**2025-11-04**|**Inference-Time Personalized Alignment with a Few User Preference Queries**|Victor-Alexandru Pădurean et.al.|[2511.02966](http://arxiv.org/abs/2511.02966)|null|
-|**2025-11-04**|**Diffusion Models are Robust Pretrainers**|Mika Yagoda et.al.|[2511.02793](http://arxiv.org/abs/2511.02793)|**[link](https://github.com/yagodamika/Diffusion-Models-are-Robust-Pretrainers)**|
+|**2025-11-04**|**Diffusion Models are Robust Pretrainers**|Mika Yagoda et.al.|[2511.02793](http://arxiv.org/abs/2511.02793)|null|
 |**2025-11-04**|**TAUE: Training-free Noise Transplant and Cultivation Diffusion Model**|Daichi Nagai et.al.|[2511.02580](http://arxiv.org/abs/2511.02580)|null|
 |**2025-11-04**|**Implementation and Evaluation of Stable Diffusion on a General-Purpose CGLA Accelerator**|Takuto Ando et.al.|[2511.02530](http://arxiv.org/abs/2511.02530)|null|
 |**2025-11-04**|**DetectiumFire: A Comprehensive Multi-modal Dataset Bridging Vision and Language for Fire Understanding**|Zixuan Liu et.al.|[2511.02495](http://arxiv.org/abs/2511.02495)|null|
@@ -384,9 +386,9 @@ layout: default
 |**2023-03-13**|**View Adaptive Light Field Deblurring Networks with Depth Perception**|Zeqi Shen et.al.|[2303.06860](http://arxiv.org/abs/2303.06860)|null|
 |**2022-04-28**|**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**|Mingtao Feng et.al.|[2204.13456](http://arxiv.org/abs/2204.13456)|null|
 |**2021-10-02**|**Light Field Saliency Detection with Dual Local Graph Learning andReciprocative Guidance**|Nian Liu et.al.|[2110.00698](http://arxiv.org/abs/2110.00698)|null|
-|**2020-12-30**|**DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection**|Yongri Piao et.al.|[2012.15124](http://arxiv.org/abs/2012.15124)|null|
+|**2020-12-30**|**DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection**|Yongri Piao et.al.|[2012.15124](http://arxiv.org/abs/2012.15124)|**[link](https://github.com/bethmedina/calculator-2012-09-28-151249)**|
 |**2021-12-13**|**Fast and Accurate Light Field Saliency Detection through Deep Encoding**|Sahan Hemachandra et.al.|[2010.13073](http://arxiv.org/abs/2010.13073)|null|
-|**2019-10-29**|**Light Field Saliency Detection with Deep Convolutional Networks**|Jun Zhang et.al.|[1906.08331](http://arxiv.org/abs/1906.08331)|null|
+|**2019-10-29**|**Light Field Saliency Detection with Deep Convolutional Networks**|Jun Zhang et.al.|[1906.08331](http://arxiv.org/abs/1906.08331)|**[link](https://github.com/pencilzhang/MAC-light-field-saliency-net)**|
 |**2019-03-31**|**Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network**|Jonathan Samuel Lumentut et.al.|[1904.00352](http://arxiv.org/abs/1904.00352)|null|
 |**2017-12-20**|**Light Field Segmentation From Super-pixel Graph Representation**|Xianqiang Lv et.al.|[1712.07394](http://arxiv.org/abs/1712.07394)|null|
 
@@ -394,6 +396,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation**|Jinlai Liu et.al.|[2511.04675](http://arxiv.org/abs/2511.04675)|null|
+|**2025-11-06**|**X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations**|Maximus A. Pace et.al.|[2511.04671](http://arxiv.org/abs/2511.04671)|null|
+|**2025-11-06**|**Intermittency in Collisionless Large-Amplitude Turbulence**|Ryan Golant et.al.|[2511.04663](http://arxiv.org/abs/2511.04663)|null|
+|**2025-11-06**|**Nowcast3D: Reliable precipitation nowcasting via gray-box learning**|Huaguan Chen et.al.|[2511.04659](http://arxiv.org/abs/2511.04659)|null|
+|**2025-11-06**|**Optimal Inference Schedules for Masked Diffusion Models**|Sitan Chen et.al.|[2511.04647](http://arxiv.org/abs/2511.04647)|null|
+|**2025-11-06**|**Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems**|Hans Harder et.al.|[2511.04641](http://arxiv.org/abs/2511.04641)|null|
+|**2025-11-06**|**PromptSep: Generative Audio Separation via Multimodal Prompting**|Yutong Wen et.al.|[2511.04623](http://arxiv.org/abs/2511.04623)|null|
+|**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al.|[2511.04555](http://arxiv.org/abs/2511.04555)|null|
+|**2025-11-06**|**Microservices Is Dying, A New Method for Module Division Based on Universal Interfaces**|Qing Wang et.al.|[2511.04548](http://arxiv.org/abs/2511.04548)|null|
+|**2025-11-06**|**Unified Generative Latent Representation for Functional Brain Graphs**|Subati Abulikemu et.al.|[2511.04539](http://arxiv.org/abs/2511.04539)|null|
 |**2025-11-05**|**Exchange controls coarsening of surface condensates**|Riccardo Rossetto et.al.|[2511.03619](http://arxiv.org/abs/2511.03619)|null|
 |**2025-11-05**|**The Converse Madelung Question**|Jonathan R Dunkley et.al.|[2511.03552](http://arxiv.org/abs/2511.03552)|null|
 |**2025-11-05**|**HJB equations driven by the Dirichlet-Ferguson Laplacian in Wasserstein-Sobolev spaces**|François Delarue et.al.|[2511.03522](http://arxiv.org/abs/2511.03522)|null|
@@ -809,6 +821,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Landslide Hazard Mapping with Geospatial Foundation Models: Geographical Generalizability, Data Scarcity, and Band Adaptability**|Wenwen Li et.al.|[2511.04474](http://arxiv.org/abs/2511.04474)|null|
+|**2025-11-06**|**Comparative Study of CNN Architectures for Binary Classification of Horses and Motorcycles in the VOC 2008 Dataset**|Muhammad Annas Shaikh et.al.|[2511.04344](http://arxiv.org/abs/2511.04344)|null|
+|**2025-11-06**|**When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation**|Nishchal Sapkota et.al.|[2511.04084](http://arxiv.org/abs/2511.04084)|null|
+|**2025-11-06**|**A Hybrid Deep Learning Model for Robust Biometric Authentication from Low-Frame-Rate PPG Signals**|Arfina Rahman et.al.|[2511.04037](http://arxiv.org/abs/2511.04037)|null|
+|**2025-11-06**|**MedDChest: A Content-Aware Multimodal Foundational Vision Model for Thoracic Imaging**|Mahmoud Soliman et.al.|[2511.04016](http://arxiv.org/abs/2511.04016)|null|
+|**2025-11-06**|**GNN-MoE: Context-Aware Patch Routing using GNNs for Parameter-Efficient Domain Generalization**|Mahmoud Soliman et.al.|[2511.04008](http://arxiv.org/abs/2511.04008)|null|
+|**2025-11-05**|**Deep Learning-Driven Downscaling for Climate Risk Assessment of Projected Temperature Extremes in the Nordic Region**|Parthiban Loganathan et.al.|[2511.03770](http://arxiv.org/abs/2511.03770)|null|
 |**2025-11-05**|**Morpho-Genomic Deep Learning for Ovarian Cancer Subtype and Gene Mutation Prediction from Histopathology**|Gabriela Fernandes et.al.|[2511.03365](http://arxiv.org/abs/2511.03365)|null|
 |**2025-11-04**|**Data-Efficient Realized Volatility Forecasting with Vision Transformers**|Emi Soroka et.al.|[2511.03046](http://arxiv.org/abs/2511.03046)|null|
 |**2025-11-04**|**Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification**|Mikhael Djajapermana et.al.|[2511.02992](http://arxiv.org/abs/2511.02992)|null|
@@ -1035,6 +1054,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**FastGS: Training 3D Gaussian Splatting in 100 Seconds**|Shiwei Ren et.al.|[2511.04283](http://arxiv.org/abs/2511.04283)|null|
 |**2025-11-04**|**LiteVoxel: Low-memory Intelligent Thresholding for Efficient Voxel Rasterization**|Jee Won Lee et.al.|[2511.02510](http://arxiv.org/abs/2511.02510)|null|
 |**2025-11-04**|**Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping**|Jiajia Li et.al.|[2511.02207](http://arxiv.org/abs/2511.02207)|null|
 |**2025-10-31**|**SAGS: Self-Adaptive Alias-Free Gaussian Splatting for Dynamic Surgical Endoscopic Reconstruction**|Wenfeng Huang et.al.|[2510.27318](http://arxiv.org/abs/2510.27318)|null|
@@ -1243,6 +1263,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**|Chang Liu et.al.|[2511.04388](http://arxiv.org/abs/2511.04388)|null|
+|**2025-11-06**|**Simple 3D Pose Features Support Human and Machine Social Scene Understanding**|Wenshuo Qin et.al.|[2511.03988](http://arxiv.org/abs/2511.03988)|null|
 |**2025-11-04**|**EvtSlowTV -- A Large and Diverse Dataset for Event-Based Depth Estimation**|Sadiq Layi Macaulay et.al.|[2511.02953](http://arxiv.org/abs/2511.02953)|null|
 |**2025-11-04**|**Monocular absolute depth estimation from endoscopy via domain-invariant feature learning and latent consistency**|Hao Li et.al.|[2511.02247](http://arxiv.org/abs/2511.02247)|null|
 |**2025-11-03**|**Opto-Electronic Convolutional Neural Network Design Via Direct Kernel Optimization**|Ali Almuallem et.al.|[2511.02065](http://arxiv.org/abs/2511.02065)|null|
@@ -1358,6 +1380,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/abs/2511.04595)|null|
+|**2025-11-06**|**Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization**|Zhejia Cai et.al.|[2511.03950](http://arxiv.org/abs/2511.03950)|null|
 |**2025-11-05**|**DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs**|Yiyi Miao et.al.|[2511.03099](http://arxiv.org/abs/2511.03099)|null|
 |**2025-11-04**|**PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing**|Antonio Oroz et.al.|[2511.02777](http://arxiv.org/abs/2511.02777)|null|
 |**2025-11-05**|**OLATverse: A Large-scale Real-world Object Dataset with Precise Lighting Control**|Xilong Zhou et.al.|[2511.02483](http://arxiv.org/abs/2511.02483)|null|
@@ -1476,6 +1500,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665](http://arxiv.org/abs/2511.04665)|null|
+|**2025-11-06**|**FastGS: Training 3D Gaussian Splatting in 100 Seconds**|Shiwei Ren et.al.|[2511.04283](http://arxiv.org/abs/2511.04283)|null|
+|**2025-11-06**|**CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation**|Yuwen Tao et.al.|[2511.03992](http://arxiv.org/abs/2511.03992)|null|
 |**2025-11-05**|**DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs**|Yiyi Miao et.al.|[2511.03099](http://arxiv.org/abs/2511.03099)|null|
 |**2025-11-04**|**PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing**|Antonio Oroz et.al.|[2511.02777](http://arxiv.org/abs/2511.02777)|null|
 |**2025-11-04**|**Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping**|Jiajia Li et.al.|[2511.02207](http://arxiv.org/abs/2511.02207)|null|
