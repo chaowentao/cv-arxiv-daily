@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.20
+## Updated on 2025.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization**|Yikun Wang et.al.|[2511.15705](http://arxiv.org/abs/2511.15705)|**[link](https://github.com/ekonwang/GeoVista)**|
+|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
+|**2025-11-19**|**Joint Semantic-Channel Coding and Modulation for Token Communications**|Jingkai Ying et.al.|[2511.15699](http://arxiv.org/abs/2511.15699)|null|
+|**2025-11-19**|**VisPlay: Self-Evolving Vision-Language Models from Images**|Yicheng He et.al.|[2511.15661](http://arxiv.org/abs/2511.15661)|null|
+|**2025-11-19**|**When to Think and When to Look: Uncertainty-Guided Lookback**|Jing Bi et.al.|[2511.15613](http://arxiv.org/abs/2511.15613)|null|
+|**2025-11-19**|**MaskMed: Decoupled Mask and Class Prediction for Medical Image Segmentation**|Bin Xie et.al.|[2511.15603](http://arxiv.org/abs/2511.15603)|null|
+|**2025-11-19**|**US-X Complete: A Multi-Modal Approach to Anatomical 3D Shape Recovery**|Miruna-Alexandra Gafencu et.al.|[2511.15600](http://arxiv.org/abs/2511.15600)|null|
+|**2025-11-19**|**Transferable Dual-Domain Feature Importance Attack against AI-Generated Image Detector**|Weiheng Zhu et.al.|[2511.15571](http://arxiv.org/abs/2511.15571)|null|
+|**2025-11-19**|**Multimodal Evaluation of Russian-language Architectures**|Artem Chervyakov et.al.|[2511.15552](http://arxiv.org/abs/2511.15552)|null|
+|**2025-11-19**|**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**|Ruoqu Chen et.al.|[2511.15550](http://arxiv.org/abs/2511.15550)|null|
 |**2025-11-18**|**ARC Is a Vision Problem!**|Keya Hu et.al.|[2511.14761](http://arxiv.org/abs/2511.14761)|**[link](https://github.com/rprokap/pset-9)**|
 |**2025-11-18**|**UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning**|Rui Tian et.al.|[2511.14760](http://arxiv.org/abs/2511.14760)|null|
 |**2025-11-18**|**Cell Shape Emerges from Motion**|Gautham Gopinath et.al.|[2511.14707](http://arxiv.org/abs/2511.14707)|**[link](https://github.com/rprokap/pset-9)**|
@@ -391,7 +401,7 @@ layout: default
 |**2025-10-07**|**Mapping complex optical light field distributions with single fluorescent molecules**|Daniel Marx et.al.|[2510.05791](http://arxiv.org/abs/2510.05791)|null|
 |**2025-09-19**|**Deep Learning Empowered Super-Resolution: A Comprehensive Survey and Future Prospects**|Le Zhang et.al.|[2509.22692](http://arxiv.org/abs/2509.22692)|null|
 |**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|null|
-|**2025-09-05**|**Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**|Haosong Liu et.al.|[2509.04824](http://arxiv.org/abs/2509.04824)|**[link](https://github.com/hsliu01/LFMT)**|
+|**2025-09-05**|**Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**|Haosong Liu et.al.|[2509.04824](http://arxiv.org/abs/2509.04824)|null|
 |**2025-08-27**|**WaveHiT-SR: Hierarchical Wavelet Network for Efficient Image Super-Resolution**|Fayaz Ali et.al.|[2508.19927](http://arxiv.org/abs/2508.19927)|null|
 |**2025-08-15**|**LKFMixer: Exploring Large Kernel Feature For Efficient Image Super-Resolution**|Yinggan Tang et.al.|[2508.11391](http://arxiv.org/abs/2508.11391)|null|
 |**2025-08-11**|**AU-IQA: A Benchmark Dataset for Perceptual Quality Assessment of AI-Enhanced User-Generated Content**|Shushi Wang et.al.|[2508.05016](http://arxiv.org/abs/2508.05016)|null|
@@ -517,6 +527,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Spatial scale separation and emergent patterns in coupled diffusive-nondiffusive systems**|Théo André et.al.|[2511.15648](http://arxiv.org/abs/2511.15648)|null|
+|**2025-11-19**|**Excess of diffuse gamma-ray emission detected from the galaxy cluster Abell 119 from 14-year Fermi-LAT Data**|Gajanan D Harale et.al.|[2511.15559](http://arxiv.org/abs/2511.15559)|null|
+|**2025-11-19**|**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**|Ruoqu Chen et.al.|[2511.15550](http://arxiv.org/abs/2511.15550)|null|
+|**2025-11-19**|**A Physics Informed Machine Learning Framework for Optimal Sensor Placement and Parameter Estimation**|Georgios Venianakis et.al.|[2511.15543](http://arxiv.org/abs/2511.15543)|null|
+|**2025-11-19**|**Theoretical Closed-loop Stability Bounds for Dynamical System Coupled with Diffusion Policies**|Gabriel Lauzier et.al.|[2511.15520](http://arxiv.org/abs/2511.15520)|null|
+|**2025-11-19**|**Asymptotic stability of planar entropy wave for 3-d Navier-Stokes equations in Eulerian coordinates**|Ren-Jun Duan et.al.|[2511.15498](http://arxiv.org/abs/2511.15498)|null|
+|**2025-11-19**|**A Critical Drift-Diffusion Equation: Intermittent Behavior via Geometric Brownian Motion on $\textbf{SL}(n)$**|Peter S. Morfe et.al.|[2511.15473](http://arxiv.org/abs/2511.15473)|null|
+|**2025-11-19**|**Optimizing Resource Distribution in a One-Dimensional Logistic Diffusion Model**|Junyoung Heo et.al.|[2511.15428](http://arxiv.org/abs/2511.15428)|null|
+|**2025-11-19**|**Simple relations from complex outflows: How the $M-σ$ relation emerges in a multi-phase environment**|Matas Tartėnas et.al.|[2511.15380](http://arxiv.org/abs/2511.15380)|null|
+|**2025-11-19**|**An Information-Theoretic Route to Isoperimetric Inequalities via Heat Flow and Entropy Dissipation**|Amandip Sangha et.al.|[2511.15356](http://arxiv.org/abs/2511.15356)|null|
 |**2025-11-18**|**Starlight-driven flared-staircase geometry in radiation hydrodynamic models of protoplanetary disks**|Prakruti Sudarshan et.al.|[2511.14733](http://arxiv.org/abs/2511.14733)|null|
 |**2025-11-18**|**Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising**|Yifan Wang et.al.|[2511.14719](http://arxiv.org/abs/2511.14719)|null|
 |**2025-11-18**|**Diffusion As Self-Distillation: End-to-End Latent Diffusion In One Model**|Xiyuan Wang et.al.|[2511.14716](http://arxiv.org/abs/2511.14716)|null|
@@ -1002,6 +1022,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
+|**2025-11-19**|**FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation**|Tingrui Shen et.al.|[2511.15618](http://arxiv.org/abs/2511.15618)|null|
+|**2025-11-19**|**MaskMed: Decoupled Mask and Class Prediction for Medical Image Segmentation**|Bin Xie et.al.|[2511.15603](http://arxiv.org/abs/2511.15603)|null|
+|**2025-11-19**|**From Low-Rank Features to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers**|Huiyuan Tian et.al.|[2511.15572](http://arxiv.org/abs/2511.15572)|null|
+|**2025-11-19**|**A Hybrid CNN-ViT-GNN Framework with GAN-Based Augmentation for Intelligent Weed Detection in Precision Agriculture**|Pandiyaraju V et.al.|[2511.15535](http://arxiv.org/abs/2511.15535)|null|
+|**2025-11-19**|**RS-CA-HSICT: A Residual and Spatial Channel Augmented CNN Transformer Framework for Monkeypox Detection**|Rashid Iqbal et.al.|[2511.15476](http://arxiv.org/abs/2511.15476)|null|
+|**2025-11-19**|**Hemlet: A Heterogeneous Compute-in-Memory Chiplet Architecture for Vision Transformers with Group-Level Parallelism**|Cong Wang et.al.|[2511.15397](http://arxiv.org/abs/2511.15397)|null|
+|**2025-11-19**|**IPTQ-ViT: Post-Training Quantization of Non-linear Functions for Integer-only Vision Transformers**|Gihwan Kim et.al.|[2511.15369](http://arxiv.org/abs/2511.15369)|null|
+|**2025-11-19**|**What Your Features Reveal: Data-Efficient Black-Box Feature Inversion Attack for Split DNNs**|Zhihan Ren et.al.|[2511.15316](http://arxiv.org/abs/2511.15316)|null|
 |**2025-11-18**|**ARC Is a Vision Problem!**|Keya Hu et.al.|[2511.14761](http://arxiv.org/abs/2511.14761)|null|
 |**2025-11-18**|**Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers**|Yutian Chen et.al.|[2511.14751](http://arxiv.org/abs/2511.14751)|null|
 |**2025-11-18**|**Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge**|Antonia Ebner et.al.|[2511.14744](http://arxiv.org/abs/2511.14744)|null|
@@ -1369,6 +1399,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|[2511.15052](http://arxiv.org/abs/2511.15052)|null|
+|**2025-11-18**|**HULFSynth : An INR based Super-Resolution and Ultra Low-Field MRI Synthesis via Contrast factor estimation**|Pranav Indrakanti et.al.|[2511.14897](http://arxiv.org/abs/2511.14897)|null|
 |**2025-11-18**|**Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation**|Aditi Agarwal et.al.|[2511.14481](http://arxiv.org/abs/2511.14481)|null|
 |**2025-11-18**|**InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior**|Weimin Bai et.al.|[2511.14208](http://arxiv.org/abs/2511.14208)|null|
 |**2025-11-18**|**Imaging with super-resolution in changing random media**|Alexander Christie et.al.|[2511.14147](http://arxiv.org/abs/2511.14147)|null|
@@ -1555,8 +1587,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation**|Simon Boeder et.al.|[2511.15396](http://arxiv.org/abs/2511.15396)|null|
+|**2025-11-19**|**Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation**|Jing Cao et.al.|[2511.15167](http://arxiv.org/abs/2511.15167)|null|
+|**2025-11-18**|**EGSA-PT:Edge-Guided Spatial Attention with Progressive Training for Monocular Depth Estimation and Segmentation of Transparent Objects**|Gbenga Omotara et.al.|[2511.14970](http://arxiv.org/abs/2511.14970)|null|
+|**2025-11-18**|**Principled Frequentist Estimation of Racial Disparity in Credit Approval under Unobserved Race**|Sam Fisher et.al.|[2511.14951](http://arxiv.org/abs/2511.14951)|null|
+|**2025-11-18**|**Variability-selected AGN in dwarf galaxies: the incidence of AGN in dwarf and massive galaxies is similar**|S. Kaviraj et.al.|[2511.14842](http://arxiv.org/abs/2511.14842)|null|
 |**2025-11-18**|**Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising**|Yifan Wang et.al.|[2511.14719](http://arxiv.org/abs/2511.14719)|null|
-|**2025-11-18**|**Decoupling Urban Food Accessibility Resilience during Disasters through Time-Series Analysis of Human Mobility and Power Outages**|Junwei Ma et.al.|[2511.14706](http://arxiv.org/abs/2511.14706)|null|
+|**2025-11-19**|**Decoupling Urban Food Accessibility Resilience during Disasters through Time-Series Analysis of Human Mobility and Power Outages**|Junwei Ma et.al.|[2511.14706](http://arxiv.org/abs/2511.14706)|null|
 |**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|null|
 |**2025-11-18**|**From Flash to Crater: Morphological and Spectral Analysis of the Brightest Lunar Impact on 11 September 2013 using LRO Data**|J. L. Rizos et.al.|[2511.14442](http://arxiv.org/abs/2511.14442)|null|
 |**2025-11-18**|**Perception-aware Exploration for Consumer-grade UAVs**|Svetlana Seliunina et.al.|[2511.14393](http://arxiv.org/abs/2511.14393)|null|
@@ -1714,6 +1751,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|null|
+|**2025-11-19**|**Jointly Conditioned Diffusion Model for Multi-View Pose-Guided Person Image Synthesis**|Chengyu Xie et.al.|[2511.15092](http://arxiv.org/abs/2511.15092)|null|
+|**2025-11-18**|**CPSL: Representing Volumetric Video via Content-Promoted Scene Layers**|Kaiyuan Hu et.al.|[2511.14927](http://arxiv.org/abs/2511.14927)|null|
 |**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|null|
 |**2025-11-18**|**IBGS: Image-Based Gaussian Splatting**|Hoang Chuong Nguyen et.al.|[2511.14357](http://arxiv.org/abs/2511.14357)|null|
 |**2025-11-18**|**Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs**|Yiyi Miao et.al.|[2511.14315](http://arxiv.org/abs/2511.14315)|null|
@@ -1871,6 +1911,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|null|
+|**2025-11-18**|**Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video**|Yarin Bekor et.al.|[2511.14848](http://arxiv.org/abs/2511.14848)|null|
 |**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|null|
 |**2025-11-18**|**Interaction-Aware 4D Gaussian Splatting for Dynamic Hand-Object Interaction Reconstruction**|Hao Tian et.al.|[2511.14540](http://arxiv.org/abs/2511.14540)|null|
 |**2025-11-18**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|null|
@@ -1878,7 +1920,7 @@ layout: default
 |**2025-11-18**|**Silhouette-to-Contour Registration: Aligning Intraoral Scan Models with Cephalometric Radiographs**|Yiyi Miao et.al.|[2511.14343](http://arxiv.org/abs/2511.14343)|null|
 |**2025-11-18**|**Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs**|Yiyi Miao et.al.|[2511.14315](http://arxiv.org/abs/2511.14315)|null|
 |**2025-11-18**|**GEN3D: Generating Domain-Free 3D Scenes from a Single Image**|Yuxin Zhang et.al.|[2511.14291](http://arxiv.org/abs/2511.14291)|null|
-|**2025-11-18**|**Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery**|Yiming Zeng et.al.|[2511.14270](http://arxiv.org/abs/2511.14270)|null|
+|**2025-11-19**|**Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery**|Yiming Zeng et.al.|[2511.14270](http://arxiv.org/abs/2511.14270)|null|
 |**2025-11-18**|**RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action**|Xiaoquan Sun et.al.|[2511.14161](http://arxiv.org/abs/2511.14161)|null|
 |**2025-11-18**|**iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion**|Hao Wang et.al.|[2511.14149](http://arxiv.org/abs/2511.14149)|null|
 |**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
