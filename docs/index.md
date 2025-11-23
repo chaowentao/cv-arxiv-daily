@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.22
+## Updated on 2025.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -518,7 +518,7 @@ layout: default
 |**2025-09-22**|**Towards Learning Boulder Excavation with Hydraulic Excavators**|Jonas Gruetter et.al.|[2509.17683](http://arxiv.org/abs/2509.17683)|null|
 |**2025-09-15**|**A comprehensive view of PKS 2155-304 from 2008 to 2023 through a multi-epoch modeling of its spectral energy distributions**|G. Harutyunyan et.al.|[2509.11827](http://arxiv.org/abs/2509.11827)|null|
 |**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|null|
-|**2025-09-10**|**Computational Imaging for Enhanced Computer Vision**|Humera Shaikh et.al.|[2509.08712](http://arxiv.org/abs/2509.08712)|null|
+|**2025-09-10**|**Computational Imaging for Enhanced Computer Vision**|Humera Shaikh et.al.|[2509.08712](http://arxiv.org/abs/2509.08712)|**[link](https://github.com/iva100/Artificial-intelligence-Machine-learning)**|
 |**2025-08-27**|**SPLF-SAM: Self-Prompting Segment Anything Model for Light Field Salient Object Detection**|Qiyao Xu et.al.|[2508.19746](http://arxiv.org/abs/2508.19746)|null|
 |**2024-11-21**|**Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting**|Nikolai Goncharov et.al.|[2411.13840](http://arxiv.org/abs/2411.13840)|null|
 |**2023-03-14**|**View Adaptive Light Field Deblurring Networks with Depth Perception**|Zeqi Shen et.al.|[2303.06860](http://arxiv.org/abs/2303.06860)|null|
@@ -538,7 +538,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://github.com/KlingTeam/VANS)**|
 |**2025-11-20**|**TriDiff-4D: Fast 4D Generation through Diffusion-based Triplane Re-posing**|Eddie Pokming Sheung et.al.|[2511.16662](http://arxiv.org/abs/2511.16662)|null|
 |**2025-11-20**|**Prospects for Neutrino Observation and Mass Measurement from Binary Neutron Star Mergers**|Vedran Brdar et.al.|[2511.16658](http://arxiv.org/abs/2511.16658)|null|
 |**2025-11-20**|**TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming**|Zeyuan Yin et.al.|[2511.16642](http://arxiv.org/abs/2511.16642)|null|
@@ -1625,11 +1625,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Irmak Guzey et.al.|[2511.16661](http://arxiv.org/abs/2511.16661)|**[link](https://github.com/irmakguzey/AINA)**|
-|**2025-11-20**|**Lite Any Stereo: Efficient Zero-Shot Stereo Matching**|Junpeng Jing et.al.|[2511.16555](http://arxiv.org/abs/2511.16555)|**[link](https://github.com/TomTomTommi/LiteAnyStereo)**|
+|**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Irmak Guzey et.al.|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
+|**2025-11-20**|**Lite Any Stereo: Efficient Zero-Shot Stereo Matching**|Junpeng Jing et.al.|[2511.16555](http://arxiv.org/abs/2511.16555)|null|
 |**2025-11-20**|**Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation**|Zongcai Tan et.al.|[2511.16494](http://arxiv.org/abs/2511.16494)|null|
-|**2025-11-20**|**CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation**|Samer Abualhanud et.al.|[2511.16428](http://arxiv.org/abs/2511.16428)|**[link](https://github.com/abualhanud/CylinderDepth)**|
-|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](http://arxiv.org/abs/2511.16301)|**[link](https://github.com/seominseok0429/Upsample-Anything-A-Simple-and-Hard-to-Beat-Baseline-for-Feature-Upsampling)**|
+|**2025-11-20**|**CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation**|Samer Abualhanud et.al.|[2511.16428](http://arxiv.org/abs/2511.16428)|null|
+|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](http://arxiv.org/abs/2511.16301)|null|
 |**2025-11-20**|**Absorption effects in the expanding Universe: spectral transmittance functions of intergalactic medium for distant sources**|Anguohao Yang et.al.|[2511.16291](http://arxiv.org/abs/2511.16291)|null|
 |**2025-11-20**|**How Robot Dogs See the Unseeable**|Oliver Bimber et.al.|[2511.16262](http://arxiv.org/abs/2511.16262)|null|
 |**2025-11-19**|**Box6D : Zero-shot Category-level 6D Pose Estimation of Warehouse Boxes**|Yintao Ma et.al.|[2511.15884](http://arxiv.org/abs/2511.15884)|null|
