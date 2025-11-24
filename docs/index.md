@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -518,7 +518,7 @@ layout: default
 |**2025-09-22**|**Towards Learning Boulder Excavation with Hydraulic Excavators**|Jonas Gruetter et.al.|[2509.17683](http://arxiv.org/abs/2509.17683)|null|
 |**2025-09-15**|**A comprehensive view of PKS 2155-304 from 2008 to 2023 through a multi-epoch modeling of its spectral energy distributions**|G. Harutyunyan et.al.|[2509.11827](http://arxiv.org/abs/2509.11827)|null|
 |**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|null|
-|**2025-09-10**|**Computational Imaging for Enhanced Computer Vision**|Humera Shaikh et.al.|[2509.08712](http://arxiv.org/abs/2509.08712)|**[link](https://github.com/iva100/Artificial-intelligence-Machine-learning)**|
+|**2025-09-10**|**Computational Imaging for Enhanced Computer Vision**|Humera Shaikh et.al.|[2509.08712](http://arxiv.org/abs/2509.08712)|null|
 |**2025-08-27**|**SPLF-SAM: Self-Prompting Segment Anything Model for Light Field Salient Object Detection**|Qiyao Xu et.al.|[2508.19746](http://arxiv.org/abs/2508.19746)|null|
 |**2024-11-21**|**Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting**|Nikolai Goncharov et.al.|[2411.13840](http://arxiv.org/abs/2411.13840)|null|
 |**2023-03-14**|**View Adaptive Light Field Deblurring Networks with Depth Perception**|Zeqi Shen et.al.|[2303.06860](http://arxiv.org/abs/2303.06860)|null|
@@ -538,7 +538,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://github.com/KlingTeam/VANS)**|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
 |**2025-11-20**|**TriDiff-4D: Fast 4D Generation through Diffusion-based Triplane Re-posing**|Eddie Pokming Sheung et.al.|[2511.16662](http://arxiv.org/abs/2511.16662)|null|
 |**2025-11-20**|**Prospects for Neutrino Observation and Mass Measurement from Binary Neutron Star Mergers**|Vedran Brdar et.al.|[2511.16658](http://arxiv.org/abs/2511.16658)|null|
 |**2025-11-20**|**TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming**|Zeyuan Yin et.al.|[2511.16642](http://arxiv.org/abs/2511.16642)|null|
@@ -1049,8 +1049,8 @@ layout: default
 |**2025-11-20**|**ODE-ViT: Plug & Play Attention Layer from the Generalization of the ViT as an Ordinary Differential Equation**|Carlos Boned Riera et.al.|[2511.16501](http://arxiv.org/abs/2511.16501)|null|
 |**2025-11-20**|**Flow and Depth Assisted Video Prediction with Latent Transformer**|Eliyas Suleyman et.al.|[2511.16484](http://arxiv.org/abs/2511.16484)|null|
 |**2025-11-20**|**Graph Neural Networks for Surgical Scene Segmentation**|Yihan Li et.al.|[2511.16430](http://arxiv.org/abs/2511.16430)|null|
-|**2025-11-20**|**ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery**|Ching-Heng Cheng et.al.|[2511.16322](http://arxiv.org/abs/2511.16322)|null|
-|**2025-11-20**|**NaTex: Seamless Texture Generation as Latent Color Diffusion**|Zeqiang Lai et.al.|[2511.16317](http://arxiv.org/abs/2511.16317)|null|
+|**2025-11-20**|**ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery**|Ching-Heng Cheng et.al.|[2511.16322](http://arxiv.org/abs/2511.16322)|**[link](https://github.com/chingheng0808/ChangeDINO)**|
+|**2025-11-20**|**NaTex: Seamless Texture Generation as Latent Color Diffusion**|Zeqiang Lai et.al.|[2511.16317](http://arxiv.org/abs/2511.16317)|**[link](https://github.com/Zeqiang-Lai/NaTex)**|
 |**2025-11-20**|**Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability**|Abishek Karthik et.al.|[2511.16294](http://arxiv.org/abs/2511.16294)|null|
 |**2025-11-20**|**Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM**|Gergely Dinya et.al.|[2511.16282](http://arxiv.org/abs/2511.16282)|null|
 |**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
@@ -1348,7 +1348,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-20**|**EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering**|Pierrick Bournez et.al.|[2511.16542](http://arxiv.org/abs/2511.16542)|null|
+|**2025-11-20**|**EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering**|Pierrick Bournez et.al.|[2511.16542](http://arxiv.org/abs/2511.16542)|**[link](https://github.com/gardiens/EOGS2)**|
 |**2025-11-18**|**iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion**|Hao Wang et.al.|[2511.14149](http://arxiv.org/abs/2511.14149)|null|
 |**2025-11-18**|**PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos**|Dianbing Xi et.al.|[2511.12935](http://arxiv.org/abs/2511.12935)|null|
 |**2025-11-16**|**OPFormer: Object Pose Estimation leveraging foundation model with geometric encoding**|Artem Moroz et.al.|[2511.12614](http://arxiv.org/abs/2511.12614)|null|
