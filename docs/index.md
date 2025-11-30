@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.29
+## Updated on 2025.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1993,8 +1993,8 @@ layout: default
 |**2025-11-25**|**Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI**|Xinhao Liu et.al.|[2511.20620](http://arxiv.org/abs/2511.20620)|null|
 |**2025-11-25**|**Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis**|Mohammad Mahdi et.al.|[2511.20186](http://arxiv.org/abs/2511.20186)|null|
 |**2025-11-25**|**UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers**|Min Zhao et.al.|[2511.20123](http://arxiv.org/abs/2511.20123)|null|
-|**2025-11-24**|**LumiTex: Towards High-Fidelity PBR Texture Generation with Illumination Context**|Jingzhi Bao et.al.|[2511.19437](http://arxiv.org/abs/2511.19437)|**[link](https://github.com/LumiTexPBR/LumiTex)**|
-|**2025-11-24**|**SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2511.19319](http://arxiv.org/abs/2511.19319)|**[link](https://github.com/Droliven/SyncMV4D)**|
+|**2025-11-24**|**LumiTex: Towards High-Fidelity PBR Texture Generation with Illumination Context**|Jingzhi Bao et.al.|[2511.19437](http://arxiv.org/abs/2511.19437)|null|
+|**2025-11-24**|**SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2511.19319](http://arxiv.org/abs/2511.19319)|null|
 |**2025-11-24**|**Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction**|Yiming Wang et.al.|[2511.18873](http://arxiv.org/abs/2511.18873)|null|
 |**2025-11-24**|**Sphinx: Efficiently Serving Novel View Synthesis using Regression-Guided Selective Refinement**|Yuchen Xia et.al.|[2511.18672](http://arxiv.org/abs/2511.18672)|null|
 |**2025-11-23**|**ReCoGS: Real-time ReColoring for Gaussian Splatting scenes**|Lorenzo Rutayisire et.al.|[2511.18441](http://arxiv.org/abs/2511.18441)|null|
@@ -2165,7 +2165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-26**|**Resolution Where It Counts: Hash-based GPU-Accelerated 3D Reconstruction via Variance-Adaptive Voxel Grids**|Lorenzo De Rebotti et.al.|[2511.21459](http://arxiv.org/abs/2511.21459)|**[link](https://github.com/rvp-group/mrhash)**|
+|**2025-11-26**|**Resolution Where It Counts: Hash-based GPU-Accelerated 3D Reconstruction via Variance-Adaptive Voxel Grids**|Lorenzo De Rebotti et.al.|[2511.21459](http://arxiv.org/abs/2511.21459)|null|
 |**2025-11-26**|**Endo-G $^{2}$ T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS For Endoscopic Scenes**|Yangle Liu et.al.|[2511.21367](http://arxiv.org/abs/2511.21367)|null|
 |**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|null|
 |**2025-11-25**|**GS-Checker: Tampering Localization for 3D Gaussian Splatting**|Haoliang Han et.al.|[2511.20354](http://arxiv.org/abs/2511.20354)|null|
