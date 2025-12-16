@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,9 +16,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Smudged Fingerprints: A Systematic Evaluation of the Robustness of AI Image Fingerprints**|Kai Yao et.al.|[2512.11771](http://arxiv.org/abs/2512.11771)|null|
+|**2025-12-12**|**Reframing Music-Driven 2D Dance Pose Generation as Multi-Channel Image Generation**|Yan Zhang et.al.|[2512.11720](http://arxiv.org/abs/2512.11720)|null|
+|**2025-12-12**|**EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing**|Wei Chow et.al.|[2512.11715](http://arxiv.org/abs/2512.11715)|**[link](https://github.com/weichow23/EditMGT)**|
+|**2025-12-12**|**Exploring MLLM-Diffusion Information Transfer with MetaCanvas**|Han Lin et.al.|[2512.11464](http://arxiv.org/abs/2512.11464)|**[link](https://github.com/MetaCanvas/metacanvas.github.io)**|
+|**2025-12-12**|**FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing**|Yilei Jiang et.al.|[2512.11395](http://arxiv.org/abs/2512.11395)|null|
+|**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
 |**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[2512.10954](http://arxiv.org/abs/2512.10954)|null|
-|**2025-12-11**|**Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation**|Yiwen Tang et.al.|[2512.10949](http://arxiv.org/abs/2512.10949)|**[link](https://github.com/Ivan-Tang-3D/3DGen-R1)**|
-|**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|**[link](https://github.com/madhav1ag/GaussianHeadTalk)**|
+|**2025-12-11**|**Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation**|Yiwen Tang et.al.|[2512.10949](http://arxiv.org/abs/2512.10949)|null|
+|**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
 |**2025-12-11**|**Interpretable and Steerable Concept Bottleneck Sparse Autoencoders**|Akshay Kulkarni et.al.|[2512.10805](http://arxiv.org/abs/2512.10805)|null|
 |**2025-12-11**|**Evaluating Gemini Robotics Policies in a Veo World Simulator**|Gemini Robotics Team et.al.|[2512.10675](http://arxiv.org/abs/2512.10675)|null|
 |**2025-12-11**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|**[link](https://github.com/elainew728/motion-edit)**|
@@ -689,6 +695,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis**|Junjie Ye et.al.|[2512.11797](http://arxiv.org/abs/2512.11797)|null|
+|**2025-12-12**|**A Room-Temperature Extreme High Vacuum System for Trapped-Ion Quantum Information Processing**|Lewis Hahn et.al.|[2512.11794](http://arxiv.org/abs/2512.11794)|null|
+|**2025-12-12**|**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation**|Yang Fei et.al.|[2512.11792](http://arxiv.org/abs/2512.11792)|null|
+|**2025-12-12**|**Reducing Domain Gap with Diffusion-Based Domain Adaptation for Cell Counting**|Mohammad Dehghanmanshadi et.al.|[2512.11763](http://arxiv.org/abs/2512.11763)|null|
+|**2025-12-12**|**Targeted cooling of urban cycling networks for heat-resilient mobility**|Agustin Cabrera et.al.|[2512.11753](http://arxiv.org/abs/2512.11753)|null|
+|**2025-12-12**|**SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder**|Minglei Shi et.al.|[2512.11749](http://arxiv.org/abs/2512.11749)|null|
+|**2025-12-12**|**The Impact of Initial Mass Dependent Convective Boundary Mixing on the Structure and Fates of Massive Stars**|Emily E. Whitehead et.al.|[2512.11728](http://arxiv.org/abs/2512.11728)|null|
+|**2025-12-12**|**Stability of stationary reaction diffusion-degenerate Nagumo fronts I: spectral analysis**|Raffaele Folino et.al.|[2512.11721](http://arxiv.org/abs/2512.11721)|null|
+|**2025-12-12**|**Referring Change Detection in Remote Sensing Imagery**|Yilmaz Korkmaz et.al.|[2512.11719](http://arxiv.org/abs/2512.11719)|null|
+|**2025-12-12**|**EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing**|Wei Chow et.al.|[2512.11715](http://arxiv.org/abs/2512.11715)|null|
 |**2025-12-11**|**StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space**|Tjark Behrens et.al.|[2512.10959](http://arxiv.org/abs/2512.10959)|null|
 |**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[2512.10954](http://arxiv.org/abs/2512.10954)|null|
 |**2025-12-11**|**ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning**|Wendi Chen et.al.|[2512.10946](http://arxiv.org/abs/2512.10946)|null|
@@ -1334,6 +1350,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Vision-Based Learning for Cyberattack Detection in Blockchain Smart Contracts and Transactions**|Do Hai Son et.al.|[2512.11272](http://arxiv.org/abs/2512.11272)|null|
+|**2025-12-12**|**Do We Need Reformer for Vision? An Experimental Comparison with Vision Transformers**|Ali El Bellaj et.al.|[2512.11260](http://arxiv.org/abs/2512.11260)|null|
 |**2025-12-11**|**Empirical evaluation of the Frank-Wolfe methods for constructing white-box adversarial attacks**|Kristina Korotkova et.al.|[2512.10936](http://arxiv.org/abs/2512.10936)|null|
 |**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[2512.10353](http://arxiv.org/abs/2512.10353)|null|
 |**2025-12-11**|**StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology**|Jiawen Li et.al.|[2512.10326](http://arxiv.org/abs/2512.10326)|null|
@@ -1868,6 +1886,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Fast and Explicit: Slice-to-Volume Reconstruction via 3D Gaussian Primitives with Analytic Point Spread Function Modeling**|Maik Dannecker et.al.|[2512.11624](http://arxiv.org/abs/2512.11624)|null|
+|**2025-12-12**|**Super-Resolved Canopy Height Mapping from Sentinel-2 Time Series Using LiDAR HD Reference Data across Metropolitan France**|Ekaterina Kalinicheva et.al.|[2512.11524](http://arxiv.org/abs/2512.11524)|null|
 |**2025-12-11**|**Quantifying classical and quantum bounds for resolving closely spaced, non-interacting, simultaneously emitting dipole sources in optical microscopy**|Armine I. Dingilian et.al.|[2512.10889](http://arxiv.org/abs/2512.10889)|null|
 |**2025-12-11**|**Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding**|Yuchen Feng et.al.|[2512.10548](http://arxiv.org/abs/2512.10548)|null|
 |**2025-12-11**|**Zero-shot Adaptation of Stable Diffusion via Plug-in Hierarchical Degradation Representation for Real-World Super-Resolution**|Yi-Cheng Liao et.al.|[2512.10340](http://arxiv.org/abs/2512.10340)|null|
@@ -2130,6 +2150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|null|
 |**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](http://arxiv.org/abs/2512.10956)|null|
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](http://arxiv.org/abs/2512.10725)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
@@ -2376,6 +2397,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Moment-Based 3D Gaussian Splatting: Resolving Volumetric Occlusion with Order-Independent Transmittance**|Jan U. Müller et.al.|[2512.11800](http://arxiv.org/abs/2512.11800)|null|
+|**2025-12-12**|**FactorPortrait: Controllable Portrait Animation via Disentangled Expression, Pose, and Viewpoint**|Jiapeng Tang et.al.|[2512.11645](http://arxiv.org/abs/2512.11645)|null|
 |**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950](http://arxiv.org/abs/2512.10950)|null|
 |**2025-12-11**|**OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis**|Xiang Fan et.al.|[2512.10940](http://arxiv.org/abs/2512.10940)|null|
 |**2025-12-11**|**Sharp Monocular View Synthesis in Less Than a Second**|Lars Mescheder et.al.|[2512.10685](http://arxiv.org/abs/2512.10685)|null|
@@ -2603,6 +2626,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Moment-Based 3D Gaussian Splatting: Resolving Volumetric Occlusion with Order-Independent Transmittance**|Jan U. Müller et.al.|[2512.11800](http://arxiv.org/abs/2512.11800)|null|
+|**2025-12-12**|**Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video**|Meng-Li Shih et.al.|[2512.11356](http://arxiv.org/abs/2512.11356)|null|
+|**2025-12-12**|**Lightweight 3D Gaussian Splatting Compression via Video Codec**|Qi Yang et.al.|[2512.11186](http://arxiv.org/abs/2512.11186)|null|
 |**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
 |**2025-12-11**|**DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting**|Shuyi Zhou et.al.|[2512.10572](http://arxiv.org/abs/2512.10572)|null|
 |**2025-12-11**|**Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering**|Hai-Long Qin et.al.|[2512.10424](http://arxiv.org/abs/2512.10424)|null|
