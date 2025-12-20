@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.19
+## Updated on 2025.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**EasyV2V: A High-quality Instruction-based Video Editing Framework**|Jinjie Mai et.al.|[2512.16920](http://arxiv.org/abs/2512.16920)|null|
+|**2025-12-18**|**SFTok: Bridging the Performance Gap in Discrete Tokenizers**|Qihang Rao et.al.|[2512.16910](http://arxiv.org/abs/2512.16910)|null|
+|**2025-12-18**|**Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image**|Yushi Hu et.al.|[2512.16899](http://arxiv.org/abs/2512.16899)|null|
+|**2025-12-18**|**RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing**|Tianyuan Qu et.al.|[2512.16864](http://arxiv.org/abs/2512.16864)|**[link](https://github.com/dvlab-research/RePlan)**|
+|**2025-12-18**|**Detecting Localized Deepfakes: How Well Do Synthetic Image Detectors Handle Inpainting?**|Serafino Pandolfini et.al.|[2512.16688](http://arxiv.org/abs/2512.16688)|null|
+|**2025-12-18**|**DeContext as Defense: Safe Image Editing in Diffusion Transformers**|Linghui Shen et.al.|[2512.16625](http://arxiv.org/abs/2512.16625)|null|
+|**2025-12-18**|**Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers**|Yifan Zhou et.al.|[2512.16615](http://arxiv.org/abs/2512.16615)|null|
+|**2025-12-18**|**StageVAR: Stage-Aware Acceleration for Visual Autoregressive Models**|Senmao Li et.al.|[2512.16483](http://arxiv.org/abs/2512.16483)|null|
+|**2025-12-18**|**Geometric Disentanglement of Text Embeddings for Subject-Consistent Text-to-Image Generation using A Single Prompt**|Shangxun Li et.al.|[2512.16443](http://arxiv.org/abs/2512.16443)|null|
+|**2025-12-18**|**PixelArena: A benchmark for Pixel-Precision Visual Intelligence**|Feng Liang et.al.|[2512.16303](http://arxiv.org/abs/2512.16303)|null|
 |**2025-12-16**|**InpaintDPO: Mitigating Spatial Relationship Hallucinations in Foreground-conditioned Inpainting via Diverse Preference Optimization**|Qirui Li et.al.|[2512.15644](http://arxiv.org/abs/2512.15644)|null|
 |**2025-12-17**|**Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition**|Shengming Yin et.al.|[2512.15603](http://arxiv.org/abs/2512.15603)|null|
 |**2025-12-17**|**VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics**|Opeyemi Bamigbade et.al.|[2512.15512](http://arxiv.org/abs/2512.15512)|null|
@@ -723,6 +733,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors**|Guibao Shen et.al.|[2512.16915](http://arxiv.org/abs/2512.16915)|null|
+|**2025-12-18**|**VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization**|Xiaoyan Cong et.al.|[2512.16906](http://arxiv.org/abs/2512.16906)|null|
+|**2025-12-18**|**Alchemist: Unlocking Efficiency in Text-to-Image Model Training via Meta-Gradient Data Selection**|Kaixin Ding et.al.|[2512.16905](http://arxiv.org/abs/2512.16905)|null|
+|**2025-12-18**|**FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**|Shuyuan Tu et.al.|[2512.16900](http://arxiv.org/abs/2512.16900)|null|
+|**2025-12-18**|**Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation**|Kaiwen Jiang et.al.|[2512.16893](http://arxiv.org/abs/2512.16893)|null|
+|**2025-12-18**|**RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing**|Tianyuan Qu et.al.|[2512.16864](http://arxiv.org/abs/2512.16864)|null|
+|**2025-12-18**|**FlowDet: Unifying Object Detection and Generative Transport Flows**|Enis Baty et.al.|[2512.16771](http://arxiv.org/abs/2512.16771)|null|
+|**2025-12-18**|**Correlation between the first-reaction time and the acquired boundary local time**|Yilin Ye et.al.|[2512.16747](http://arxiv.org/abs/2512.16747)|null|
+|**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[2512.16740](http://arxiv.org/abs/2512.16740)|null|
+|**2025-12-18**|**FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering**|Ole Beisswenger et.al.|[2512.16670](http://arxiv.org/abs/2512.16670)|null|
 |**2025-12-17**|**DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models**|Lunbin Zeng et.al.|[2512.15713](http://arxiv.org/abs/2512.15713)|null|
 |**2025-12-17**|**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling**|Yuwei Guo et.al.|[2512.15702](http://arxiv.org/abs/2512.15702)|null|
 |**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701](http://arxiv.org/abs/2512.15701)|null|
@@ -1408,6 +1428,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Radiology Report Generation with Layer-Wise Anatomical Attention**|Emmanuel D. Muñiz-De-León et.al.|[2512.16841](http://arxiv.org/abs/2512.16841)|null|
+|**2025-12-18**|**CLARiTy: A Vision Transformer for Multi-Label Classification and Weakly-Supervised Localization of Chest X-ray Pathologies**|John M. Statheros et.al.|[2512.16700](http://arxiv.org/abs/2512.16700)|null|
+|**2025-12-17**|**Low-Latency FPGA Control System for Real-Time Neural Network Processing in CCD-Based Trapped-Ion Qubit Measurement**|Binglei Lou et.al.|[2512.15838](http://arxiv.org/abs/2512.15838)|null|
 |**2025-12-17**|**Reducing Pilots in Channel Estimation With Predictive Foundation Models**|Xingyu Zhou et.al.|[2512.15562](http://arxiv.org/abs/2512.15562)|null|
 |**2025-12-17**|**VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics**|Opeyemi Bamigbade et.al.|[2512.15512](http://arxiv.org/abs/2512.15512)|null|
 |**2025-12-17**|**GenAI-enabled Residual Motion Estimation for Energy-Efficient Semantic Video Communication**|Shavbo Salehi et.al.|[2512.15481](http://arxiv.org/abs/2512.15481)|null|
@@ -1841,6 +1864,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
 |**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|null|
 |**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](http://arxiv.org/abs/2512.14406)|null|
 |**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|null|
@@ -1957,6 +1982,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**CogSR: Semantic-Aware Speech Super-Resolution via Chain-of-Thought Guided Flow Matching**|Jiajun Yuan et.al.|[2512.16304](http://arxiv.org/abs/2512.16304)|null|
+|**2025-12-18**|**Pixel Super-Resolved Fluorescence Lifetime Imaging Using Deep Learning**|Paloma Casteleiro Costa et.al.|[2512.16266](http://arxiv.org/abs/2512.16266)|null|
+|**2025-12-17**|**Secure AI-Driven Super-Resolution for Real-Time Mixed Reality Applications**|Mohammad Waquas Usmani et.al.|[2512.15823](http://arxiv.org/abs/2512.15823)|null|
 |**2025-12-17**|**MMMamba: A Versatile Cross-Modal In Context Fusion Framework for Pan-Sharpening and Zero-Shot Image Enhancement**|Yingying Wang et.al.|[2512.15261](http://arxiv.org/abs/2512.15261)|null|
 |**2025-12-17**|**MVGSR: Multi-View Consistent 3D Gaussian Super-Resolution via Epipolar Guidance**|Kaizhe Zhang et.al.|[2512.15048](http://arxiv.org/abs/2512.15048)|null|
 |**2025-12-16**|**TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration**|Zhiwen Yang et.al.|[2512.14550](http://arxiv.org/abs/2512.14550)|null|
@@ -2234,6 +2262,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913](http://arxiv.org/abs/2512.16913)|null|
+|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](http://arxiv.org/abs/2512.16561)|null|
 |**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](http://arxiv.org/abs/2512.15715)|null|
 |**2025-12-16**|**DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors**|Yiheng Huang et.al.|[2512.14536](http://arxiv.org/abs/2512.14536)|null|
 |**2025-12-16**|**Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding**|Nando Metzger et.al.|[2512.14236](http://arxiv.org/abs/2512.14236)|null|
@@ -2488,6 +2518,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Learning High-Quality Initial Noise for Single-View Synthesis with Diffusion Models**|Zhihao Zhang et.al.|[2512.16219](http://arxiv.org/abs/2512.16219)|null|
 |**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
 |**2025-12-17**|**3DProxyImg: Controllable 3D-Aware Animation Synthesis from Single Image via 2D-3D Aligned Proxy Embedding**|Yupeng Zhu et.al.|[2512.15126](http://arxiv.org/abs/2512.15126)|null|
 |**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](http://arxiv.org/abs/2512.14406)|null|
@@ -2730,6 +2762,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation**|Kaiwen Jiang et.al.|[2512.16893](http://arxiv.org/abs/2512.16893)|null|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
 |**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta et.al.|[2512.15711](http://arxiv.org/abs/2512.15711)|null|
 |**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
 |**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
