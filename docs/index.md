@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.24
+## Updated on 2025.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Multi-temporal Adaptive Red-Green-Blue and Long-Wave Infrared Fusion for You Only Look Once-Based Landmine Detection from Unmanned Aerial Systems**|James E. Gallagher et.al.|[2512.20487](http://arxiv.org/abs/2512.20487)|null|
+|**2025-12-23**|**CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation**|V. Kovalev et.al.|[2512.20362](http://arxiv.org/abs/2512.20362)|null|
+|**2025-12-23**|**Target Classification for Integrated Sensing and Communication in Industrial Deployments**|Luca Barbieri et.al.|[2512.20154](http://arxiv.org/abs/2512.20154)|null|
+|**2025-12-23**|**SE360: Semantic Edit in 360 $^\circ$ Panoramas via Hierarchical Data Construction**|Haoyi Zhong et.al.|[2512.19943](http://arxiv.org/abs/2512.19943)|null|
 |**2025-12-22**|**Generative diffusion models for agricultural AI: plant image generation, indoor-to-outdoor translation, and expert preference alignment**|Da Tan et.al.|[2512.19632](http://arxiv.org/abs/2512.19632)|null|
 |**2025-12-22**|**Emotion-Director: Bridging Affective Shortcut in Emotion-Oriented Image Generation**|Guoli Jia et.al.|[2512.19479](http://arxiv.org/abs/2512.19479)|null|
 |**2025-12-22**|**dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models**|Yi Xin et.al.|[2512.19433](http://arxiv.org/abs/2512.19433)|null|
@@ -751,6 +755,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**SemanticGen: Video Generation in Semantic Space**|Jianhong Bai et.al.|[2512.20619](http://arxiv.org/abs/2512.20619)|null|
+|**2025-12-23**|**Repurposing Video Diffusion Transformers for Robust Point Tracking**|Soowon Son et.al.|[2512.20606](http://arxiv.org/abs/2512.20606)|null|
+|**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
+|**2025-12-23**|**LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing**|Changyi Lin et.al.|[2512.20591](http://arxiv.org/abs/2512.20591)|null|
+|**2025-12-23**|**Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs**|Rui Pan et.al.|[2512.20573](http://arxiv.org/abs/2512.20573)|null|
+|**2025-12-23**|**ScoreMatchingRiesz: Auto-DML with Infinitesimal Classification**|Masahiro Kato et.al.|[2512.20523](http://arxiv.org/abs/2512.20523)|null|
+|**2025-12-23**|**Run and Tumble Dynamics of Biased Quantum Trajectories in a Monitored Qubit**|Aritra Kundu et.al.|[2512.20519](http://arxiv.org/abs/2512.20519)|null|
+|**2025-12-23**|**Optimality Conditions for Control Systems Governed by Monotone Stochastic Evolution Equations**|Ioana Ciotir et.al.|[2512.20505](http://arxiv.org/abs/2512.20505)|null|
+|**2025-12-23**|**UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images**|Yiming Zhao et.al.|[2512.20479](http://arxiv.org/abs/2512.20479)|null|
+|**2025-12-23**|**Enriching Earth Observation labeled data with Quantum Conditioned Diffusion Models**|Francesco Mauro et.al.|[2512.20448](http://arxiv.org/abs/2512.20448)|null|
 |**2025-12-22**|**Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models**|Pablo Ruiz-Ponce et.al.|[2512.19692](http://arxiv.org/abs/2512.19692)|null|
 |**2025-12-22**|**WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion**|Hanyang Kong et.al.|[2512.19678](http://arxiv.org/abs/2512.19678)|null|
 |**2025-12-22**|**Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**|Mojtaba Safari et.al.|[2512.19676](http://arxiv.org/abs/2512.19676)|null|
@@ -1466,6 +1480,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Field-Space Attention for Structure-Preserving Earth System Transformers**|Maximilian Witte et.al.|[2512.20350](http://arxiv.org/abs/2512.20350)|null|
+|**2025-12-23**|**UbiQVision: Quantifying Uncertainty in XAI for Image Recognition**|Akshat Dubey et.al.|[2512.20288](http://arxiv.org/abs/2512.20288)|null|
+|**2025-12-23**|**HEART-VIT: Hessian-Guided Efficient Dynamic Attention and Token Pruning in Vision Transformer**|Mohammad Helal Uddin et.al.|[2512.20120](http://arxiv.org/abs/2512.20120)|null|
+|**2025-12-23**|**Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species Identification**|Luciano Araujo Dourado Filho et.al.|[2512.19957](http://arxiv.org/abs/2512.19957)|null|
+|**2025-12-23**|**Block-Recurrent Dynamics in Vision Transformers**|Mozes Jacobs et.al.|[2512.19941](http://arxiv.org/abs/2512.19941)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
 |**2025-12-22**|**R-GenIMA: Integrating Neuroimaging and Genetics with Interpretable Multimodal AI for Alzheimer's Disease Progression**|Kun Zhao et.al.|[2512.18986](http://arxiv.org/abs/2512.18986)|null|
 |**2025-12-21**|**IPCV: Information-Preserving Compression for MLLM Visual Encoders**|Yuan Chen et.al.|[2512.18747](http://arxiv.org/abs/2512.18747)|null|
@@ -1916,6 +1935,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|null|
 |**2025-12-20**|**Joint Learning of Depth, Pose, and Local Radiance Field for Large Scale Monocular 3D Reconstruction**|Shahram Najam Syed et.al.|[2512.18237](http://arxiv.org/abs/2512.18237)|null|
 |**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
 |**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
@@ -2035,6 +2055,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Optical Pin Beams: Research Progresses and Emerging Applications**|Ze Zhang et.al.|[2512.20541](http://arxiv.org/abs/2512.20541)|null|
+|**2025-12-23**|**Resolution and Robustness Bounds for Reconstructive Spectrometers**|Changyan Zhu et.al.|[2512.20415](http://arxiv.org/abs/2512.20415)|null|
+|**2025-12-23**|**Field-Space Attention for Structure-Preserving Earth System Transformers**|Maximilian Witte et.al.|[2512.20350](http://arxiv.org/abs/2512.20350)|null|
 |**2025-12-22**|**Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**|Mojtaba Safari et.al.|[2512.19676](http://arxiv.org/abs/2512.19676)|null|
 |**2025-12-22**|**Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|[2512.19489](http://arxiv.org/abs/2512.19489)|null|
 |**2025-12-22**|**AI-Driven Subcarrier-Level CQI Feedback**|Chengyong Jiang et.al.|[2512.19054](http://arxiv.org/abs/2512.19054)|null|
@@ -2591,6 +2614,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**UMAMI: Unifying Masked Autoregressive Models and Deterministic Rendering for View Synthesis**|Thanh-Tung Le et.al.|[2512.20107](http://arxiv.org/abs/2512.20107)|null|
 |**2025-12-21**|**EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images**|Jongmin Park et.al.|[2512.18692](http://arxiv.org/abs/2512.18692)|null|
 |**2025-12-21**|**SplatBright: Generalizable Low-Light Scene Reconstruction from Sparse Views via Physically-Guided Gaussian Enhancement**|Yue Wen et.al.|[2512.18655](http://arxiv.org/abs/2512.18655)|null|
 |**2025-12-20**|**RecurGS: Interactive Scene Modeling via Discrete-State Recurrent Gaussian Fusion**|Wenhao Hu et.al.|[2512.18386](http://arxiv.org/abs/2512.18386)|null|
@@ -2842,6 +2866,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu et.al.|[2512.20495](http://arxiv.org/abs/2512.20495)|null|
+|**2025-12-23**|**SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images**|Linfei Li et.al.|[2512.20377](http://arxiv.org/abs/2512.20377)|null|
+|**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148](http://arxiv.org/abs/2512.20148)|null|
+|**2025-12-23**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|null|
 |**2025-12-22**|**WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion**|Hanyang Kong et.al.|[2512.19678](http://arxiv.org/abs/2512.19678)|null|
 |**2025-12-22**|**4D Gaussian Splatting as a Learned Dynamical System**|Arnold Caleb Asiimwe et.al.|[2512.19648](http://arxiv.org/abs/2512.19648)|null|
 |**2025-12-22**|**GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting**|Tiantian Li et.al.|[2512.19108](http://arxiv.org/abs/2512.19108)|null|
