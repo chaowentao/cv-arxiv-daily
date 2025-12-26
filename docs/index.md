@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.25
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation**|Snehal Singh Tomar et.al.|[2512.21276](http://arxiv.org/abs/2512.21276)|null|
+|**2025-12-24**|**A Turn Toward Better Alignment: Few-Shot Generative Adaptation with Equivariant Feature Rotation**|Chenghao Xu et.al.|[2512.21174](http://arxiv.org/abs/2512.21174)|null|
+|**2025-12-24**|**Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control**|Minghao Han et.al.|[2512.21058](http://arxiv.org/abs/2512.21058)|null|
+|**2025-12-24**|**Enhancing diffusion models with Gaussianization preprocessing**|Li Cunzhi et.al.|[2512.21020](http://arxiv.org/abs/2512.21020)|null|
+|**2025-12-24**|**FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing**|Mingshu Cai et.al.|[2512.21015](http://arxiv.org/abs/2512.21015)|null|
 |**2025-12-23**|**Multi-temporal Adaptive Red-Green-Blue and Long-Wave Infrared Fusion for You Only Look Once-Based Landmine Detection from Unmanned Aerial Systems**|James E. Gallagher et.al.|[2512.20487](http://arxiv.org/abs/2512.20487)|null|
 |**2025-12-23**|**CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation**|V. Kovalev et.al.|[2512.20362](http://arxiv.org/abs/2512.20362)|null|
 |**2025-12-23**|**Target Classification for Integrated Sensing and Communication in Industrial Deployments**|Luca Barbieri et.al.|[2512.20154](http://arxiv.org/abs/2512.20154)|null|
@@ -755,6 +760,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming**|Haonan Qiu et.al.|[2512.21338](http://arxiv.org/abs/2512.21338)|null|
+|**2025-12-24**|**Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty**|Ziyu Chen et.al.|[2512.21336](http://arxiv.org/abs/2512.21336)|null|
+|**2025-12-24**|**Variationally correct operator learning: Reduced basis neural operator with a posteriori error estimation**|Yuan Qiu et.al.|[2512.21319](http://arxiv.org/abs/2512.21319)|null|
+|**2025-12-24**|**GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation**|Snehal Singh Tomar et.al.|[2512.21276](http://arxiv.org/abs/2512.21276)|null|
+|**2025-12-24**|**ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision**|Weiqi Li et.al.|[2512.21268](http://arxiv.org/abs/2512.21268)|null|
+|**2025-12-24**|**Marginal flows of non-entropic weak Schrödinger bridges**|Camilo Hernández et.al.|[2512.21261](http://arxiv.org/abs/2512.21261)|null|
+|**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|null|
+|**2025-12-24**|**UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement**|Tanghui Jia et.al.|[2512.21185](http://arxiv.org/abs/2512.21185)|null|
+|**2025-12-24**|**Multi-Tau Pulsed Illumination Differential Dynamic Microscopy with 80 $μ$ s Resolution**|Emmanuel Schaub et.al.|[2512.21175](http://arxiv.org/abs/2512.21175)|null|
+|**2025-12-24**|**Navier-Stokes-Cahn-Hilliard system in a $3$ D perforated domain with free slip and source term: Existence and homogenization**|Amartya Chakrabortty et.al.|[2512.21171](http://arxiv.org/abs/2512.21171)|null|
 |**2025-12-23**|**SemanticGen: Video Generation in Semantic Space**|Jianhong Bai et.al.|[2512.20619](http://arxiv.org/abs/2512.20619)|null|
 |**2025-12-23**|**Repurposing Video Diffusion Transformers for Robust Point Tracking**|Soowon Son et.al.|[2512.20606](http://arxiv.org/abs/2512.20606)|null|
 |**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
@@ -1480,6 +1495,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Granular-ball Guided Masking: Structure-aware Data Augmentation**|Shuyin Xia et.al.|[2512.21011](http://arxiv.org/abs/2512.21011)|null|
 |**2025-12-23**|**Field-Space Attention for Structure-Preserving Earth System Transformers**|Maximilian Witte et.al.|[2512.20350](http://arxiv.org/abs/2512.20350)|null|
 |**2025-12-23**|**UbiQVision: Quantifying Uncertainty in XAI for Image Recognition**|Akshat Dubey et.al.|[2512.20288](http://arxiv.org/abs/2512.20288)|null|
 |**2025-12-23**|**HEART-VIT: Hessian-Guided Efficient Dynamic Attention and Token Pruning in Vision Transformer**|Mohammad Helal Uddin et.al.|[2512.20120](http://arxiv.org/abs/2512.20120)|null|
@@ -2055,6 +2071,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**A Large-Depth-Range Layer-Based Hologram Dataset for Machine Learning-Based 3D Computer-Generated Holography**|Jaehong Lee et.al.|[2512.21040](http://arxiv.org/abs/2512.21040)|null|
+|**2025-12-24**|**Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising**|Yiwen Shan et.al.|[2512.21038](http://arxiv.org/abs/2512.21038)|null|
 |**2025-12-23**|**Optical Pin Beams: Research Progresses and Emerging Applications**|Ze Zhang et.al.|[2512.20541](http://arxiv.org/abs/2512.20541)|null|
 |**2025-12-23**|**Resolution and Robustness Bounds for Reconstructive Spectrometers**|Changyan Zhu et.al.|[2512.20415](http://arxiv.org/abs/2512.20415)|null|
 |**2025-12-23**|**Field-Space Attention for Structure-Preserving Earth System Transformers**|Maximilian Witte et.al.|[2512.20350](http://arxiv.org/abs/2512.20350)|null|
@@ -2350,7 +2368,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-22**|**CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models**|Pengyu Chen et.al.|[2512.19083](http://arxiv.org/abs/2512.19083)|null|
+|**2025-12-24**|**CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models**|Pengyu Chen et.al.|[2512.19083](http://arxiv.org/abs/2512.19083)|null|
 |**2025-12-22**|**CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization**|Zelin Zhao et.al.|[2512.19020](http://arxiv.org/abs/2512.19020)|null|
 |**2025-12-21**|**A Study of Finetuning Video Transformers for Multi-view Geometry Tasks**|Huimin Wu et.al.|[2512.18684](http://arxiv.org/abs/2512.18684)|null|
 |**2025-12-20**|**EndoStreamDepth: Temporally Consistent Monocular Depth Estimation for Endoscopic Video Streams**|Hao Li et.al.|[2512.18159](http://arxiv.org/abs/2512.18159)|null|
@@ -2866,6 +2884,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences**|Zhe Wang et.al.|[2512.20943](http://arxiv.org/abs/2512.20943)|null|
+|**2025-12-24**|**Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting**|Yoonwoo Jeong et.al.|[2512.20927](http://arxiv.org/abs/2512.20927)|null|
 |**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu et.al.|[2512.20495](http://arxiv.org/abs/2512.20495)|null|
 |**2025-12-23**|**SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images**|Linfei Li et.al.|[2512.20377](http://arxiv.org/abs/2512.20377)|null|
 |**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148](http://arxiv.org/abs/2512.20148)|null|
