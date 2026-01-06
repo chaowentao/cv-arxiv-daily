@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**|Jiacheng Sui et.al.|[2601.00542](http://arxiv.org/abs/2601.00542)|null|
+|**2026-01-01**|**Unknown Aware AI-Generated Content Attribution**|Ellie Thieu et.al.|[2601.00218](http://arxiv.org/abs/2601.00218)|null|
 |**2025-12-31**|**Edit3r: Instant 3D Scene Editing from Sparse Unposed Images**|Jiageng Liu et.al.|[2512.25071](http://arxiv.org/abs/2512.25071)|null|
 |**2025-12-31**|**Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach**|Yuchen Jiao et.al.|[2512.24927](http://arxiv.org/abs/2512.24927)|null|
 |**2025-12-30**|**RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention**|Aiyue Chen et.al.|[2512.24086](http://arxiv.org/abs/2512.24086)|null|
@@ -783,6 +785,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Categorical Reparameterization with Denoising Diffusion models**|Samson Gourevitch et.al.|[2601.00781](http://arxiv.org/abs/2601.00781)|null|
+|**2026-01-02**|**Continuous time asymptotic representations for adaptive experiments**|Karun Adusumilli et.al.|[2601.00739](http://arxiv.org/abs/2601.00739)|null|
+|**2026-01-02**|**Hadronic Origin of Sub-PeV Gamma-Ray Emission from LHAASO J0621+3755**|Sonali Sahoo et.al.|[2601.00692](http://arxiv.org/abs/2601.00692)|null|
+|**2026-01-02**|**Stimulation of surface ionization waves by pulsed laser irradiation**|Thomas Orrière et.al.|[2601.00686](http://arxiv.org/abs/2601.00686)|null|
+|**2026-01-02**|**Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation**|Taekyung Ki et.al.|[2601.00664](http://arxiv.org/abs/2601.00664)|null|
+|**2026-01-02**|**Global Dynamics and Stabilization of Zero-Mode Singularities in Multi-Scale Reaction-Diffusion Systems via Negative Coupling**|Pengyue Hou et.al.|[2601.00638](http://arxiv.org/abs/2601.00638)|null|
+|**2026-01-02**|**Video-rate holographic telepresence via single-shot, reference-free wavefront measurement**|Minwook Kim et.al.|[2601.00630](http://arxiv.org/abs/2601.00630)|null|
+|**2026-01-02**|**WiFo-MUD: Wireless Foundation Model for Heterogeneous Multi-User Demodulator**|Zonghui Yang et.al.|[2601.00612](http://arxiv.org/abs/2601.00612)|null|
+|**2026-01-02**|**SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**|Yiling Wang et.al.|[2601.00590](http://arxiv.org/abs/2601.00590)|null|
+|**2026-01-02**|**A Comprehensive Dataset for Human vs. AI Generated Image Detection**|Rajarshi Roy et.al.|[2601.00553](http://arxiv.org/abs/2601.00553)|null|
 |**2025-12-31**|**SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time**|Zhening Huang et.al.|[2512.25075](http://arxiv.org/abs/2512.25075)|null|
 |**2025-12-31**|**GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction**|Yi-Chuan Huang et.al.|[2512.25073](http://arxiv.org/abs/2512.25073)|null|
 |**2025-12-31**|**Coordinated Humanoid Manipulation with Choice Policies**|Haozhi Qi et.al.|[2512.25072](http://arxiv.org/abs/2512.25072)|null|
@@ -1548,6 +1560,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Quality Detection of Stored Potatoes via Transfer Learning: A CNN and Vision Transformer Approach**|Shrikant Kapse et.al.|[2601.00645](http://arxiv.org/abs/2601.00645)|null|
+|**2026-01-01**|**Attention to Detail: Global-Local Attention for High-Resolution AI-Generated Image Detection**|Lawrence Han et.al.|[2601.00141](http://arxiv.org/abs/2601.00141)|null|
 |**2025-12-31**|**Collaborative Low-Rank Adaptation for Pre-Trained Vision Transformers**|Zheng Liu et.al.|[2512.24603](http://arxiv.org/abs/2512.24603)|null|
 |**2025-12-30**|**Automated Classification of First-Trimester Fetal Heart Views Using Ultrasound-Specific Self-Supervised Learning**|Youssef Megahed et.al.|[2512.24492](http://arxiv.org/abs/2512.24492)|null|
 |**2025-12-30**|**Exploring Compositionality in Vision Transformers using Wavelet Representations**|Akshad Shyam Purushottamdas et.al.|[2512.24438](http://arxiv.org/abs/2512.24438)|null|
@@ -2017,6 +2031,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/abs/2601.00207)|null|
+|**2025-12-20**|**Neural Brain Fields: A NeRF-Inspired Approach for Generating Nonexistent EEG Electrodes**|Shahar Ain Kedem et.al.|[2601.00012](http://arxiv.org/abs/2601.00012)|null|
 |**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
 |**2025-12-25**|**ShinyNeRF: Digitizing Anisotropic Appearance in Neural Radiance Fields**|Albert Barreiro et.al.|[2512.21692](http://arxiv.org/abs/2512.21692)|null|
 |**2025-12-25**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|null|
@@ -2444,6 +2460,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction**|Jiewen Chan et.al.|[2601.00796](http://arxiv.org/abs/2601.00796)|null|
 |**2025-12-31**|**Projection-based Adversarial Attack using Physics-in-the-Loop Optimization for Monocular Depth Estimation**|Takeru Kusakabe et.al.|[2512.24792](http://arxiv.org/abs/2512.24792)|null|
 |**2025-12-30**|**Guided Diffusion-based Generation of Adversarial Objects for Real-World Monocular Depth Estimation Attacks**|Yongtao Chen et.al.|[2512.24111](http://arxiv.org/abs/2512.24111)|null|
 |**2025-12-29**|**Leveraging Synthetic Priors for Monocular Depth Estimation in Specular Surgical Environments**|Ankan Aich et.al.|[2512.23786](http://arxiv.org/abs/2512.23786)|null|
@@ -2717,6 +2734,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction**|Jiewen Chan et.al.|[2601.00796](http://arxiv.org/abs/2601.00796)|null|
+|**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/abs/2601.00207)|null|
 |**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
 |**2025-12-31**|**Splatwizard: A Benchmark Toolkit for 3D Gaussian Splatting Compression**|Xiang Liu et.al.|[2512.24742](http://arxiv.org/abs/2512.24742)|null|
 |**2025-12-27**|**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**|Paul Dobre et.al.|[2512.22706](http://arxiv.org/abs/2512.22706)|null|
@@ -2973,6 +2992,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-01**|**SV-GS: Sparse View 4D Reconstruction with Skeleton-Driven Gaussian Splatting**|Jun-Jee Chao et.al.|[2601.00285](http://arxiv.org/abs/2601.00285)|null|
 |**2025-12-31**|**PhysTalk: Language-driven Real-time Physics in 3D Gaussian Scenes**|Luca Collorone et.al.|[2512.24986](http://arxiv.org/abs/2512.24986)|null|
 |**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
 |**2025-12-31**|**Splatwizard: A Benchmark Toolkit for 3D Gaussian Splatting Compression**|Xiang Liu et.al.|[2512.24742](http://arxiv.org/abs/2512.24742)|null|
