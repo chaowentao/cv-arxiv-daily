@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.09
+## Updated on 2026.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Multi-Scale Local Speculative Decoding for Image Generation**|Elia Peruzzo et.al.|[2601.05149](http://arxiv.org/abs/2601.05149)|null|
+|**2026-01-08**|**LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization**|Etai Sella et.al.|[2601.05127](http://arxiv.org/abs/2601.05127)|null|
+|**2026-01-08**|**Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing**|Runze He et.al.|[2601.05124](http://arxiv.org/abs/2601.05124)|null|
+|**2026-01-08**|**Exponential capacity scaling of classical GANs compared to hybrid latent style-based quantum GANs**|Milan Liepelt et.al.|[2601.05036](http://arxiv.org/abs/2601.05036)|null|
+|**2026-01-08**|**OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images**|Miki Okamura et.al.|[2601.04915](http://arxiv.org/abs/2601.04915)|null|
+|**2026-01-08**|**SRU-Pix2Pix: A Fusion-Driven Generator Network for Medical Image Translation with Few-Shot Learning**|Xihe Qiu et.al.|[2601.04785](http://arxiv.org/abs/2601.04785)|null|
+|**2026-01-08**|**On the Holistic Approach for Detecting Human Image Forgery**|Xiao Guo et.al.|[2601.04715](http://arxiv.org/abs/2601.04715)|null|
+|**2026-01-08**|**Forge-and-Quench: Enhancing Image Generation for Higher Fidelity in Unified Multimodal Models**|Yanbing Zeng et.al.|[2601.04706](http://arxiv.org/abs/2601.04706)|null|
+|**2026-01-08**|**HyperAlign: Hyperbolic Entailment Cones for Adaptive Text-to-Image Alignment Assessment**|Wenzhi Chen et.al.|[2601.04614](http://arxiv.org/abs/2601.04614)|null|
+|**2026-01-08**|**MiLDEdit: Reasoning-Based Multi-Layer Design Document Editing**|Zihao Lin et.al.|[2601.04589](http://arxiv.org/abs/2601.04589)|null|
 |**2026-01-07**|**Bridging the Discrete-Continuous Gap: Unified Multimodal Generation via Coupled Manifold Discrete Absorbing Diffusion**|Yuanfeng Xu et.al.|[2601.04056](http://arxiv.org/abs/2601.04056)|null|
 |**2026-01-07**|**ResTok: Learning Hierarchical Residuals in 1D Visual Tokenizers for Autoregressive Image Generation**|Xu Zhang et.al.|[2601.03955](http://arxiv.org/abs/2601.03955)|null|
 |**2026-01-07**|**I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing**|Jinghan Yu et.al.|[2601.03741](http://arxiv.org/abs/2601.03741)|null|
@@ -718,7 +728,7 @@ layout: default
 |**2023-09-07**|**Light Field Depth Estimation via Stitched Epipolar Plane Images**|Ping Zhou et.al.|[2203.15201](http://arxiv.org/abs/2203.15201)|null|
 |**2022-03-29**|**Self-Supervised Light Field Depth Estimation Using Epipolar Plane Images**|Kunyuan Li et.al.|[2203.15171](http://arxiv.org/abs/2203.15171)|null|
 |**2022-03-31**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231](http://arxiv.org/abs/2203.02231)|null|
-|**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576](http://arxiv.org/abs/2203.01576)|**[link](https://github.com/YingqianWang/OACC-Net)**|
+|**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576](http://arxiv.org/abs/2203.01576)|null|
 |**2023-07-25**|**Disentangling Light Fields for Super-Resolution and Disparity Estimation**|Yingqian Wang et.al.|[2202.10603](http://arxiv.org/abs/2202.10603)|null|
 |**2022-01-24**|**Occlusion-aware Unsupervised Learning of Depth from 4-D Light Fields**|Jing Jin et.al.|[2106.03043](http://arxiv.org/abs/2106.03043)|null|
 |**2020-08-12**|**Fast and Accurate Optical Flow based Depth Map Estimation from Light Fields**|Yang Chen et.al.|[2008.04673](http://arxiv.org/abs/2008.04673)|null|
@@ -809,6 +819,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video**|Zeren Jiang et.al.|[2601.05251](http://arxiv.org/abs/2601.05251)|null|
+|**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
+|**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Boyang Wang et.al.|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
+|**2026-01-08**|**Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty in Structured Temporal Data**|James Rice et.al.|[2601.05227](http://arxiv.org/abs/2601.05227)|null|
+|**2026-01-08**|**FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching**|Danilo Danese et.al.|[2601.05212](http://arxiv.org/abs/2601.05212)|null|
+|**2026-01-08**|**Hydrodynamic interactions in a binary-mixture colloidal monolayer**|M. Chamorro-Burgos et.al.|[2601.05182](http://arxiv.org/abs/2601.05182)|null|
+|**2026-01-08**|**Revisiting the scale dependence of the Reynolds number in correlated fluctuating fluids**|Sijie Huang et.al.|[2601.05160](http://arxiv.org/abs/2601.05160)|null|
+|**2026-01-08**|**VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control**|Sixiao Zheng et.al.|[2601.05138](http://arxiv.org/abs/2601.05138)|null|
+|**2026-01-08**|**LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization**|Etai Sella et.al.|[2601.05127](http://arxiv.org/abs/2601.05127)|null|
+|**2026-01-08**|**Multigroup Radiation Diffusion on a Moving Mesh: Implementation in RICH and Application to Tidal Disruption Events**|Itamar Giron et.al.|[2601.05120](http://arxiv.org/abs/2601.05120)|null|
 |**2026-01-07**|**Transforming Video Subjective Testing with Training, Engagement, and Real-Time Feedback**|Kumar Rahul et.al.|[2601.04184](http://arxiv.org/abs/2601.04184)|null|
 |**2026-01-07**|**Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning**|Yifan Wang et.al.|[2601.04153](http://arxiv.org/abs/2601.04153)|null|
 |**2026-01-07**|**Algebraic Multigrid with Overlapping Schwarz Smoothers and Local Spectral Coarse Grids for Least Squares Problems**|Ben S. Southworth et.al.|[2601.04112](http://arxiv.org/abs/2601.04112)|null|
@@ -1614,6 +1634,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Driving on Registers**|Ellington Kirby et.al.|[2601.05083](http://arxiv.org/abs/2601.05083)|null|
+|**2026-01-07**|**Predictable Gradient Manifolds in Deep Learning: Temporal Path-Length and Intrinsic Rank as a Complexity Regime**|Anherutowa Calvo et.al.|[2601.04270](http://arxiv.org/abs/2601.04270)|null|
 |**2026-01-06**|**WeedRepFormer: Reparameterizable Vision Transformers for Real-Time Waterhemp Segmentation and Gender Classification**|Toqi Tahamid Sarker et.al.|[2601.03431](http://arxiv.org/abs/2601.03431)|null|
 |**2026-01-06**|**Foundation Model-Aided Hierarchical Control for Robust RIS-Assisted Near-Field Communications**|Mohammad Ghassemi et.al.|[2601.03427](http://arxiv.org/abs/2601.03427)|null|
 |**2026-01-06**|**Attention mechanisms in neural networks**|Hasi Hays et.al.|[2601.03329](http://arxiv.org/abs/2601.03329)|null|
@@ -2100,6 +2122,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer**|Daniele Lizzio Bosco et.al.|[2601.05250](http://arxiv.org/abs/2601.05250)|null|
+|**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](http://arxiv.org/abs/2601.04860)|null|
+|**2026-01-07**|**In-SRAM Radiant Foam Rendering on a Graph Processor**|Zulkhuu Tuya et.al.|[2601.04382](http://arxiv.org/abs/2601.04382)|null|
 |**2026-01-07**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|null|
 |**2026-01-04**|**EdgeNeRF: Edge-Guided Regularization for Neural Radiance Fields from Sparse Views**|Weiqi Yu et.al.|[2601.01431](http://arxiv.org/abs/2601.01431)|null|
 |**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/abs/2601.00207)|null|
@@ -2226,6 +2251,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**HATIR: Heat-Aware Diffusion for Turbulent Infrared Video Super-Resolution**|Yang Zou et.al.|[2601.04682](http://arxiv.org/abs/2601.04682)|null|
+|**2026-01-08**|**Studies in Astronomical Time Series Analysis: The Double Lomb-Scargle Periodogram and Super Resolution**|Jeffrey D. Scargle et.al.|[2601.04552](http://arxiv.org/abs/2601.04552)|null|
 |**2026-01-07**|**Padé Neurons for Efficient Neural Models**|Onur Keleş et.al.|[2601.04005](http://arxiv.org/abs/2601.04005)|null|
 |**2026-01-07**|**Local Interpolation via Low-Rank Tensor Trains**|Siddhartha E. Guzman et.al.|[2601.03885](http://arxiv.org/abs/2601.03885)|null|
 |**2026-01-07**|**FLNet: Flood-Induced Agriculture Damage Assessment using Super Resolution of Satellite Images**|Sanidhya Ghosal et.al.|[2601.03884](http://arxiv.org/abs/2601.03884)|null|
@@ -2541,6 +2568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
 |**2026-01-07**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|null|
 |**2026-01-07**|**IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting**|Wei Long et.al.|[2601.03824](http://arxiv.org/abs/2601.03824)|null|
 |**2026-01-06**|**Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views**|Xiang Zhang et.al.|[2601.03362](http://arxiv.org/abs/2601.03362)|null|
@@ -2826,6 +2854,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video**|Zeren Jiang et.al.|[2601.05251](http://arxiv.org/abs/2601.05251)|null|
+|**2026-01-08**|**QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer**|Daniele Lizzio Bosco et.al.|[2601.05250](http://arxiv.org/abs/2601.05250)|null|
+|**2026-01-08**|**From Rays to Projections: Better Inputs for Feed-Forward View Synthesis**|Zirui Wu et.al.|[2601.05116](http://arxiv.org/abs/2601.05116)|null|
+|**2026-01-07**|**SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting**|Diego Revilla et.al.|[2601.04348](http://arxiv.org/abs/2601.04348)|null|
 |**2026-01-06**|**Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views**|Xiang Zhang et.al.|[2601.03362](http://arxiv.org/abs/2601.03362)|null|
 |**2026-01-06**|**RelightAnyone: A Generalized Relightable 3D Gaussian Head Model**|Yingyan Xu et.al.|[2601.03357](http://arxiv.org/abs/2601.03357)|null|
 |**2026-01-06**|**InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields**|Hao Yu et.al.|[2601.03252](http://arxiv.org/abs/2601.03252)|null|
@@ -3088,6 +3120,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|null|
+|**2026-01-08**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou et.al.|[2601.04754](http://arxiv.org/abs/2601.04754)|null|
+|**2026-01-07**|**SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting**|Diego Revilla et.al.|[2601.04348](http://arxiv.org/abs/2601.04348)|null|
 |**2026-01-07**|**IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting**|Wei Long et.al.|[2601.03824](http://arxiv.org/abs/2601.03824)|null|
 |**2026-01-07**|**G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Semantic Segmentation**|Hojun Song et.al.|[2601.03510](http://arxiv.org/abs/2601.03510)|null|
 |**2026-01-06**|**RelightAnyone: A Generalized Relightable 3D Gaussian Head Model**|Yingyan Xu et.al.|[2601.03357](http://arxiv.org/abs/2601.03357)|null|
