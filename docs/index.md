@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning**|Dongjie Cheng et.al.|[2601.09536](http://arxiv.org/abs/2601.09536)|**[link](https://github.com/ModalityDance/Omni-R1)**|
+|**2026-01-14**|**PhyRPR: Training-Free Physics-Constrained Video Generation**|Yibo Zhao et.al.|[2601.09255](http://arxiv.org/abs/2601.09255)|null|
+|**2026-01-14**|**Knowledge-Embedded and Hypernetwork-Guided Few-Shot Substation Meter Defect Image Generation Method**|Jackie Alex et.al.|[2601.09238](http://arxiv.org/abs/2601.09238)|null|
+|**2026-01-14**|**SpikeVAEDiff: Neural Spike-based Natural Visual Scene Reconstruction via VD-VAE and Versatile Diffusion**|Jialu Li et.al.|[2601.09213](http://arxiv.org/abs/2601.09213)|null|
+|**2026-01-14**|**Annealed Relaxation of Speculative Decoding for Faster Autoregressive Image Generation**|Xingyao Li et.al.|[2601.09212](http://arxiv.org/abs/2601.09212)|null|
+|**2026-01-14**|**Architecture inside the mirage: evaluating generative image models on architectural style, elements, and typologies**|Jamie Magrill et.al.|[2601.09169](http://arxiv.org/abs/2601.09169)|null|
+|**2026-01-14**|**How Many Human Judgments Are Enough? Feasibility Limits of Human Preference Evaluation**|Wilson Y. Lee et.al.|[2601.09084](http://arxiv.org/abs/2601.09084)|null|
 |**2026-01-13**|**Aggregating Diverse Cue Experts for AI-Generated Image Detection**|Lei Tan et.al.|[2601.08790](http://arxiv.org/abs/2601.08790)|null|
 |**2026-01-13**|**SafeRedir: Prompt Embedding Redirection for Robust Unlearning in Image Generation Models**|Renyang Liu et.al.|[2601.08623](http://arxiv.org/abs/2601.08623)|null|
 |**2026-01-13**|**Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs**|Takara Taniguchi et.al.|[2601.08470](http://arxiv.org/abs/2601.08470)|null|
@@ -839,6 +846,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**|Jieying Chen et.al.|[2601.09697](http://arxiv.org/abs/2601.09697)|null|
+|**2026-01-14**|**Explaining oscillatory behavior in convection-diffusion discretization**|Constantin Bacuta et.al.|[2601.09657](http://arxiv.org/abs/2601.09657)|null|
+|**2026-01-14**|**Long-Term Average Impulse and Singular Control of a Growth Model with Two Revenue Sources**|K. L. Helmes et.al.|[2601.09646](http://arxiv.org/abs/2601.09646)|null|
+|**2026-01-14**|**Submicrometer tunnel ferromagnetic Josephson junctions with transmon energy scale**|R. Satariano et.al.|[2601.09591](http://arxiv.org/abs/2601.09591)|null|
+|**2026-01-14**|**Trustworthy Longitudinal Brain MRI Completion: A Deformation-Based Approach with KAN-Enhanced Diffusion Model**|Tianli Tao et.al.|[2601.09572](http://arxiv.org/abs/2601.09572)|null|
+|**2026-01-14**|**GlovEgo-HOI: Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection**|Alfio Spoto et.al.|[2601.09528](http://arxiv.org/abs/2601.09528)|null|
+|**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Jin Huang et.al.|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
+|**2026-01-14**|**MAD: Motion Appearance Decoupling for efficient Driving World Models**|Ahmad Rahimi et.al.|[2601.09452](http://arxiv.org/abs/2601.09452)|null|
+|**2026-01-14**|**Quasiparticle to local moment crossover in bad metals**|A. Chen et.al.|[2601.09420](http://arxiv.org/abs/2601.09420)|null|
+|**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 |**2026-01-13**|**RAVEN: Erasing Invisible Watermarks via Novel View Synthesis**|Fahad Shamshad et.al.|[2601.08832](http://arxiv.org/abs/2601.08832)|null|
 |**2026-01-13**|**On the use of graph models to achieve individual and group fairness**|Arturo Pérez-Peralta et.al.|[2601.08784](http://arxiv.org/abs/2601.08784)|null|
 |**2026-01-13**|**Evidence of sloshing-driven mini-halo formation in the cool-core cluster RXCJ1558.3-1410**|Vishal S. Kale et.al.|[2601.08757](http://arxiv.org/abs/2601.08757)|null|
@@ -1684,6 +1701,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Do Transformers Understand Ancient Roman Coin Motifs Better than CNNs?**|David Reid et.al.|[2601.09433](http://arxiv.org/abs/2601.09433)|null|
+|**2026-01-14**|**Beyond the final layer: Attentive multilayer fusion for vision transformers**|Laure Ciernik et.al.|[2601.09322](http://arxiv.org/abs/2601.09322)|null|
+|**2026-01-14**|**Equi-ViT: Rotational Equivariant Vision Transformer for Robust Histopathology Analysis**|Fuyao Chen et.al.|[2601.09130](http://arxiv.org/abs/2601.09130)|null|
+|**2026-01-14**|**Depth-Wise Representation Development Under Blockwise Self-Supervised Learning for Video Vision Transformers**|Jonas Römer et.al.|[2601.09040](http://arxiv.org/abs/2601.09040)|null|
+|**2026-01-12**|**Compressing Vision Transformers in Geospatial Transfer Learning with Manifold-Constrained Optimization**|Thomas Snyder et.al.|[2601.08882](http://arxiv.org/abs/2601.08882)|null|
 |**2026-01-13**|**EfficientFSL: Enhancing Few-Shot Classification via Query-Only Tuning in Vision Transformers**|Wenwen Liao et.al.|[2601.08499](http://arxiv.org/abs/2601.08499)|null|
 |**2026-01-13**|**Effective outdoor pathloss prediction: A multi-layer segmentation approach with weighting map**|Yuan Gao et.al.|[2601.08436](http://arxiv.org/abs/2601.08436)|null|
 |**2026-01-13**|**Temporal-Enhanced Interpretable Multi-Modal Prognosis and Risk Stratification Framework for Diabetic Retinopathy (TIMM-ProRS)**|Susmita Kar et.al.|[2601.08240](http://arxiv.org/abs/2601.08240)|null|
@@ -2316,6 +2338,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Detail Loss in Super-Resolution Models Based on the Laplacian Pyramid and Repeated Upscaling and Downscaling Process**|Sangjun Han et.al.|[2601.09410](http://arxiv.org/abs/2601.09410)|null|
 |**2026-01-13**|**S3-CLIP: Video Super Resolution for Person-ReID**|Tamas Endrei et.al.|[2601.08807](http://arxiv.org/abs/2601.08807)|null|
 |**2026-01-13**|**From Local Windows to Adaptive Candidates via Individualized Exploratory: Rethinking Attention for Image Super-Resolution**|Chunyu Meng et.al.|[2601.08341](http://arxiv.org/abs/2601.08341)|null|
 |**2026-01-12**|**Sub-Pixel Electron Beam Alignment for Machine Learning Characterization of Hybrid Pixel Detectors**|Emiliya Poghosyan et.al.|[2601.07682](http://arxiv.org/abs/2601.07682)|null|
@@ -3199,6 +3222,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Variable Basis Mapping for Real-Time Volumetric Visualization**|Qibiao Li et.al.|[2601.09417](http://arxiv.org/abs/2601.09417)|null|
+|**2026-01-14**|**TIDI-GS: Floater Suppression in 3D Gaussian Splatting for Enhanced Indoor Scene Fidelity**|Sooyeun Yang et.al.|[2601.09291](http://arxiv.org/abs/2601.09291)|null|
+|**2026-01-14**|**GaussianFluent: Gaussian Simulation for Dynamic Scenes with Mixed Materials**|Bei Huang et.al.|[2601.09265](http://arxiv.org/abs/2601.09265)|null|
+|**2026-01-14**|**A $^2$ TG: Adaptive Anisotropic Textured Gaussians for Efficient 3D Scene Representation**|Sheng-Chi Hsu et.al.|[2601.09243](http://arxiv.org/abs/2601.09243)|null|
 |**2026-01-12**|**3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing**|Jiahua Dong et.al.|[2601.07963](http://arxiv.org/abs/2601.07963)|null|
 |**2026-01-13**|**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**|Farhad G. Zanjani et.al.|[2601.07540](http://arxiv.org/abs/2601.07540)|null|
 |**2026-01-12**|**Mon3tr: Monocular 3D Telepresence with Pre-built Gaussian Avatars as Amortization**|Fangyu Lin et.al.|[2601.07518](http://arxiv.org/abs/2601.07518)|null|
