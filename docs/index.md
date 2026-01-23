@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.22
+## Updated on 2026.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Iterative Refinement Improves Compositional Image Generation**|Shantanu Jaiswal et.al.|[2601.15286](http://arxiv.org/abs/2601.15286)|**[link](https://github.com/shantanuj/Iterative-Image-Gen)**|
+|**2026-01-21**|**Differential Privacy Image Generation with Reconstruction Loss and Noise Injection Using an Error Feedback SGD**|Qiwei Ma et.al.|[2601.15061](http://arxiv.org/abs/2601.15061)|null|
+|**2026-01-21**|**TempViz: On the Evaluation of Temporal Knowledge in Text-to-Image Models**|Carolin Holtermann et.al.|[2601.14951](http://arxiv.org/abs/2601.14951)|null|
+|**2026-01-21**|**Synthetic Data Augmentation for Multi-Task Chinese Porcelain Classification: A Stable Diffusion Approach**|Ziyao Ling et.al.|[2601.14791](http://arxiv.org/abs/2601.14791)|null|
+|**2026-01-21**|**Enhancing Text-to-Image Generation via End-Edge Collaborative Hybrid Super-Resolution**|Chongbin Yi et.al.|[2601.14741](http://arxiv.org/abs/2601.14741)|null|
+|**2026-01-21**|**Safeguarding Facial Identity against Diffusion-based Face Swapping via Cascading Pathway Disruption**|Liqin Wang et.al.|[2601.14738](http://arxiv.org/abs/2601.14738)|null|
+|**2026-01-21**|**Mirai: Autoregressive Visual Generation Needs Foresight**|Yonghao Yu et.al.|[2601.14671](http://arxiv.org/abs/2601.14671)|null|
+|**2026-01-21**|**3D Space as a Scratchpad for Editable Text-to-Image Generation**|Oindrila Saha et.al.|[2601.14602](http://arxiv.org/abs/2601.14602)|null|
 |**2026-01-20**|**Implicit Neural Representation Facilitates Unified Universal Vision Encoding**|Matthew Gwilliam et.al.|[2601.14256](http://arxiv.org/abs/2601.14256)|null|
 |**2026-01-20**|**Prospecting MeerKAT Continuum Data for Enigmatic Radio Sources with Unsupervised Vector-Quantised Variational Autoencoders**|Fernando L. Ventura et.al.|[2601.13901](http://arxiv.org/abs/2601.13901)|null|
 |**2026-01-20**|**Dynamic Differential Linear Attention: Enhancing Linear Diffusion Transformer for High-Quality Image Generation**|Boyuan Cao et.al.|[2601.13683](http://arxiv.org/abs/2601.13683)|null|
@@ -861,6 +869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping**|Jiwon Kang et.al.|[2601.15288](http://arxiv.org/abs/2601.15288)|null|
+|**2026-01-21**|**Walk through Paintings: Egocentric World Models from Internet Priors**|Anurag Bagchi et.al.|[2601.15284](http://arxiv.org/abs/2601.15284)|null|
+|**2026-01-21**|**The baryonic mass-size relation of galaxies. II. Implications for the evolutionary paths between star-forming and passive galaxies**|Zichen Hua et.al.|[2601.15274](http://arxiv.org/abs/2601.15274)|null|
+|**2026-01-21**|**FlowSSC: Universal Generative Monocular Semantic Scene Completion via One-Step Latent Diffusion**|Zichen Xi et.al.|[2601.15250](http://arxiv.org/abs/2601.15250)|null|
+|**2026-01-21**|**De Giorgi's regularity theory for elliptic, parabolic and kinetic equations**|Cyril Imbert et.al.|[2601.15238](http://arxiv.org/abs/2601.15238)|null|
+|**2026-01-21**|**Elementary excitations in dilute gases**|Jaeyun Moon et.al.|[2601.15233](http://arxiv.org/abs/2601.15233)|null|
+|**2026-01-21**|**ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation**|Hanlei Guo et.al.|[2601.15221](http://arxiv.org/abs/2601.15221)|null|
+|**2026-01-21**|**Enhanced posterior sampling via diffusion models for efficient metasurfaces inverse design**|Mathys Le Grand et.al.|[2601.15210](http://arxiv.org/abs/2601.15210)|null|
+|**2026-01-21**|**Magneto-Archeology of White Dwarfs. Revisiting the fossil field scenario with observational constraints during the red giant branch**|Lukas Einramhof et.al.|[2601.15203](http://arxiv.org/abs/2601.15203)|null|
+|**2026-01-21**|**Assessing Orbital Optimization in Variational and Diffusion Monte Carlo**|Cody A. Melton et.al.|[2601.15169](http://arxiv.org/abs/2601.15169)|null|
 |**2026-01-20**|**VideoMaMa: Mask-Guided Video Matting via Generative Prior**|Sangbeom Lim et.al.|[2601.14255](http://arxiv.org/abs/2601.14255)|null|
 |**2026-01-20**|**Q-learning with Adjoint Matching**|Qiyang Li et.al.|[2601.14234](http://arxiv.org/abs/2601.14234)|null|
 |**2026-01-20**|**Attention-Based Offline Reinforcement Learning and Clustering for Interpretable Sepsis Treatment**|Punit Kumar et.al.|[2601.14228](http://arxiv.org/abs/2601.14228)|null|
@@ -1746,6 +1764,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Towards Understanding Best Practices for Quantization of Vision-Language Models**|Gautom Das et.al.|[2601.15287](http://arxiv.org/abs/2601.15287)|null|
 |**2026-01-20**|**One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**|Yitong Dong et.al.|[2601.14161](http://arxiv.org/abs/2601.14161)|null|
 |**2026-01-20**|**VENI: Variational Encoder for Natural Illumination**|Paul Walker et.al.|[2601.14079](http://arxiv.org/abs/2601.14079)|null|
 |**2026-01-19**|**Seeing Isn't Always Believing: Analysis of Grad-CAM Faithfulness and Localization Reliability in Lung Cancer CT Classification**|Teerapong Panboonyuen et.al.|[2601.12826](http://arxiv.org/abs/2601.12826)|null|
@@ -2264,6 +2283,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**GAT-NeRF: Geometry-Aware-Transformer Enhanced Neural Radiance Fields for High-Fidelity 4D Facial Avatars**|Zhe Chang et.al.|[2601.14875](http://arxiv.org/abs/2601.14875)|null|
+|**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
 |**2026-01-19**|**TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement**|Belal Shaheen et.al.|[2601.12823](http://arxiv.org/abs/2601.12823)|null|
 |**2026-01-10**|**HOSC: A Periodic Activation with Saturation Control for High-Fidelity Implicit Neural Representations**|Michal Jan Wlodarczyk et.al.|[2601.07870](http://arxiv.org/abs/2601.07870)|null|
 |**2026-01-08**|**QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer**|Daniele Lizzio Bosco et.al.|[2601.05250](http://arxiv.org/abs/2601.05250)|null|
@@ -2395,6 +2416,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Field-Space Autoencoder for Scalable Climate Emulators**|Johannes Meuer et.al.|[2601.15102](http://arxiv.org/abs/2601.15102)|null|
+|**2026-01-21**|**Enhancing Text-to-Image Generation via End-Edge Collaborative Hybrid Super-Resolution**|Chongbin Yi et.al.|[2601.14741](http://arxiv.org/abs/2601.14741)|null|
+|**2026-01-20**|**Quantum Super-resolution by Adaptive Non-local Observables**|Hsin-Yi Lin et.al.|[2601.14433](http://arxiv.org/abs/2601.14433)|null|
 |**2026-01-20**|**Likelihood-Separable Diffusion Inference for Multi-Image MRI Super-Resolution**|Samuel W. Remedios et.al.|[2601.14030](http://arxiv.org/abs/2601.14030)|null|
 |**2026-01-20**|**SHARE: A Fully Unsupervised Framework for Single Hyperspectral Image Restoration**|Jiangwei Xie et.al.|[2601.13987](http://arxiv.org/abs/2601.13987)|null|
 |**2026-01-19**|**SSPFormer: Self-Supervised Pretrained Transformer for MRI Images**|Jingkai Li et.al.|[2601.12747](http://arxiv.org/abs/2601.12747)|null|
@@ -2724,9 +2748,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
 |**2026-01-16**|**studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting**|Yimu Pan et.al.|[2601.11772](http://arxiv.org/abs/2601.11772)|null|
 |**2026-01-16**|**SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models**|Turhan Can Kargin et.al.|[2601.11729](http://arxiv.org/abs/2601.11729)|null|
-|**2026-01-15**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814](http://arxiv.org/abs/2601.10814)|null|
+|**2026-01-20**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814](http://arxiv.org/abs/2601.10814)|null|
 |**2026-01-16**|**NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration**|Subhajit Sanyal et.al.|[2601.09823](http://arxiv.org/abs/2601.09823)|null|
 |**2026-01-13**|**CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval**|Feiran Wang et.al.|[2601.08175](http://arxiv.org/abs/2601.08175)|null|
 |**2026-01-18**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|null|
@@ -3017,6 +3042,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
+|**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
 |**2026-01-20**|**One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**|Yitong Dong et.al.|[2601.14161](http://arxiv.org/abs/2601.14161)|null|
 |**2026-01-19**|**CSGaussian: Progressive Rate-Distortion Compression and Segmentation for 3D Gaussian Splatting**|Yu-Jen Tseng et.al.|[2601.12814](http://arxiv.org/abs/2601.12814)|null|
 |**2026-01-17**|**DIAMOND-SSS: Diffusion-Augmented Multi-View Optimization for Data-efficient SubSurface Scattering**|Guillermo Figueroa-Araneda et.al.|[2601.12020](http://arxiv.org/abs/2601.12020)|null|
@@ -3294,6 +3321,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**LuxRemix: Lighting Decomposition and Remixing for Indoor Scenes**|Ruofan Liang et.al.|[2601.15283](http://arxiv.org/abs/2601.15283)|null|
+|**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
+|**2026-01-20**|**Structured Image-based Coding for Efficient Gaussian Splatting Compression**|Pedro Martin et.al.|[2601.14510](http://arxiv.org/abs/2601.14510)|null|
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|null|
 |**2026-01-20**|**One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**|Yitong Dong et.al.|[2601.14161](http://arxiv.org/abs/2601.14161)|null|
 |**2026-01-20**|**ParkingTwin: Training-Free Streaming 3D Reconstruction for Parking-Lot Digital Twins**|Xinhao Liu et.al.|[2601.13706](http://arxiv.org/abs/2601.13706)|null|
