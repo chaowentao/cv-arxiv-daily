@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.23
+## Updated on 2026.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-21**|**Iterative Refinement Improves Compositional Image Generation**|Shantanu Jaiswal et.al.|[2601.15286](http://arxiv.org/abs/2601.15286)|**[link](https://github.com/shantanuj/Iterative-Image-Gen)**|
+|**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|**[link](https://github.com/SighingSnow/edir)**|
+|**2026-01-22**|**ProGiDiff: Prompt-Guided Diffusion-Based Medical Image Segmentation**|Yuan Lin et.al.|[2601.16060](http://arxiv.org/abs/2601.16060)|null|
+|**2026-01-22**|**Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**|Mingyu Yu et.al.|[2601.15698](http://arxiv.org/abs/2601.15698)|null|
+|**2026-01-22**|**Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling**|Hongyang Wei et.al.|[2601.15664](http://arxiv.org/abs/2601.15664)|null|
+|**2026-01-22**|**Relative Classification Accuracy: A Calibrated Metric for Identity Consistency in Fine-Grained K-pop Face Generation**|Sylvey Lin et.al.|[2601.15560](http://arxiv.org/abs/2601.15560)|null|
+|**2026-01-21**|**Controllable Layered Image Generation for Real-World Editing**|Jinrui Yang et.al.|[2601.15507](http://arxiv.org/abs/2601.15507)|null|
+|**2026-01-21**|**Hybrid Vision Transformer_GAN Attribute Neutralizer for Mitigating Bias in Chest X_Ray Diagnosis**|Jobeal Solomon et.al.|[2601.15490](http://arxiv.org/abs/2601.15490)|null|
+|**2026-01-21**|**Ambient Dataloops: Generative Models for Dataset Refinement**|Adrián Rodríguez-Muñoz et.al.|[2601.15417](http://arxiv.org/abs/2601.15417)|null|
+|**2026-01-21**|**OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation**|Letian Zhang et.al.|[2601.15369](http://arxiv.org/abs/2601.15369)|null|
+|**2026-01-21**|**Iterative Refinement Improves Compositional Image Generation**|Shantanu Jaiswal et.al.|[2601.15286](http://arxiv.org/abs/2601.15286)|null|
 |**2026-01-21**|**Differential Privacy Image Generation with Reconstruction Loss and Noise Injection Using an Error Feedback SGD**|Qiwei Ma et.al.|[2601.15061](http://arxiv.org/abs/2601.15061)|null|
 |**2026-01-21**|**TempViz: On the Evaluation of Temporal Knowledge in Text-to-Image Models**|Carolin Holtermann et.al.|[2601.14951](http://arxiv.org/abs/2601.14951)|null|
 |**2026-01-21**|**Synthetic Data Augmentation for Multi-Task Chinese Porcelain Classification: A Stable Diffusion Approach**|Ziyao Ling et.al.|[2601.14791](http://arxiv.org/abs/2601.14791)|null|
@@ -869,6 +878,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback**|Wenhang Ge et.al.|[2601.16214](http://arxiv.org/abs/2601.16214)|null|
+|**2026-01-22**|**Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders**|Shengbang Tong et.al.|[2601.16208](http://arxiv.org/abs/2601.16208)|null|
+|**2026-01-22**|**360Anything: Geometry-Free Lifting of Images and Videos to 360°**|Ziyi Wu et.al.|[2601.16192](http://arxiv.org/abs/2601.16192)|null|
+|**2026-01-22**|**On the Missing Red Giants near the Galactic Center**|Taeho Kim et.al.|[2601.16191](http://arxiv.org/abs/2601.16191)|null|
+|**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
+|**2026-01-22**|**A saturation bound for cumulative responses under local linear relaxation**|Sanjeev Kumar Verma et.al.|[2601.16157](http://arxiv.org/abs/2601.16157)|null|
+|**2026-01-22**|**Pay (Cross) Attention to the Melody: Curriculum Masking for Single-Encoder Melodic Harmonization**|Maximos Kaliakatsos-Papakostas et.al.|[2601.16150](http://arxiv.org/abs/2601.16150)|null|
+|**2026-01-22**|**ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion**|Remy Sabathier et.al.|[2601.16148](http://arxiv.org/abs/2601.16148)|null|
+|**2026-01-22**|**On the Ginzburg-Landau approximation for quasilinear pattern forming reaction-diffusion-advection systems**|Théo Belin et.al.|[2601.16145](http://arxiv.org/abs/2601.16145)|null|
+|**2026-01-22**|**Learning to Watermark in the Latent Space of Generative Models**|Sylvestre-Alvise Rebuffi et.al.|[2601.16140](http://arxiv.org/abs/2601.16140)|null|
 |**2026-01-21**|**APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping**|Jiwon Kang et.al.|[2601.15288](http://arxiv.org/abs/2601.15288)|null|
 |**2026-01-21**|**Walk through Paintings: Egocentric World Models from Internet Priors**|Anurag Bagchi et.al.|[2601.15284](http://arxiv.org/abs/2601.15284)|null|
 |**2026-01-21**|**The baryonic mass-size relation of galaxies. II. Implications for the evolutionary paths between star-forming and passive galaxies**|Zichen Hua et.al.|[2601.15274](http://arxiv.org/abs/2601.15274)|null|
@@ -1764,6 +1783,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**The Latency Wall: Benchmarking Off-the-Shelf Emotion Recognition for Real-Time Virtual Avatars**|Yarin Benyamin et.al.|[2601.15914](http://arxiv.org/abs/2601.15914)|null|
+|**2026-01-22**|**MapViT: A Two-Stage ViT-Based Framework for Real-Time Radio Quality Map Prediction in Dynamic Environments**|Cyril Shih-Huan Hsu et.al.|[2601.15578](http://arxiv.org/abs/2601.15578)|null|
+|**2026-01-21**|**ViT Registers and Fractal ViT**|Jason Chuan-Chih Chou et.al.|[2601.15506](http://arxiv.org/abs/2601.15506)|null|
+|**2026-01-21**|**Hybrid Vision Transformer_GAN Attribute Neutralizer for Mitigating Bias in Chest X_Ray Diagnosis**|Jobeal Solomon et.al.|[2601.15490](http://arxiv.org/abs/2601.15490)|null|
 |**2026-01-21**|**Towards Understanding Best Practices for Quantization of Vision-Language Models**|Gautom Das et.al.|[2601.15287](http://arxiv.org/abs/2601.15287)|null|
 |**2026-01-20**|**One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**|Yitong Dong et.al.|[2601.14161](http://arxiv.org/abs/2601.14161)|null|
 |**2026-01-20**|**VENI: Variational Encoder for Natural Illumination**|Paul Walker et.al.|[2601.14079](http://arxiv.org/abs/2601.14079)|null|
@@ -2283,6 +2306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events**|Yunshan Qi et.al.|[2601.15475](http://arxiv.org/abs/2601.15475)|null|
 |**2026-01-21**|**GAT-NeRF: Geometry-Aware-Transformer Enhanced Neural Radiance Fields for High-Fidelity 4D Facial Avatars**|Zhe Chang et.al.|[2601.14875](http://arxiv.org/abs/2601.14875)|null|
 |**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
 |**2026-01-19**|**TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement**|Belal Shaheen et.al.|[2601.12823](http://arxiv.org/abs/2601.12823)|null|
@@ -2748,6 +2772,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Disparate Quantum Corrections to Conduction in Carbon Nanotube Bundles**|Shengjie Yu et.al.|[2601.15570](http://arxiv.org/abs/2601.15570)|null|
 |**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
 |**2026-01-16**|**studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting**|Yimu Pan et.al.|[2601.11772](http://arxiv.org/abs/2601.11772)|null|
 |**2026-01-16**|**SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models**|Turhan Can Kargin et.al.|[2601.11729](http://arxiv.org/abs/2601.11729)|null|
@@ -3042,6 +3067,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
+|**2026-01-21**|**Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events**|Yunshan Qi et.al.|[2601.15475](http://arxiv.org/abs/2601.15475)|null|
 |**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
 |**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
 |**2026-01-20**|**One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**|Yitong Dong et.al.|[2601.14161](http://arxiv.org/abs/2601.14161)|null|
@@ -3321,9 +3348,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
+|**2026-01-22**|**ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.|[2601.15897](http://arxiv.org/abs/2601.15897)|null|
+|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
+|**2026-01-22**|**LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps**|Yuhan Chen et.al.|[2601.15766](http://arxiv.org/abs/2601.15766)|null|
+|**2026-01-21**|**SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication**|Yinghan Xu et.al.|[2601.15431](http://arxiv.org/abs/2601.15431)|null|
 |**2026-01-21**|**LuxRemix: Lighting Decomposition and Remixing for Indoor Scenes**|Ruofan Liang et.al.|[2601.15283](http://arxiv.org/abs/2601.15283)|null|
 |**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
-|**2026-01-20**|**Structured Image-based Coding for Efficient Gaussian Splatting Compression**|Pedro Martin et.al.|[2601.14510](http://arxiv.org/abs/2601.14510)|null|
+|**2026-01-22**|**Structured Image-based Coding for Efficient Gaussian Splatting Compression**|Pedro Martin et.al.|[2601.14510](http://arxiv.org/abs/2601.14510)|null|
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|null|
 |**2026-01-20**|**One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**|Yitong Dong et.al.|[2601.14161](http://arxiv.org/abs/2601.14161)|null|
 |**2026-01-20**|**ParkingTwin: Training-Free Streaming 3D Reconstruction for Parking-Lot Digital Twins**|Xinhao Liu et.al.|[2601.13706](http://arxiv.org/abs/2601.13706)|null|
