@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|**[link](https://github.com/SighingSnow/edir)**|
+|**2026-01-23**|**SoS: Analysis of Surface over Semantics in Multilingual Text-To-Image Generation**|Carolin Holtermann et.al.|[2601.16803](http://arxiv.org/abs/2601.16803)|null|
+|**2026-01-23**|**A Novel Transfer Learning Approach for Mental Stability Classification from Voice Signal**|Rafiul Islam et.al.|[2601.16793](http://arxiv.org/abs/2601.16793)|null|
+|**2026-01-23**|**Evaluating Generative AI in the Lab: Methodological Challenges and Guidelines**|Hyerim Park et.al.|[2601.16740](http://arxiv.org/abs/2601.16740)|null|
+|**2026-01-23**|**Fast, faithful and photorealistic diffusion-based image super-resolution with enhanced Flow Map models**|Maxence Noble et.al.|[2601.16660](http://arxiv.org/abs/2601.16660)|null|
+|**2026-01-23**|**Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss**|Minsu Gong et.al.|[2601.16645](http://arxiv.org/abs/2601.16645)|null|
+|**2026-01-23**|**Secure Intellicise Wireless Network: Agentic AI for Coverless Semantic Steganography Communication**|Rui Meng et.al.|[2601.16472](http://arxiv.org/abs/2601.16472)|null|
+|**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|null|
 |**2026-01-22**|**ProGiDiff: Prompt-Guided Diffusion-Based Medical Image Segmentation**|Yuan Lin et.al.|[2601.16060](http://arxiv.org/abs/2601.16060)|null|
 |**2026-01-22**|**Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**|Mingyu Yu et.al.|[2601.15698](http://arxiv.org/abs/2601.15698)|null|
 |**2026-01-22**|**Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling**|Hongyang Wei et.al.|[2601.15664](http://arxiv.org/abs/2601.15664)|null|
@@ -878,6 +884,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**AnyView: Synthesizing Any Novel View in Dynamic Scenes**|Basile Van Hoorick et.al.|[2601.16982](http://arxiv.org/abs/2601.16982)|null|
+|**2026-01-23**|**SyncLight: Controllable and Consistent Multi-View Relighting**|David Serrano-Lozano et.al.|[2601.16981](http://arxiv.org/abs/2601.16981)|null|
+|**2026-01-23**|**Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection**|Estela Sánchez-Carballo et.al.|[2601.16976](http://arxiv.org/abs/2601.16976)|null|
+|**2026-01-23**|**Auto-Regressive Masked Diffusion Models**|Mahdi Karami et.al.|[2601.16971](http://arxiv.org/abs/2601.16971)|null|
+|**2026-01-23**|**Thermodynamically consistent large-eddy simulation models**|Thomas Dubos et.al.|[2601.16957](http://arxiv.org/abs/2601.16957)|null|
+|**2026-01-23**|**MAGE-KT: Multi-Agent Graph-Enhanced Knowledge Tracing with Subgraph Retrieval and Asymmetric Fusion**|Chi Yu et.al.|[2601.16886](http://arxiv.org/abs/2601.16886)|null|
+|**2026-01-23**|**Universal classical and quantum fluctuations in the large deviations of current of noisy quantum systems: The case of QSSEP and QSSIP**|Mathias Albert et.al.|[2601.16883](http://arxiv.org/abs/2601.16883)|null|
+|**2026-01-23**|**A Lyapunov-tamed Euler method for singular SDEs**|Tim Johnston et.al.|[2601.16878](http://arxiv.org/abs/2601.16878)|null|
+|**2026-01-23**|**No Validation, No Problem: Predicting Model Performance from a Single Gradient**|Fangzheng Wu et.al.|[2601.16874](http://arxiv.org/abs/2601.16874)|null|
+|**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763](http://arxiv.org/abs/2601.16763)|null|
 |**2026-01-22**|**CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback**|Wenhang Ge et.al.|[2601.16214](http://arxiv.org/abs/2601.16214)|null|
 |**2026-01-22**|**Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders**|Shengbang Tong et.al.|[2601.16208](http://arxiv.org/abs/2601.16208)|null|
 |**2026-01-22**|**360Anything: Geometry-Free Lifting of Images and Videos to 360°**|Ziyi Wu et.al.|[2601.16192](http://arxiv.org/abs/2601.16192)|null|
@@ -1783,6 +1799,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Multi-View Consistent Wound Segmentation With Neural Fields**|Remi Chierchia et.al.|[2601.16487](http://arxiv.org/abs/2601.16487)|null|
 |**2026-01-22**|**The Latency Wall: Benchmarking Off-the-Shelf Emotion Recognition for Real-Time Virtual Avatars**|Yarin Benyamin et.al.|[2601.15914](http://arxiv.org/abs/2601.15914)|null|
 |**2026-01-22**|**MapViT: A Two-Stage ViT-Based Framework for Real-Time Radio Quality Map Prediction in Dynamic Environments**|Cyril Shih-Huan Hsu et.al.|[2601.15578](http://arxiv.org/abs/2601.15578)|null|
 |**2026-01-21**|**ViT Registers and Fractal ViT**|Jason Chuan-Chih Chou et.al.|[2601.15506](http://arxiv.org/abs/2601.15506)|null|
@@ -2306,6 +2323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Multi-View Consistent Wound Segmentation With Neural Fields**|Remi Chierchia et.al.|[2601.16487](http://arxiv.org/abs/2601.16487)|null|
 |**2026-01-21**|**Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events**|Yunshan Qi et.al.|[2601.15475](http://arxiv.org/abs/2601.15475)|null|
 |**2026-01-21**|**GAT-NeRF: Geometry-Aware-Transformer Enhanced Neural Radiance Fields for High-Fidelity 4D Facial Avatars**|Zhe Chang et.al.|[2601.14875](http://arxiv.org/abs/2601.14875)|null|
 |**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
@@ -2440,6 +2458,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Fast, faithful and photorealistic diffusion-based image super-resolution with enhanced Flow Map models**|Maxence Noble et.al.|[2601.16660](http://arxiv.org/abs/2601.16660)|null|
+|**2026-01-23**|**Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images Using Fully Synthetic Training**|Xinxin Xu et.al.|[2601.16602](http://arxiv.org/abs/2601.16602)|null|
+|**2026-01-23**|**DeMark: A Query-Free Black-Box Attack on Deepfake Watermarking Defenses**|Wei Song et.al.|[2601.16473](http://arxiv.org/abs/2601.16473)|null|
+|**2026-01-23**|**Mode Conversion of Hyperbolic Phonon Polaritons in van der Waals terraces**|Byung-Il Noh et.al.|[2601.16465](http://arxiv.org/abs/2601.16465)|null|
+|**2026-01-23**|**A Cosine Network for Image Super-Resolution**|Chunwei Tian et.al.|[2601.16413](http://arxiv.org/abs/2601.16413)|null|
 |**2026-01-21**|**Field-Space Autoencoder for Scalable Climate Emulators**|Johannes Meuer et.al.|[2601.15102](http://arxiv.org/abs/2601.15102)|null|
 |**2026-01-21**|**Enhancing Text-to-Image Generation via End-Edge Collaborative Hybrid Super-Resolution**|Chongbin Yi et.al.|[2601.14741](http://arxiv.org/abs/2601.14741)|null|
 |**2026-01-20**|**Quantum Super-resolution by Adaptive Non-local Observables**|Hsin-Yi Lin et.al.|[2601.14433](http://arxiv.org/abs/2601.14433)|null|
@@ -2772,6 +2795,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532](http://arxiv.org/abs/2601.16532)|null|
 |**2026-01-22**|**Disparate Quantum Corrections to Conduction in Carbon Nanotube Bundles**|Shengjie Yu et.al.|[2601.15570](http://arxiv.org/abs/2601.15570)|null|
 |**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
 |**2026-01-16**|**studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting**|Yimu Pan et.al.|[2601.11772](http://arxiv.org/abs/2601.11772)|null|
@@ -3067,6 +3091,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**AnyView: Synthesizing Any Novel View in Dynamic Scenes**|Basile Van Hoorick et.al.|[2601.16982](http://arxiv.org/abs/2601.16982)|null|
+|**2026-01-23**|**A Step to Decouple Optimization in 3DGS**|Renjie Ding et.al.|[2601.16736](http://arxiv.org/abs/2601.16736)|null|
+|**2026-01-22**|**Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory**|Dohun Lee et.al.|[2601.16296](http://arxiv.org/abs/2601.16296)|null|
 |**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
 |**2026-01-21**|**Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events**|Yunshan Qi et.al.|[2601.15475](http://arxiv.org/abs/2601.15475)|null|
 |**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
@@ -3348,6 +3375,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**A Step to Decouple Optimization in 3DGS**|Renjie Ding et.al.|[2601.16736](http://arxiv.org/abs/2601.16736)|null|
+|**2026-01-23**|**ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction**|Ming Li et.al.|[2601.16672](http://arxiv.org/abs/2601.16672)|null|
 |**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
 |**2026-01-22**|**ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.|[2601.15897](http://arxiv.org/abs/2601.15897)|null|
 |**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
