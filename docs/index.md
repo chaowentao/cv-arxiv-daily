@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss**|Zehong Ma et.al.|[2602.02493](http://arxiv.org/abs/2602.02493)|**[link](https://github.com/Zehong-Ma/PixelGen)**|
+|**2026-02-02**|**UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing**|Dianyi Wang et.al.|[2602.02437](http://arxiv.org/abs/2602.02437)|null|
+|**2026-02-02**|**Trust Region Continual Learning as an Implicit Meta-Learner**|Zekun Wang et.al.|[2602.02417](http://arxiv.org/abs/2602.02417)|null|
+|**2026-02-02**|**Personalized Image Generation via Human-in-the-loop Bayesian Optimization**|Rajalaxmi Rajagopalan et.al.|[2602.02388](http://arxiv.org/abs/2602.02388)|null|
+|**2026-02-02**|**Show, Don't Tell: Morphing Latent Reasoning into Image Generation**|Harold Haodong Chen et.al.|[2602.02227](http://arxiv.org/abs/2602.02227)|null|
+|**2026-02-02**|**Enhancing Diffusion-Based Quantitatively Controllable Image Generation via Matrix-Form EDM and Adaptive Vicinal Training**|Xin Ding et.al.|[2602.02114](http://arxiv.org/abs/2602.02114)|null|
+|**2026-02-02**|**One Size, Many Fits: Aligning Diverse Group-Wise Click Preferences in Large-Scale Advertising Image Generation**|Shuo Lu et.al.|[2602.02033](http://arxiv.org/abs/2602.02033)|null|
+|**2026-02-02**|**Leveraging Latent Vector Prediction for Localized Control in Image Generation via Diffusion Models**|Pablo Domingo-Gregorio et.al.|[2602.01991](http://arxiv.org/abs/2602.01991)|null|
+|**2026-02-02**|**How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing**|Huanyu Zhang et.al.|[2602.01851](http://arxiv.org/abs/2602.01851)|null|
+|**2026-02-02**|**FlowBypass: Rectified Flow Trajectory Bypass for Training-Free Image Editing**|Menglin Han et.al.|[2602.01805](http://arxiv.org/abs/2602.01805)|null|
 |**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|Dawei Zhu et.al.|[2601.23265](http://arxiv.org/abs/2601.23265)|**[link](https://github.com/dwzhu-pku/PaperBanana)**|
 |**2026-01-30**|**Improving Supervised Machine Learning Performance in Optical Quality Control via Generative AI for Dataset Expansion**|Dennis Sprute et.al.|[2601.22961](http://arxiv.org/abs/2601.22961)|null|
 |**2026-01-30**|**MoVE: Mixture of Value Embeddings -- A New Axis for Scaling Parametric Memory in Autoregressive Models**|Yangyan Li et.al.|[2601.22887](http://arxiv.org/abs/2601.22887)|null|
@@ -913,9 +923,9 @@ layout: default
 |**2022-04-28**|**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**|Mingtao Feng et.al.|[2204.13456](http://arxiv.org/abs/2204.13456)|null|
 |**2022-04-04**|**Learning to Deblur using Light Field Generated and Real Defocus Images**|Lingyan Ruan et.al.|[2204.00367](http://arxiv.org/abs/2204.00367)|null|
 |**2021-10-02**|**Light Field Saliency Detection with Dual Local Graph Learning andReciprocative Guidance**|Nian Liu et.al.|[2110.00698](http://arxiv.org/abs/2110.00698)|null|
-|**2020-12-30**|**DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection**|Yongri Piao et.al.|[2012.15124](http://arxiv.org/abs/2012.15124)|**[link](https://github.com/bethmedina/calculator-2012-09-28-151249)**|
+|**2020-12-30**|**DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection**|Yongri Piao et.al.|[2012.15124](http://arxiv.org/abs/2012.15124)|null|
 |**2021-12-13**|**Fast and Accurate Light Field Saliency Detection through Deep Encoding**|Sahan Hemachandra et.al.|[2010.13073](http://arxiv.org/abs/2010.13073)|null|
-|**2019-10-29**|**Light Field Saliency Detection with Deep Convolutional Networks**|Jun Zhang et.al.|[1906.08331](http://arxiv.org/abs/1906.08331)|**[link](https://github.com/pencilzhang/MAC-light-field-saliency-net)**|
+|**2019-10-29**|**Light Field Saliency Detection with Deep Convolutional Networks**|Jun Zhang et.al.|[1906.08331](http://arxiv.org/abs/1906.08331)|null|
 |**2019-03-31**|**Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network**|Jonathan Samuel Lumentut et.al.|[1904.00352](http://arxiv.org/abs/1904.00352)|null|
 |**2017-12-20**|**Light Field Segmentation From Super-pixel Graph Representation**|Xianqiang Lv et.al.|[1712.07394](http://arxiv.org/abs/1712.07394)|null|
 |**2018-06-15**|**Joint Blind Motion Deblurring and Depth Estimation of Light Field**|Dongwoo Lee et.al.|[1711.10918](http://arxiv.org/abs/1711.10918)|null|
@@ -926,6 +936,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss**|Zehong Ma et.al.|[2602.02493](http://arxiv.org/abs/2602.02493)|null|
+|**2026-02-02**|**The FLAMINGO Project: Exploring the X-ray--cosmic-shear cross-correlation as a probe of large-scale structure**|William McDonald et.al.|[2602.02484](http://arxiv.org/abs/2602.02484)|null|
+|**2026-02-02**|**Frequency Stability of Graphene Nonlinear Parametric Oscillator**|Enise Kartal et.al.|[2602.02476](http://arxiv.org/abs/2602.02476)|null|
+|**2026-02-02**|**Trust Region Continual Learning as an Implicit Meta-Learner**|Zekun Wang et.al.|[2602.02417](http://arxiv.org/abs/2602.02417)|null|
+|**2026-02-02**|**PRISM: Performer RS-IMLE for Single-pass Multisensory Imitation Learning**|Amisha Bhaskar et.al.|[2602.02396](http://arxiv.org/abs/2602.02396)|null|
+|**2026-02-02**|**Evaluating the Contribution of Active Galactic Nuclei to the Diffuse High-Energy Neutrino Flux**|Samyak Jain et.al.|[2602.02390](http://arxiv.org/abs/2602.02390)|null|
+|**2026-02-02**|**Personalized Image Generation via Human-in-the-loop Bayesian Optimization**|Rajalaxmi Rajagopalan et.al.|[2602.02388](http://arxiv.org/abs/2602.02388)|null|
+|**2026-02-02**|**A Unified Framework for 10 TeV to EeV Diffuse Neutrino Sky and KM3-230213A**|Shiqi Yu et.al.|[2602.02372](http://arxiv.org/abs/2602.02372)|null|
+|**2026-02-02**|**Helium escape in context: Comparative signatures of four close-in exoplanets**|Anna Ruth Taylor et.al.|[2602.02289](http://arxiv.org/abs/2602.02289)|null|
+|**2026-02-02**|**Unlocking the Duality between Flow and Field Matching**|Daniil Shlenskii et.al.|[2602.02261](http://arxiv.org/abs/2602.02261)|null|
 |**2026-01-30**|**VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation**|Hongyang Du et.al.|[2601.23286](http://arxiv.org/abs/2601.23286)|null|
 |**2026-01-30**|**Dynamical density functional theory for dense odd-diffusive fluids**|Iman Abdoli et.al.|[2601.23284](http://arxiv.org/abs/2601.23284)|null|
 |**2026-01-30**|**Decoupled Diffusion Sampling for Inverse Problems on Function Spaces**|Thomas Y. L. Lin et.al.|[2601.23280](http://arxiv.org/abs/2601.23280)|null|
@@ -1891,6 +1911,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**LoopViT: Scaling Visual ARC with Looped Transformers**|Wen-Jie Shu et.al.|[2602.02156](http://arxiv.org/abs/2602.02156)|null|
+|**2026-02-02**|**Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies**|Olga Graf et.al.|[2602.02124](http://arxiv.org/abs/2602.02124)|null|
+|**2026-02-02**|**Tail-Aware Post-Training Quantization for 3D Geometry Models**|Sicheng Pan et.al.|[2602.01741](http://arxiv.org/abs/2602.01741)|null|
+|**2026-02-02**|**Federated Vision Transformer with Adaptive Focal Loss for Medical Image Classification**|Xinyuan Zhao et.al.|[2602.01633](http://arxiv.org/abs/2602.01633)|null|
+|**2026-02-02**|**Efficient Softmax Reformulation for Homomorphic Encryption via Moment Generating Function**|Hanjun Park et.al.|[2602.01621](http://arxiv.org/abs/2602.01621)|null|
+|**2026-02-01**|**Understanding vision transformer robustness through the lens of out-of-distribution detection**|Joey Kuang et.al.|[2602.01459](http://arxiv.org/abs/2602.01459)|null|
+|**2026-02-01**|**Improving Robustness of Vision-Language-Action Models by Restoring Corrupted Visual Inputs**|Daniel Yezid Guarnizo Orjuela et.al.|[2602.01158](http://arxiv.org/abs/2602.01158)|null|
+|**2026-01-31**|**ENFOR-SA: End-to-end Cross-layer Transient Fault Injector for Efficient and Accurate DNN Reliability Assessment on Systolic Arrays**|Rafael Billig Tonetto et.al.|[2602.00909](http://arxiv.org/abs/2602.00909)|null|
+|**2026-01-31**|**Non-Contrastive Vision-Language Learning with Predictive Embedding Alignment**|Lukas Kuhn et.al.|[2602.00653](http://arxiv.org/abs/2602.00653)|null|
+|**2026-01-30**|**Beyond the Loss Curve: Scaling Laws, Active Learning, and the Limits of Learning from Exact Posteriors**|Arian Khorasani et.al.|[2602.00315](http://arxiv.org/abs/2602.00315)|null|
 |**2026-01-30**|**Learn from A Rationalist: Distilling Intermediate Interpretable Rationales**|Jiayi Dai et.al.|[2601.22531](http://arxiv.org/abs/2601.22531)|null|
 |**2026-01-29**|**Geometry without Position? When Positional Embeddings Help and Hurt Spatial Reasoning**|Jian Shi et.al.|[2601.22231](http://arxiv.org/abs/2601.22231)|null|
 |**2026-01-29**|**Putting a Face to Forgetting: Continual Learning meets Mechanistic Interpretability**|Sergi Masip et.al.|[2601.22012](http://arxiv.org/abs/2601.22012)|null|
@@ -2435,7 +2465,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-30**|**EAG-PT: Emission-Aware Gaussians and Path Tracing for Indoor Scene Reconstruction and Editing**|Xijie Yang et.al.|[2601.23065](http://arxiv.org/abs/2601.23065)|null|
-|**2026-01-30**|**Under-Canopy Terrain Reconstruction in Dense Forests Using RGB Imaging and Neural 3D Reconstruction**|Refael Sheffer et.al.|[2601.22861](http://arxiv.org/abs/2601.22861)|null|
+|**2026-02-02**|**Under-Canopy Terrain Reconstruction in Dense Forests Using RGB Imaging and Neural 3D Reconstruction**|Refael Sheffer et.al.|[2601.22861](http://arxiv.org/abs/2601.22861)|null|
 |**2026-01-30**|**Diachronic Stereo Matching for Multi-Date Satellite Imagery**|Elías Masquil et.al.|[2601.22808](http://arxiv.org/abs/2601.22808)|null|
 |**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
 |**2026-01-29**|**Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference**|Jianglong Li et.al.|[2601.21269](http://arxiv.org/abs/2601.21269)|null|
@@ -2579,6 +2609,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Geometry- and Relation-Aware Diffusion for EEG Super-Resolution**|Laura Yao et.al.|[2602.02238](http://arxiv.org/abs/2602.02238)|null|
+|**2026-02-02**|**Edge-Aligned Initialization of Kernels for Steered Mixture-of-Experts**|Martin Determann et.al.|[2602.02031](http://arxiv.org/abs/2602.02031)|null|
+|**2026-02-02**|**Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling**|Yuan Wang et.al.|[2602.01864](http://arxiv.org/abs/2602.01864)|null|
+|**2026-02-01**|**Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution**|Xun Zhang et.al.|[2602.01273](http://arxiv.org/abs/2602.01273)|null|
+|**2026-01-31**|**Lightweight Super Resolution-enabled Coding Model for the JPEG Pleno Learning-based Point Cloud Coding Standard**|André F. R. Guarda et.al.|[2602.00863](http://arxiv.org/abs/2602.00863)|null|
+|**2026-01-31**|**Super-resolution Imaging of Limited-size Objects**|Taeyong Chang et.al.|[2602.00719](http://arxiv.org/abs/2602.00719)|null|
+|**2026-01-31**|**Improving Neuropathological Reconstruction Fidelity via AI Slice Imputation**|Marina Crespo Aguirre et.al.|[2602.00669](http://arxiv.org/abs/2602.00669)|null|
+|**2026-01-31**|**Bridging Degradation Discrimination and Generation for Universal Image Restoration**|JiaKui Hu et.al.|[2602.00579](http://arxiv.org/abs/2602.00579)|null|
 |**2026-01-30**|**Solving Inverse Problems with Flow-based Models via Model Predictive Control**|George Webber et.al.|[2601.23231](http://arxiv.org/abs/2601.23231)|null|
 |**2026-01-30**|**Scale-Cascaded Diffusion Models for Super-Resolution in Medical Imaging**|Darshan Thaker et.al.|[2601.23201](http://arxiv.org/abs/2601.23201)|null|
 |**2026-01-30**|**Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images**|Xinxin Xu et.al.|[2601.22755](http://arxiv.org/abs/2601.22755)|null|
@@ -2930,6 +2968,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](http://arxiv.org/abs/2602.01899)|null|
+|**2026-02-02**|**DenVisCoM: Dense Vision Correspondence Mamba for Efficient and Real-time Optical Flow and Stereo Estimation**|Tushar Anand et.al.|[2602.01724](http://arxiv.org/abs/2602.01724)|null|
+|**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|null|
 |**2026-01-30**|**Deep in the Jungle: Towards Automating Chimpanzee Population Estimation**|Tom Raynes et.al.|[2601.22917](http://arxiv.org/abs/2601.22917)|null|
 |**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
 |**2026-01-29**|**Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs**|Tom Yates et.al.|[2601.21935](http://arxiv.org/abs/2601.21935)|null|
@@ -3240,6 +3281,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-01**|**Radioactive 3D Gaussian Ray Tracing for Tomographic Reconstruction**|Ling Chen et.al.|[2602.01057](http://arxiv.org/abs/2602.01057)|null|
 |**2026-01-28**|**FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models**|Hongyu Zhou et.al.|[2601.20857](http://arxiv.org/abs/2601.20857)|null|
 |**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
 |**2026-01-26**|**Pay Attention to Where You Look**|Alex Beriand et.al.|[2601.18970](http://arxiv.org/abs/2601.18970)|null|
@@ -3530,6 +3572,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation**|Mu Huang et.al.|[2602.02402](http://arxiv.org/abs/2602.02402)|null|
+|**2026-02-02**|**UrbanGS: A Scalable and Efficient Architecture for Geometrically Accurate Large-Scene Reconstruction**|Changbai Li et.al.|[2602.02089](http://arxiv.org/abs/2602.02089)|null|
+|**2026-02-02**|**SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors**|Bing He et.al.|[2602.02000](http://arxiv.org/abs/2602.02000)|null|
+|**2026-02-02**|**CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions**|Yuliang Zhan et.al.|[2602.01844](http://arxiv.org/abs/2602.01844)|null|
+|**2026-02-02**|**FastPhysGS: Accelerating Physics-based Dynamic 3DGS Simulation via Interior Completion and Adaptive Optimization**|Yikun Ma et.al.|[2602.01723](http://arxiv.org/abs/2602.01723)|null|
+|**2026-02-02**|**VRGaussianAvatar: Integrating 3D Gaussian Avatars into VR**|Hail Song et.al.|[2602.01674](http://arxiv.org/abs/2602.01674)|null|
+|**2026-02-02**|**MarkCleaner: High-Fidelity Watermark Removal via Imperceptible Micro-Geometric Perturbation**|Xiaoxi Kong et.al.|[2602.01513](http://arxiv.org/abs/2602.01513)|null|
+|**2026-02-01**|**Radioactive 3D Gaussian Ray Tracing for Tomographic Reconstruction**|Ling Chen et.al.|[2602.01057](http://arxiv.org/abs/2602.01057)|null|
+|**2026-01-31**|**HPC: Hierarchical Point-based Latent Representation for Streaming Dynamic Gaussian Splatting Compression**|Yangzhi Ma et.al.|[2602.00671](http://arxiv.org/abs/2602.00671)|null|
+|**2026-01-31**|**Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting**|Yian Zhao et.al.|[2602.00618](http://arxiv.org/abs/2602.00618)|null|
 |**2026-01-30**|**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**|Di Zhang et.al.|[2601.22988](http://arxiv.org/abs/2601.22988)|null|
 |**2026-01-30**|**Diachronic Stereo Matching for Multi-Date Satellite Imagery**|Elías Masquil et.al.|[2601.22808](http://arxiv.org/abs/2601.22808)|null|
 |**2026-01-30**|**PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction**|Changjian Jiang et.al.|[2601.22046](http://arxiv.org/abs/2601.22046)|null|
