@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.08
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[2602.09024](http://arxiv.org/abs/2602.09024)|null|
+|**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|**[link](https://github.com/pnotp/ArcFlow)**|
+|**2026-02-09**|**GEBench: Benchmarking Image Generation Models as GUI Environments**|Haodong Li et.al.|[2602.09007](http://arxiv.org/abs/2602.09007)|null|
+|**2026-02-09**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|null|
+|**2026-02-09**|**FusionEdit: Semantic Fusion and Attention Modulation for Training-Free Image Editing**|Yongwen Lai et.al.|[2602.08725](http://arxiv.org/abs/2602.08725)|null|
+|**2026-02-09**|**Inspiration Seeds: Learning Non-Literal Visual Combinations for Generative Exploration**|Kfir Goldberg et.al.|[2602.08615](http://arxiv.org/abs/2602.08615)|null|
+|**2026-02-09**|**Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers**|Shuo Zhang et.al.|[2602.08388](http://arxiv.org/abs/2602.08388)|null|
+|**2026-02-09**|**UReason: Benchmarking the Reasoning Paradox in Unified Multimodal Models**|Cheng Yang et.al.|[2602.08336](http://arxiv.org/abs/2602.08336)|null|
+|**2026-02-08**|**MCIE: Multimodal LLM-Driven Complex Instruction Image Editing with Spatial Guidance**|Xuehai Bai et.al.|[2602.07993](http://arxiv.org/abs/2602.07993)|null|
+|**2026-02-08**|**Accelerating Black Hole Image Generation via Latent Space Diffusion Models**|Ao Liu et.al.|[2602.07786](http://arxiv.org/abs/2602.07786)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|**[link](https://github.com/ankit-vaidya19/Share)**|
 |**2026-02-05**|**Discrete diffusion samplers and bridges: Off-policy algorithms and applications in latent spaces**|Arran Carter et.al.|[2602.05961](http://arxiv.org/abs/2602.05961)|**[link](https://github.com/mmacosha/offpolicy-discrete-diffusion-samplers-and-bridges)**|
 |**2026-02-05**|**Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching**|Junwan Kim et.al.|[2602.05951](http://arxiv.org/abs/2602.05951)|**[link](https://github.com/junwankimm/CSFM)**|
@@ -960,6 +970,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[2602.09024](http://arxiv.org/abs/2602.09024)|null|
+|**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|null|
+|**2026-02-09**|**ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling**|Yilang Zhang et.al.|[2602.09009](http://arxiv.org/abs/2602.09009)|null|
+|**2026-02-09**|**Distributionally Robust Optimization via Generative Ambiguity Modeling**|Jiaqi Wen et.al.|[2602.08976](http://arxiv.org/abs/2602.08976)|null|
+|**2026-02-09**|**MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE**|Ruijie Zhu et.al.|[2602.08961](http://arxiv.org/abs/2602.08961)|null|
+|**2026-02-09**|**Microquasar Remnants as Pevatrons Illuminating the Galactic Cosmic Ray Knee**|Bing Theodore Zhang et.al.|[2602.08940](http://arxiv.org/abs/2602.08940)|null|
+|**2026-02-09**|**Diffusion-Inspired Reconfiguration of Transformers for Uncertainty Calibration**|Manh Cuong Dao et.al.|[2602.08920](http://arxiv.org/abs/2602.08920)|null|
+|**2026-02-09**|**Structural coarse-graining enables noise-robust functional connectivity and reveals hidden inter-subject variability**|Izaro Fernandez-Iriondo et.al.|[2602.08910](http://arxiv.org/abs/2602.08910)|null|
+|**2026-02-09**|**Efficient and Stable Reinforcement Learning for Diffusion Language Models**|Jiawei Liu et.al.|[2602.08905](http://arxiv.org/abs/2602.08905)|null|
+|**2026-02-09**|**Denoise Stepwise Signals by Diffusion Model Based Approach**|Xingdi Tong et.al.|[2602.08904](http://arxiv.org/abs/2602.08904)|null|
 |**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
 |**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
 |**2026-02-05**|**Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold**|Ye He et.al.|[2602.06021](http://arxiv.org/abs/2602.06021)|null|
@@ -1965,6 +1985,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Revisiting [CLS] and Patch Token Interaction in Vision Transformers**|Alexis Marouani et.al.|[2602.08626](http://arxiv.org/abs/2602.08626)|null|
+|**2026-02-08**|**Building Damage Detection using Satellite Images and Patch-Based Transformer Methods**|Smriti Siva et.al.|[2602.08117](http://arxiv.org/abs/2602.08117)|null|
+|**2026-02-08**|**ViT-5: Vision Transformers for The Mid-2020s**|Feng Wang et.al.|[2602.08071](http://arxiv.org/abs/2602.08071)|null|
+|**2026-02-08**|**Vanilla Group Equivariant Vision Transformer: Simple and Effective**|Jiahong Fu et.al.|[2602.08047](http://arxiv.org/abs/2602.08047)|null|
+|**2026-02-08**|**Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures**|Simiao Ren et.al.|[2602.07815](http://arxiv.org/abs/2602.07815)|null|
+|**2026-02-07**|**Revealing the Semantic Selection Gap in DINOv3 through Training-Free Few-Shot Segmentation**|Hussni Mohd Zakir et.al.|[2602.07550](http://arxiv.org/abs/2602.07550)|null|
+|**2026-02-07**|**MUFASA: A Multi-Layer Framework for Slot Attention**|Sebastian Bock et.al.|[2602.07544](http://arxiv.org/abs/2602.07544)|null|
+|**2026-02-07**|**Fine-Grained Cat Breed Recognition with Global Context Vision Transformer**|Mowmita Parvin Hera et.al.|[2602.07534](http://arxiv.org/abs/2602.07534)|null|
+|**2026-02-09**|**Vision Transformer Finetuning Benefits from Non-Smooth Components**|Ambroise Odonnat et.al.|[2602.06883](http://arxiv.org/abs/2602.06883)|null|
+|**2026-02-06**|**DAVE: Distribution-aware Attribution via ViT Gradient Decomposition**|Adam Wróbel et.al.|[2602.06613](http://arxiv.org/abs/2602.06613)|null|
 |**2026-02-05**|**Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks**|Minyoung Kim et.al.|[2602.05873](http://arxiv.org/abs/2602.05873)|null|
 |**2026-02-05**|**CAViT -- Channel-Aware Vision Transformer for Dynamic Feature Fusion**|Aon Safdar et.al.|[2602.05598](http://arxiv.org/abs/2602.05598)|null|
 |**2026-02-05**|**Generalization of Self-Supervised Vision Transformers for Protein Localization Across Microscopy Domains**|Ben Isselmann et.al.|[2602.05527](http://arxiv.org/abs/2602.05527)|null|
@@ -2533,6 +2563,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|null|
+|**2026-02-08**|**Deepfake Synthesis vs. Detection: An Uneven Contest**|Md. Tarek Hasan et.al.|[2602.07986](http://arxiv.org/abs/2602.07986)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](http://arxiv.org/abs/2602.05822)|null|
 |**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](http://arxiv.org/abs/2602.05423)|null|
 |**2026-02-03**|**Beyond Cropping and Rotation: Automated Evolution of Powerful Task-Specific Augmentations with Generative Models**|Judah Goldfeder et.al.|[2602.03123](http://arxiv.org/abs/2602.03123)|null|
@@ -2681,6 +2713,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Forget Superresolution, Sample Adaptively (when Path Tracing)**|Martin Bálint et.al.|[2602.08642](http://arxiv.org/abs/2602.08642)|null|
+|**2026-02-09**|**Trajectory Stitching for Solving Inverse Problems with Flow-Based Models**|Alexander Denker et.al.|[2602.08538](http://arxiv.org/abs/2602.08538)|null|
+|**2026-02-09**|**Room Temperature Collective Blinking and Photon Bunching from CsPbBr3 Quantum Dot Superlattice**|Qiwen Tan et.al.|[2602.08301](http://arxiv.org/abs/2602.08301)|null|
+|**2026-02-06**|**The Double-Edged Sword of Data-Driven Super-Resolution: Adversarial Super-Resolution Models**|Haley Duba-Sullivan et.al.|[2602.07251](http://arxiv.org/abs/2602.07251)|null|
+|**2026-02-06**|**Lite-BD: A Lightweight Black-box Backdoor Defense via Reviving Multi-Stage Image Transformations**|Abdullah Arafat Miah et.al.|[2602.07197](http://arxiv.org/abs/2602.07197)|null|
+|**2026-02-05**|**Bidirectional Reward-Guided Diffusion for Real-World Image Super-Resolution**|Zihao Fan et.al.|[2602.07069](http://arxiv.org/abs/2602.07069)|null|
+|**2026-02-05**|**From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors**|Ding-Jiun Huang et.al.|[2602.06122](http://arxiv.org/abs/2602.06122)|null|
 |**2026-02-04**|**A uniformly accurate multiscale time integrator for the nonlinear Klein-Gordon equation in the nonrelativistic regime via simplified transmission conditions**|Weizhu Bao et.al.|[2602.04988](http://arxiv.org/abs/2602.04988)|null|
 |**2026-02-04**|**Turbulence teaches equivariance to neural networks**|Ryley McConkey et.al.|[2602.04695](http://arxiv.org/abs/2602.04695)|null|
 |**2026-02-04**|**HoloHema: Digital Holographic Hematology Analyzer**|Andreas Erik Gejl Madsen et.al.|[2602.04618](http://arxiv.org/abs/2602.04618)|null|
@@ -3052,6 +3091,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|null|
+|**2026-02-05**|**AnyThermal: Towards Learning Universal Representations for Thermal Perception**|Parv Maheshwari et.al.|[2602.06203](http://arxiv.org/abs/2602.06203)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](http://arxiv.org/abs/2602.05730)|null|
 |**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
@@ -3373,6 +3414,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Analysis of Converged 3D Gaussian Splatting Solutions: Density Effects and Prediction Limit**|Zhendong Wang et.al.|[2602.08909](http://arxiv.org/abs/2602.08909)|null|
+|**2026-02-09**|**Rotated Lights for Consistent and Efficient 2D Gaussians Inverse Rendering**|Geng Lin et.al.|[2602.08724](http://arxiv.org/abs/2602.08724)|null|
+|**2026-02-06**|**Efficient-LVSM: Faster, Cheaper, and Better Large View Synthesis Model via Decoupled Co-Refinement Attention**|Xiaosong Jia et.al.|[2602.06478](http://arxiv.org/abs/2602.06478)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](http://arxiv.org/abs/2602.05822)|null|
 |**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](http://arxiv.org/abs/2602.05423)|null|
 |**2026-02-05**|**PoseGaussian: Pose-Driven Novel View Synthesis for Robust 3D Human Reconstruction**|Ju Shen et.al.|[2602.05190](http://arxiv.org/abs/2602.05190)|null|
@@ -3671,6 +3715,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Grow with the Flow: 4D Reconstruction of Growing Plants with Gaussian Flow Fields**|Weihan Luo et.al.|[2602.08958](http://arxiv.org/abs/2602.08958)|null|
+|**2026-02-09**|**Analysis of Converged 3D Gaussian Splatting Solutions: Density Effects and Prediction Limit**|Zhendong Wang et.al.|[2602.08909](http://arxiv.org/abs/2602.08909)|null|
+|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|null|
+|**2026-02-09**|**Rotated Lights for Consistent and Efficient 2D Gaussians Inverse Rendering**|Geng Lin et.al.|[2602.08724](http://arxiv.org/abs/2602.08724)|null|
+|**2026-02-09**|**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**|Seunghoon Jeong et.al.|[2602.08266](http://arxiv.org/abs/2602.08266)|null|
+|**2026-02-07**|**Thermal odometry and dense mapping using learned ddometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|null|
+|**2026-02-06**|**Zero-Shot UAV Navigation in Forests via Relightable 3D Gaussian Splatting**|Zinan Lv et.al.|[2602.07101](http://arxiv.org/abs/2602.07101)|null|
+|**2026-02-06**|**DynFOA: Generating First-Order Ambisonics with Conditional Diffusion for Dynamic and Acoustically Complex 360-Degree Videos**|Ziyu Luo et.al.|[2602.06846](http://arxiv.org/abs/2602.06846)|null|
+|**2026-02-06**|**GaussianPOP: Principled Simplification Framework for Compact 3D Gaussian Splatting via Error Quantification**|Soonbin Lee et.al.|[2602.06830](http://arxiv.org/abs/2602.06830)|null|
+|**2026-02-06**|**Uncertainty-Aware 4D Gaussian Splatting for Monocular Occluded Human Rendering**|Weiquan Wang et.al.|[2602.06343](http://arxiv.org/abs/2602.06343)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](http://arxiv.org/abs/2602.05822)|null|
 |**2026-02-05**|**PoseGaussian: Pose-Driven Novel View Synthesis for Robust 3D Human Reconstruction**|Ju Shen et.al.|[2602.05190](http://arxiv.org/abs/2602.05190)|null|
 |**2026-02-04**|**QuantumGS: Quantum Encoding Framework for Gaussian Splatting**|Grzegorz Wilczyński et.al.|[2602.05047](http://arxiv.org/abs/2602.05047)|null|
