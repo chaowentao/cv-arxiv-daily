@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Preference-Guided Prompt Optimization for Text-to-Image Generation**|Zhipeng Li et.al.|[2602.13131](http://arxiv.org/abs/2602.13131)|null|
+|**2026-02-13**|**A Calibrated Memorization Index (MI) for Detecting Training Data Leakage in Generative MRI Models**|Yash Deo et.al.|[2602.13066](http://arxiv.org/abs/2602.13066)|null|
+|**2026-02-13**|**Curriculum-DPO++: Direct Preference Optimization via Data and Model Curricula for Text-to-Image Generation**|Florinel-Alin Croitoru et.al.|[2602.13055](http://arxiv.org/abs/2602.13055)|null|
+|**2026-02-13**|**Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis**|Runzhou Liu et.al.|[2602.13028](http://arxiv.org/abs/2602.13028)|null|
+|**2026-02-13**|**TFTF: Training-Free Targeted Flow for Conditional Sampling**|Qianqian Qu et.al.|[2602.12932](http://arxiv.org/abs/2602.12932)|null|
+|**2026-02-13**|**PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion**|Hong-Phuc Lai et.al.|[2602.12769](http://arxiv.org/abs/2602.12769)|null|
+|**2026-02-13**|**Towards reconstructing experimental sparse-view X-ray CT data with diffusion models**|Nelas J. Thomsen et.al.|[2602.12755](http://arxiv.org/abs/2602.12755)|null|
+|**2026-02-13**|**ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models**|Peijie Qiu et.al.|[2602.12640](http://arxiv.org/abs/2602.12640)|null|
+|**2026-02-12**|**Reproducing DragDiffusion: Interactive Point-Based Editing with Diffusion Models**|Ali Subhan et.al.|[2602.12393](http://arxiv.org/abs/2602.12393)|null|
+|**2026-02-12**|**ForeAct: Steering Your VLA with Efficient Visual Foresight Planning**|Zhuoyang Zhang et.al.|[2602.12322](http://arxiv.org/abs/2602.12322)|null|
 |**2026-02-12**|**Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching**|Onkar Susladkar et.al.|[2602.12221](http://arxiv.org/abs/2602.12221)|null|
 |**2026-02-12**|**DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**|Dianyi Wang et.al.|[2602.12205](http://arxiv.org/abs/2602.12205)|null|
 |**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)|**[link](https://github.com/HansPolo113/FAIL)**|
@@ -997,6 +1007,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Determinant and Pfaffian formulas for particle annihilation**|Piotr Śniady et.al.|[2602.13183](http://arxiv.org/abs/2602.13183)|null|
+|**2026-02-13**|**Absorption imaging of quantum gases near surfaces using incoherent light**|Julia Fekete et.al.|[2602.13175](http://arxiv.org/abs/2602.13175)|null|
+|**2026-02-13**|**Learning functional components of PDEs from data using neural networks**|Torkel E. Loman et.al.|[2602.13174](http://arxiv.org/abs/2602.13174)|null|
+|**2026-02-13**|**Accuracy Comes at a Cost: Optimal Localisation Against a Flow**|Till Welker et.al.|[2602.13173](http://arxiv.org/abs/2602.13173)|null|
+|**2026-02-13**|**Realistic Face Reconstruction from Facial Embeddings via Diffusion Models**|Dong Han et.al.|[2602.13168](http://arxiv.org/abs/2602.13168)|null|
+|**2026-02-13**|**Non-chiral ephemeral edge states and cascading of exceptional points in the non-reciprocal Haldane model**|Aditi A. Prabhudesai et.al.|[2602.13147](http://arxiv.org/abs/2602.13147)|null|
+|**2026-02-13**|**Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching**|Chenguang Wang et.al.|[2602.13136](http://arxiv.org/abs/2602.13136)|null|
+|**2026-02-13**|**Enhanced Spin Lifetime and Long-Range Spin Transport in p-Silicon using Spin Gapless Semiconductor as Ferromagnetic Injector**|Nilay Maji et.al.|[2602.13118](http://arxiv.org/abs/2602.13118)|null|
+|**2026-02-13**|**Hierarchical quasiparticle dynamics in antiferromagnets revealed by time- and momentum-resolved X-ray scattering**|Arnau Romaguera et.al.|[2602.13113](http://arxiv.org/abs/2602.13113)|null|
+|**2026-02-13**|**How cyborg propaganda reshapes collective action**|Jonas R. Kunst et.al.|[2602.13088](http://arxiv.org/abs/2602.13088)|null|
 |**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
 |**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
 |**2026-02-12**|**T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization**|Tunyu Zhang et.al.|[2602.12262](http://arxiv.org/abs/2602.12262)|null|
@@ -2042,6 +2062,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**SIEFormer: Spectral-Interpretable and -Enhanced Transformer for Generalized Category Discovery**|Chunming Li et.al.|[2602.13067](http://arxiv.org/abs/2602.13067)|null|
+|**2026-02-13**|**Variational study of the magnetization plateaus in the spin-1/2 kagome Heisenberg antiferromagnet: an approach from vision transformer neural quantum states**|Andreas Raikos et.al.|[2602.12998](http://arxiv.org/abs/2602.12998)|null|
 |**2026-02-12**|**Vision Transformer for Multi-Domain Phase Retrieval in Coherent Diffraction Imaging**|Jialun Liu et.al.|[2602.12255](http://arxiv.org/abs/2602.12255)|null|
 |**2026-02-12**|**Can Local Vision-Language Models improve Activity Recognition over Vision Transformers? -- Case Study on Newborn Resuscitation**|Enrico Guerriero et.al.|[2602.12002](http://arxiv.org/abs/2602.12002)|null|
 |**2026-02-12**|**Mask What Matters: Mitigating Object Hallucinations in Multimodal Large Language Models with Object-Aligned Visual Contrastive Decoding**|Boqi Chen et.al.|[2602.11737](http://arxiv.org/abs/2602.11737)|null|
@@ -3803,10 +3825,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**GSM-GS: Geometry-Constrained Single and Multi-view Gaussian Splatting for Surface Reconstruction**|Xiao Ren et.al.|[2602.12796](http://arxiv.org/abs/2602.12796)|null|
+|**2026-02-12**|**LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via Online Dictionary Learning**|Junwoon Lee et.al.|[2602.12314](http://arxiv.org/abs/2602.12314)|null|
 |**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng et.al.|[2602.12159](http://arxiv.org/abs/2602.12159)|null|
 |**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
 |**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](http://arxiv.org/abs/2602.11705)|null|
-|**2026-02-12**|**Variation-aware Flexible 3D Gaussian Editing**|Hao Qin et.al.|[2602.11638](http://arxiv.org/abs/2602.11638)|null|
+|**2026-02-13**|**Variation-aware Flexible 3D Gaussian Editing**|Hao Qin et.al.|[2602.11638](http://arxiv.org/abs/2602.11638)|null|
 |**2026-02-12**|**LeafFit: Plant Assets Creation from 3D Gaussian Splatting**|Chang Luo et.al.|[2602.11577](http://arxiv.org/abs/2602.11577)|null|
 |**2026-02-12**|**ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles**|Seungyeon Yoo et.al.|[2602.11575](http://arxiv.org/abs/2602.11575)|null|
 |**2026-02-10**|**ERGO: Excess-Risk-Guided Optimization for High-Fidelity Monocular 3D Gaussian Splatting**|Zehua Ma et.al.|[2602.10278](http://arxiv.org/abs/2602.10278)|null|
