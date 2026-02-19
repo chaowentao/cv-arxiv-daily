@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Spanning the Visual Analogy Space with a Weight Basis of LoRAs**|Hila Manor et.al.|[2602.15727](http://arxiv.org/abs/2602.15727)|null|
+|**2026-02-17**|**Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching**|Jeongwoo Shin et.al.|[2602.15396](http://arxiv.org/abs/2602.15396)|null|
+|**2026-02-17**|**Consistency-Preserving Diverse Video Generation**|Xinshuang Liu et.al.|[2602.15287](http://arxiv.org/abs/2602.15287)|null|
+|**2026-02-17**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al.|[2602.15278](http://arxiv.org/abs/2602.15278)|null|
 |**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|**[link](https://github.com/sphere-encoder/sphere-encoder.github.io)**|
 |**2026-02-16**|**Universal Image Immunization against Diffusion-based Image Editing via Semantic Injection**|Chanhui Lee et.al.|[2602.14679](http://arxiv.org/abs/2602.14679)|null|
 |**2026-02-16**|**Efficient Text-Guided Convolutional Adapter for the Diffusion Model**|Aryan Das et.al.|[2602.14514](http://arxiv.org/abs/2602.14514)|null|
@@ -1017,6 +1021,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
+|**2026-02-17**|**Effective energy-enstrophy diffusion process and condensation bound**|Alain-Sol Sznitman et.al.|[2602.15810](http://arxiv.org/abs/2602.15810)|null|
+|**2026-02-17**|**Inviscid limit and an effective energy-enstrophy diffusion process**|Alain-Sol Sznitman et.al.|[2602.15805](http://arxiv.org/abs/2602.15805)|null|
+|**2026-02-17**|**GlobeDiff: State Diffusion Process for Partial Observability in Multi-Agent Systems**|Yiqin Yang et.al.|[2602.15776](http://arxiv.org/abs/2602.15776)|null|
+|**2026-02-17**|**Three-Dimensional Optical-Electrical Simulation of Cs2AgBiBr6 Double Perovskite Solar Cells**|Md Shanian Moed et.al.|[2602.15759](http://arxiv.org/abs/2602.15759)|null|
+|**2026-02-17**|**UrbanVerse: Learning Urban Region Representation Across Cities and Tasks**|Fengze Sun et.al.|[2602.15750](http://arxiv.org/abs/2602.15750)|null|
+|**2026-02-17**|**Self-phoretic oscillatory motion in a one-dimensional channel**|Leah Anderson et.al.|[2602.15657](http://arxiv.org/abs/2602.15657)|null|
+|**2026-02-17**|**Guided Diffusion by Optimized Loss Functions on Relaxed Parameters for Inverse Material Design**|Jens U. Kreber et.al.|[2602.15648](http://arxiv.org/abs/2602.15648)|null|
+|**2026-02-17**|**Bayesian parameter study of the Seyfert-starburst composite galaxies NGC 1068 and NGC 7469**|Björn Eichmann et.al.|[2602.15644](http://arxiv.org/abs/2602.15644)|null|
+|**2026-02-17**|**Fastest first-passage time for multiple searchers with finite speed**|Denis S. Grebenkov et.al.|[2602.15627](http://arxiv.org/abs/2602.15627)|null|
 |**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|null|
 |**2026-02-16**|**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**|Cai Zhou et.al.|[2602.15022](http://arxiv.org/abs/2602.15022)|null|
 |**2026-02-16**|**Scaling Beyond Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2602.15014](http://arxiv.org/abs/2602.15014)|null|
@@ -2082,6 +2096,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers**|Lucas Sancéré et.al.|[2602.15783](http://arxiv.org/abs/2602.15783)|null|
+|**2026-02-17**|**ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT**|Hyunchan Moon et.al.|[2602.15720](http://arxiv.org/abs/2602.15720)|null|
+|**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|null|
+|**2026-02-16**|**Scaling Laws for Masked-Reconstruction Transformers on Single-Cell Transcriptomics**|Ihor Kendiukhov et.al.|[2602.15253](http://arxiv.org/abs/2602.15253)|null|
 |**2026-02-16**|**VariViT: A Vision Transformer for Variable Image Sizes**|Aswathi Varma et.al.|[2602.14615](http://arxiv.org/abs/2602.14615)|null|
 |**2026-02-16**|**Architectural Insights for Post-Tornado Damage Recognition**|Robinson Umeike et.al.|[2602.14523](http://arxiv.org/abs/2602.14523)|null|
 |**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021](http://arxiv.org/abs/2602.14021)|null|
@@ -2829,6 +2847,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|null|
+|**2026-02-16**|**Distributional Deep Learning for Super-Resolution of 4D Flow MRI under Domain Shift**|Xiaoyi Wen et.al.|[2602.15167](http://arxiv.org/abs/2602.15167)|null|
 |**2026-02-15**|**Convexity Meets Curvature: Lifted Near-Field Super-Resolution**|Sajad Daei et.al.|[2602.14063](http://arxiv.org/abs/2602.14063)|null|
 |**2026-02-13**|**FUTON: Fourier Tensor Network for Implicit Neural Representations**|Pooya Ashtari et.al.|[2602.13414](http://arxiv.org/abs/2602.13414)|null|
 |**2026-02-12**|**U-DAVI: Uncertainty-Aware Diffusion-Prior-Based Amortized Variational Inference for Image Reconstruction**|Ayush Varshney et.al.|[2602.11704](http://arxiv.org/abs/2602.11704)|null|
@@ -3552,6 +3572,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**NeRFscopy: Neural Radiance Fields for in-vivo Time-Varying Tissues from Endoscopy**|Laura Salort-Benejam et.al.|[2602.15775](http://arxiv.org/abs/2602.15775)|null|
+|**2026-02-16**|**Time-Archival Camera Virtualization for Sports and Visual Performances**|Yunxiao Zhang et.al.|[2602.15181](http://arxiv.org/abs/2602.15181)|null|
 |**2026-02-16**|**Gaussian Mesh Renderer for Lightweight Differentiable Rendering**|Xinpeng Liu et.al.|[2602.14493](http://arxiv.org/abs/2602.14493)|null|
 |**2026-02-15**|**Learnable Multi-level Discrete Wavelet Transforms for 3D Gaussian Splatting Frequency Modulation**|Hung Nguyen et.al.|[2602.14199](http://arxiv.org/abs/2602.14199)|null|
 |**2026-02-14**|**Gaussian Sequences with Multi-Scale Dynamics for 4D Reconstruction from Monocular Casual Videos**|Can Li et.al.|[2602.13806](http://arxiv.org/abs/2602.13806)|null|
@@ -3859,6 +3881,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
+|**2026-02-17**|**DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles**|Rong Fu et.al.|[2602.15355](http://arxiv.org/abs/2602.15355)|null|
+|**2026-02-16**|**Time-Archival Camera Virtualization for Sports and Visual Performances**|Yunxiao Zhang et.al.|[2602.15181](http://arxiv.org/abs/2602.15181)|null|
 |**2026-02-16**|**Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery**|Chandrakanth Gudavalli et.al.|[2602.14929](http://arxiv.org/abs/2602.14929)|null|
 |**2026-02-16**|**Gaussian Mesh Renderer for Lightweight Differentiable Rendering**|Xinpeng Liu et.al.|[2602.14493](http://arxiv.org/abs/2602.14493)|null|
 |**2026-02-15**|**Learnable Multi-level Discrete Wavelet Transforms for 3D Gaussian Splatting Frequency Modulation**|Hung Nguyen et.al.|[2602.14199](http://arxiv.org/abs/2602.14199)|null|
