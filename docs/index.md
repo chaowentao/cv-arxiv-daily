@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,11 +16,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Steering diffusion models with quadratic rewards: a fine-grained analysis**|Ankur Moitra et.al.|[2602.16570](http://arxiv.org/abs/2602.16570)|null|
+|**2026-02-18**|**EasyControlEdge: A Foundation-Model Fine-Tuning for Edge Detection**|Hiroki Nakamura et.al.|[2602.16238](http://arxiv.org/abs/2602.16238)|null|
+|**2026-02-17**|**B-DENSE: Branching For Dense Ensemble Network Learning**|Cherish Puniani et.al.|[2602.15971](http://arxiv.org/abs/2602.15971)|null|
 |**2026-02-17**|**Spanning the Visual Analogy Space with a Weight Basis of LoRAs**|Hila Manor et.al.|[2602.15727](http://arxiv.org/abs/2602.15727)|null|
 |**2026-02-17**|**Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching**|Jeongwoo Shin et.al.|[2602.15396](http://arxiv.org/abs/2602.15396)|null|
 |**2026-02-17**|**Consistency-Preserving Diverse Video Generation**|Xinshuang Liu et.al.|[2602.15287](http://arxiv.org/abs/2602.15287)|null|
 |**2026-02-17**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al.|[2602.15278](http://arxiv.org/abs/2602.15278)|null|
-|**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|**[link](https://github.com/sphere-encoder/sphere-encoder.github.io)**|
+|**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|null|
 |**2026-02-16**|**Universal Image Immunization against Diffusion-based Image Editing via Semantic Injection**|Chanhui Lee et.al.|[2602.14679](http://arxiv.org/abs/2602.14679)|null|
 |**2026-02-16**|**Efficient Text-Guided Convolutional Adapter for the Diffusion Model**|Aryan Das et.al.|[2602.14514](http://arxiv.org/abs/2602.14514)|null|
 |**2026-02-16**|**MedVAR: Towards Scalable and Efficient Medical Image Generation via Next-scale Autoregressive Prediction**|Zhicheng He et.al.|[2602.14512](http://arxiv.org/abs/2602.14512)|null|
@@ -887,7 +890,7 @@ layout: default
 |**2025-03-25**|**$L^2$ FMamba: Lightweight Light Field Image Super-Resolution with State Space Model**|Zeqiang Wei et.al.|[2503.19253](http://arxiv.org/abs/2503.19253)|null|
 |**2024-10-09**|**MaskBlur: Spatial and Angular Data Augmentation for Light Field Image Super-Resolution**|Wentao Chao et.al.|[2410.06478](http://arxiv.org/abs/2410.06478)|null|
 |**2024-09-26**|**LGFN: Lightweight Light Field Image Super-Resolution using Local Convolution Modulation and Global Attention Feature Extraction**|Zhongxin Yu et.al.|[2409.17759](http://arxiv.org/abs/2409.17759)|null|
-|**2025-08-10**|**Less is More: Skim Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329](http://arxiv.org/abs/2407.15329)|null|
+|**2026-02-18**|**Less is More: Skim Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329](http://arxiv.org/abs/2407.15329)|null|
 |**2024-06-23**|**Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning**|Ruisheng Gao et.al.|[2406.16083](http://arxiv.org/abs/2406.16083)|null|
 |**2024-06-18**|**LFMamba: Light Field Image Super-Resolution with State Space Model**|Wang xia et.al.|[2406.12463](http://arxiv.org/abs/2406.12463)|null|
 |**2024-05-11**|**Incorporating Degradation Estimation in Light Field Spatial Super-Resolution**|Zeyu Xiao et.al.|[2405.07012](http://arxiv.org/abs/2405.07012)|null|
@@ -923,14 +926,14 @@ layout: default
 |**2025-08-08**|**Neural Field Representations of Mobile Computational Photography**|Ilya Chugunov et.al.|[2508.05907](http://arxiv.org/abs/2508.05907)|null|
 |**2025-05-14**|**Iterative Occlusion-Aware Light Field Depth Estimation using 4D Geometrical Cues**|Rui Lourenço et.al.|[2403.02043](http://arxiv.org/abs/2403.02043)|null|
 |**2023-11-15**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129](http://arxiv.org/abs/2311.08129)|null|
-|**2023-05-28**|**OccCasNet: Occlusion-aware Cascade Cost Volume for Light Field Depth Estimation**|Wentao Chao et.al.|[2305.17710](http://arxiv.org/abs/2305.17710)|null|
-|**2023-08-18**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang et.al.|[2301.08433](http://arxiv.org/abs/2301.08433)|null|
+|**2023-05-28**|**OccCasNet: Occlusion-aware Cascade Cost Volume for Light Field Depth Estimation**|Wentao Chao et.al.|[2305.17710](http://arxiv.org/abs/2305.17710)|**[link](https://github.com/chaowentao/OccCasNet)**|
+|**2023-08-18**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang et.al.|[2301.08433](http://arxiv.org/abs/2301.08433)|**[link](https://github.com/USTCPCS/CVPR2018_attention)**|
 |**2023-02-22**|**Matching entropy based disparity estimation from light field**|Ligen Shi et.al.|[2210.15948](http://arxiv.org/abs/2210.15948)|null|
-|**2023-11-21**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao et.al.|[2208.09688](http://arxiv.org/abs/2208.09688)|null|
+|**2023-11-21**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao et.al.|[2208.09688](http://arxiv.org/abs/2208.09688)|**[link](https://github.com/chaowentao/SubFocal)**|
 |**2023-09-07**|**Light Field Depth Estimation via Stitched Epipolar Plane Images**|Ping Zhou et.al.|[2203.15201](http://arxiv.org/abs/2203.15201)|null|
 |**2022-03-29**|**Self-Supervised Light Field Depth Estimation Using Epipolar Plane Images**|Kunyuan Li et.al.|[2203.15171](http://arxiv.org/abs/2203.15171)|null|
 |**2022-03-31**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231](http://arxiv.org/abs/2203.02231)|null|
-|**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576](http://arxiv.org/abs/2203.01576)|null|
+|**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576](http://arxiv.org/abs/2203.01576)|**[link](https://github.com/YingqianWang/OACC-Net)**|
 |**2023-07-25**|**Disentangling Light Fields for Super-Resolution and Disparity Estimation**|Yingqian Wang et.al.|[2202.10603](http://arxiv.org/abs/2202.10603)|null|
 |**2022-01-24**|**Occlusion-aware Unsupervised Learning of Depth from 4-D Light Fields**|Jing Jin et.al.|[2106.03043](http://arxiv.org/abs/2106.03043)|null|
 |**2020-08-12**|**Fast and Accurate Optical Flow based Depth Map Estimation from Light Fields**|Yang Chen et.al.|[2008.04673](http://arxiv.org/abs/2008.04673)|null|
@@ -1021,6 +1024,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Ab Initio Auxiliary-Field Quantum Monte Carlo in the Thermodynamic Limit**|Jinghong Zhang et.al.|[2602.16679](http://arxiv.org/abs/2602.16679)|null|
+|**2026-02-18**|**Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge**|Jiaming Liu et.al.|[2602.16664](http://arxiv.org/abs/2602.16664)|null|
+|**2026-02-18**|**Investigating Nonlinear Quenching Effects on Polar Field Buildup in the Sun Using Physics-Informed Neural Networks**|Jithu J. Athalathil et.al.|[2602.16656](http://arxiv.org/abs/2602.16656)|null|
+|**2026-02-18**|**Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models**|Yu Xie et.al.|[2602.16634](http://arxiv.org/abs/2602.16634)|null|
+|**2026-02-18**|**Stoichiometry Dependent Properties of Cerium Hydride: An Active Learning Developed Interatomic Potential Study**|Brenden W. Hamilton et.al.|[2602.16628](http://arxiv.org/abs/2602.16628)|null|
+|**2026-02-18**|**Style-Aware Gloss Control for Generative Non-Photorealistic Rendering**|Santiago Jimenez-Navarro et.al.|[2602.16611](http://arxiv.org/abs/2602.16611)|null|
+|**2026-02-18**|**Error Propagation and Model Collapse in Diffusion Models: A Theoretical Study**|Nail B. Khelifa et.al.|[2602.16601](http://arxiv.org/abs/2602.16601)|null|
+|**2026-02-18**|**Hybrid Optimization Techniques for Multi-State Optimal Design Problems**|Marko Erceg et.al.|[2602.16592](http://arxiv.org/abs/2602.16592)|null|
+|**2026-02-18**|**Steering diffusion models with quadratic rewards: a fine-grained analysis**|Ankur Moitra et.al.|[2602.16570](http://arxiv.org/abs/2602.16570)|null|
+|**2026-02-18**|**RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion**|Tianmeng Hu et.al.|[2602.16548](http://arxiv.org/abs/2602.16548)|null|
 |**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
 |**2026-02-17**|**Effective energy-enstrophy diffusion process and condensation bound**|Alain-Sol Sznitman et.al.|[2602.15810](http://arxiv.org/abs/2602.15810)|null|
 |**2026-02-17**|**Inviscid limit and an effective energy-enstrophy diffusion process**|Alain-Sol Sznitman et.al.|[2602.15805](http://arxiv.org/abs/2602.15805)|null|
@@ -2096,8 +2109,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Explainable AI: Context-Aware Layer-Wise Integrated Gradients for Explaining Transformer Models**|Melkamu Abay Mersha et.al.|[2602.16608](http://arxiv.org/abs/2602.16608)|null|
+|**2026-02-18**|**Benchmarking Adversarial Robustness and Adversarial Training Strategies for Object Detection**|Alexis Winter et.al.|[2602.16494](http://arxiv.org/abs/2602.16494)|null|
+|**2026-02-18**|**Automated Histopathology Report Generation via Pyramidal Feature Extraction and the UNI Foundation Model**|Ahmet Halici et.al.|[2602.16422](http://arxiv.org/abs/2602.16422)|null|
 |**2026-02-17**|**Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers**|Lucas Sancéré et.al.|[2602.15783](http://arxiv.org/abs/2602.15783)|null|
-|**2026-02-17**|**ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT**|Hyunchan Moon et.al.|[2602.15720](http://arxiv.org/abs/2602.15720)|null|
+|**2026-02-18**|**ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT**|Hyunchan Moon et.al.|[2602.15720](http://arxiv.org/abs/2602.15720)|null|
 |**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|null|
 |**2026-02-16**|**Scaling Laws for Masked-Reconstruction Transformers on Single-Cell Transcriptomics**|Ihor Kendiukhov et.al.|[2602.15253](http://arxiv.org/abs/2602.15253)|null|
 |**2026-02-16**|**VariViT: A Vision Transformer for Variable Image Sizes**|Aswathi Varma et.al.|[2602.14615](http://arxiv.org/abs/2602.14615)|null|
@@ -2695,6 +2711,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Subtractive Modulative Network with Learnable Periodic Activations**|Tiou Wang et.al.|[2602.16337](http://arxiv.org/abs/2602.16337)|null|
 |**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|
 |**2026-02-14**|**Nighttime Autonomous Driving Scene Reconstruction with Physically-Based Gaussian Splatting**|Tae-Kyeong Kim et.al.|[2602.13549](http://arxiv.org/abs/2602.13549)|null|
 |**2026-02-08**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|null|
@@ -2847,6 +2864,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Chem-SIM: Super-resolution Chemical Imaging via Photothermal Modulation of Structured-Illumination Fluorescence**|Dashan Dong et.al.|[2602.16079](http://arxiv.org/abs/2602.16079)|null|
+|**2026-02-15**|**A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving**|June Moh Goo et.al.|[2602.15904](http://arxiv.org/abs/2602.15904)|null|
 |**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|null|
 |**2026-02-16**|**Distributional Deep Learning for Super-Resolution of 4D Flow MRI under Domain Shift**|Xiaoyi Wen et.al.|[2602.15167](http://arxiv.org/abs/2602.15167)|null|
 |**2026-02-15**|**Convexity Meets Curvature: Lifted Near-Field Super-Resolution**|Sajad Daei et.al.|[2602.14063](http://arxiv.org/abs/2602.14063)|null|
@@ -3239,6 +3258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Breaking the Sub-Millimeter Barrier: Eyeframe Acquisition from Color Images**|Manel Guzmán et.al.|[2602.16281](http://arxiv.org/abs/2602.16281)|null|
 |**2026-02-16**|**AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories**|Zun Wang et.al.|[2602.14941](http://arxiv.org/abs/2602.14941)|null|
 |**2026-02-15**|**DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors**|Yi Li et.al.|[2602.14134](http://arxiv.org/abs/2602.14134)|null|
 |**2026-02-10**|**Sim2Radar: Toward Bridging the Radar Sim-to-Real Gap with VLM-Guided Scene Reconstruction**|Emily Bejerano et.al.|[2602.13314](http://arxiv.org/abs/2602.13314)|null|
@@ -3572,6 +3592,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Subtractive Modulative Network with Learnable Periodic Activations**|Tiou Wang et.al.|[2602.16337](http://arxiv.org/abs/2602.16337)|null|
 |**2026-02-17**|**NeRFscopy: Neural Radiance Fields for in-vivo Time-Varying Tissues from Endoscopy**|Laura Salort-Benejam et.al.|[2602.15775](http://arxiv.org/abs/2602.15775)|null|
 |**2026-02-16**|**Time-Archival Camera Virtualization for Sports and Visual Performances**|Yunxiao Zhang et.al.|[2602.15181](http://arxiv.org/abs/2602.15181)|null|
 |**2026-02-16**|**Gaussian Mesh Renderer for Lightweight Differentiable Rendering**|Xinpeng Liu et.al.|[2602.14493](http://arxiv.org/abs/2602.14493)|null|
