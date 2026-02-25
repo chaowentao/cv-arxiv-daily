@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2026.02.24
+> Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -28,6 +28,16 @@
 
 ## Image Generation
 
+- 2026-02-23, **HelioSpectrotron 5000: An Interactive Multi-Resolution Solar Spectral Atlas**, A. G. M. Pietrow et.al., Paper: [http://arxiv.org/abs/2602.20101](http://arxiv.org/abs/2602.20101)
+- 2026-02-23, **Training-Free Generative Modeling via Kernelized Stochastic Interpolants**, Florentin Coeurdoux et.al., Paper: [http://arxiv.org/abs/2602.20070](http://arxiv.org/abs/2602.20070)
+- 2026-02-23, **RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection**, Tianyu Wang et.al., Paper: [http://arxiv.org/abs/2602.19974](http://arxiv.org/abs/2602.19974)
+- 2026-02-23, **Fully Convolutional Spatiotemporal Learning for Microstructure Evolution Prediction**, Michael Trimboli et.al., Paper: [http://arxiv.org/abs/2602.19915](http://arxiv.org/abs/2602.19915), Code: **[https://github.com/mtrimboli2018/CNN_STL_MicEvo](https://github.com/mtrimboli2018/CNN_STL_MicEvo)**
+- 2026-02-23, **ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization**, Minseo Kim et.al., Paper: [http://arxiv.org/abs/2602.19575](http://arxiv.org/abs/2602.19575)
+- 2026-02-23, **Vinedresser3D: Agentic Text-guided 3D Editing**, Yankuan Chi et.al., Paper: [http://arxiv.org/abs/2602.19542](http://arxiv.org/abs/2602.19542)
+- 2026-02-23, **MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models**, Mingrui Wu et.al., Paper: [http://arxiv.org/abs/2602.19497](http://arxiv.org/abs/2602.19497)
+- 2026-02-23, **Laplacian Multi-scale Flow Matching for Generative Modeling**, Zelin Zhao et.al., Paper: [http://arxiv.org/abs/2602.19461](http://arxiv.org/abs/2602.19461)
+- 2026-02-22, **Referring Layer Decomposition**, Fangyi Chen et.al., Paper: [http://arxiv.org/abs/2602.19358](http://arxiv.org/abs/2602.19358)
+- 2026-02-22, **MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose**, Sirine Bhouri et.al., Paper: [http://arxiv.org/abs/2602.19348](http://arxiv.org/abs/2602.19348)
 - 2026-02-20, **Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation**, Ziyue Liu et.al., Paper: [http://arxiv.org/abs/2602.18309](http://arxiv.org/abs/2602.18309)
 - 2026-02-20, **Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies**, Zhuoran Li et.al., Paper: [http://arxiv.org/abs/2602.18291](http://arxiv.org/abs/2602.18291)
 - 2026-02-20, **Improving Sampling for Masked Diffusion Models via Information Gain**, Kaisen Yang et.al., Paper: [http://arxiv.org/abs/2602.18176](http://arxiv.org/abs/2602.18176), Code: **[https://github.com/yks23/Information-Gain-Sampler](https://github.com/yks23/Information-Gain-Sampler)**
@@ -894,16 +904,16 @@
 - 2020-08-05, **BSD-GAN: Branched Generative Adversarial Network for Scale-Disentangled Representation Learning and Image Synthesis**, Zili Yi et.al., Paper: [http://arxiv.org/abs/1803.08467](http://arxiv.org/abs/1803.08467)
 - 2015-09-30, **Retinex filtering of foggy images: generation of a bulk set with selection and ranking**, Roberto Marazzato et.al., Paper: [http://arxiv.org/abs/1509.08715](http://arxiv.org/abs/1509.08715)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Light Field Super Resolution
 
 - 2025-11-26, **Low-dose Chemically Specific Bioimaging via Deep-UV Lensless Holographic Microscopy on a Standard Camera**, Piotr Arcab et.al., Paper: [http://arxiv.org/abs/2511.21311](http://arxiv.org/abs/2511.21311)
 - 2025-10-09, **Light Field Super-Resolution: A Critical Review on Challenges and Opportunities**, Sumit Sharma et.al., Paper: [http://arxiv.org/abs/2510.07879](http://arxiv.org/abs/2510.07879)
 - 2025-10-07, **Mapping complex optical light field distributions with single fluorescent molecules**, Daniel Marx et.al., Paper: [http://arxiv.org/abs/2510.05791](http://arxiv.org/abs/2510.05791)
-- 2025-09-19, **Deep Learning Empowered Super-Resolution: A Comprehensive Survey and Future Prospects**, Le Zhang et.al., Paper: [http://arxiv.org/abs/2509.22692](http://arxiv.org/abs/2509.22692), Code: **[https://github.com/AVC2-UESTC/Holistic-Super-Resolution-Review](https://github.com/AVC2-UESTC/Holistic-Super-Resolution-Review)**
+- 2025-09-19, **Deep Learning Empowered Super-Resolution: A Comprehensive Survey and Future Prospects**, Le Zhang et.al., Paper: [http://arxiv.org/abs/2509.22692](http://arxiv.org/abs/2509.22692)
 - 2025-09-12, **Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**, Aupendu Kar et.al., Paper: [http://arxiv.org/abs/2509.09971](http://arxiv.org/abs/2509.09971)
-- 2025-09-05, **Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**, Haosong Liu et.al., Paper: [http://arxiv.org/abs/2509.04824](http://arxiv.org/abs/2509.04824), Code: **[https://github.com/hsliu01/LFMT](https://github.com/hsliu01/LFMT)**
+- 2025-09-05, **Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**, Haosong Liu et.al., Paper: [http://arxiv.org/abs/2509.04824](http://arxiv.org/abs/2509.04824)
 - 2025-08-27, **WaveHiT-SR: Hierarchical Wavelet Network for Efficient Image Super-Resolution**, Fayaz Ali et.al., Paper: [http://arxiv.org/abs/2508.19927](http://arxiv.org/abs/2508.19927)
 - 2025-08-15, **LKFMixer: Exploring Large Kernel Feature For Efficient Image Super-Resolution**, Yinggan Tang et.al., Paper: [http://arxiv.org/abs/2508.11391](http://arxiv.org/abs/2508.11391)
 - 2025-08-11, **AU-IQA: A Benchmark Dataset for Perceptual Quality Assessment of AI-Enhanced User-Generated Content**, Shushi Wang et.al., Paper: [http://arxiv.org/abs/2508.05016](http://arxiv.org/abs/2508.05016)
@@ -930,7 +940,7 @@
 - 2018-08-01, **Light Field Super-Resolution Via Graph-Based Regularization**, Mattia Rossi et.al., Paper: [http://arxiv.org/abs/1701.02141](http://arxiv.org/abs/1701.02141)
 - 2016-07-13, **Super-resolved multimodal multiphoton microscopy with spatial frequency-modulated imaging**, Jeffrey J. Field et.al., Paper: [http://arxiv.org/abs/1508.03541](http://arxiv.org/abs/1508.03541)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Light Field Depth Estimation
 
@@ -963,7 +973,7 @@
 - 2019-09-20, **Learning to Think Outside the Box: Wide-Baseline Light Field Depth Estimation with EPI-Shift**, Titus Leistner et.al., Paper: [http://arxiv.org/abs/1909.09059](http://arxiv.org/abs/1909.09059)
 - 2018-11-20, **VommaNet: an End-to-End Network for Disparity Estimation from Reflective and Texture-less Light Field Images**, Haoxin Ma et.al., Paper: [http://arxiv.org/abs/1811.07124](http://arxiv.org/abs/1811.07124)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Light Field View Synthesis
 
@@ -1009,7 +1019,7 @@
 - 2020-02-27, **Learning Light Field Angular Super-Resolution via a Geometry-Aware Network**, Jing Jin et.al., Paper: [http://arxiv.org/abs/2002.11263](http://arxiv.org/abs/2002.11263)
 - 2020-09-18, **High-dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction**, Nan Meng et.al., Paper: [http://arxiv.org/abs/1910.01426](http://arxiv.org/abs/1910.01426)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Light Field Other Applications
 
@@ -1042,10 +1052,20 @@
 - 2017-04-19, **Light Field Blind Motion Deblurring**, Pratul P. Srinivasan et.al., Paper: [http://arxiv.org/abs/1704.05416](http://arxiv.org/abs/1704.05416)
 - 2017-05-22, **Richardson-Lucy Deblurring for Moving Light Field Cameras**, Donald G. Dansereau et.al., Paper: [http://arxiv.org/abs/1606.04308](http://arxiv.org/abs/1606.04308)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Diffusion
 
+- 2026-02-23, **Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**, Abdelrahman Shaker et.al., Paper: [http://arxiv.org/abs/2602.20161](http://arxiv.org/abs/2602.20161)
+- 2026-02-23, **Adaptation to Intrinsic Dependence in Diffusion Language Models**, Yunxiao Zhao et.al., Paper: [http://arxiv.org/abs/2602.20126](http://arxiv.org/abs/2602.20126)
+- 2026-02-23, **Benchmarking Unlearning for Vision Transformers**, Kairan Zhao et.al., Paper: [http://arxiv.org/abs/2602.20114](http://arxiv.org/abs/2602.20114)
+- 2026-02-23, **StyleStream: Real-Time Zero-Shot Voice Style Conversion**, Yisi Liu et.al., Paper: [http://arxiv.org/abs/2602.20113](http://arxiv.org/abs/2602.20113)
+- 2026-02-23, **SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis**, Xinya Chen et.al., Paper: [http://arxiv.org/abs/2602.20079](http://arxiv.org/abs/2602.20079)
+- 2026-02-23, **Training-Free Generative Modeling via Kernelized Stochastic Interpolants**, Florentin Coeurdoux et.al., Paper: [http://arxiv.org/abs/2602.20070](http://arxiv.org/abs/2602.20070)
+- 2026-02-23, **AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation**, Ge Yuan et.al., Paper: [http://arxiv.org/abs/2602.20057](http://arxiv.org/abs/2602.20057)
+- 2026-02-23, **Arc-length characterization of finite, radial growth patterns**, Andreas A. Hennig et.al., Paper: [http://arxiv.org/abs/2602.20026](http://arxiv.org/abs/2602.20026)
+- 2026-02-23, **Schrödinger bridges with jumps for time series generation**, Stefano De Marco et.al., Paper: [http://arxiv.org/abs/2602.20011](http://arxiv.org/abs/2602.20011)
+- 2026-02-23, **Simulation of proton radiolysis of H2O and O2 ices with the Nautilus code**, Tian-Yu Tu et.al., Paper: [http://arxiv.org/abs/2602.19996](http://arxiv.org/abs/2602.19996)
 - 2026-02-20, **The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning**, Mojtaba Sahraee-Ardakan et.al., Paper: [http://arxiv.org/abs/2602.18428](http://arxiv.org/abs/2602.18428)
 - 2026-02-20, **Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**, Linxi Xie et.al., Paper: [http://arxiv.org/abs/2602.18422](http://arxiv.org/abs/2602.18422)
 - 2026-02-20, **Exploiting Completeness Perception with Diffusion Transformer for Unified 3D MRI Synthesis**, Junkai Liu et.al., Paper: [http://arxiv.org/abs/2602.18400](http://arxiv.org/abs/2602.18400)
@@ -2147,13 +2167,19 @@
 - 2014-03-27, **Diffusion in LanCoIn3n+2 phases studied by perturbed angular correlation**, Randal Newhouse et.al., Paper: [http://arxiv.org/abs/1109.2262](http://arxiv.org/abs/1109.2262)
 - 2014-03-27, **Diffusion in binary and pseudo-binary L12 indides, stannides, gallides and aluminides of rare-earth elements as studied using perturbed angular correlation of 111In/Cd**, Randal Newhouse et.al., Paper: [http://arxiv.org/abs/1109.2261](http://arxiv.org/abs/1109.2261)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Vision Transformer
 
+- 2026-02-23, **Benchmarking Unlearning for Vision Transformers**, Kairan Zhao et.al., Paper: [http://arxiv.org/abs/2602.20114](http://arxiv.org/abs/2602.20114)
+- 2026-02-23, **A Computationally Efficient Multidimensional Vision Transformer**, Alaa El Ichi et.al., Paper: [http://arxiv.org/abs/2602.19982](http://arxiv.org/abs/2602.19982)
+- 2026-02-23, **DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2602.19945](http://arxiv.org/abs/2602.19945)
+- 2026-02-22, **Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference**, Rui-Yang Ju et.al., Paper: [http://arxiv.org/abs/2602.19086](http://arxiv.org/abs/2602.19086)
+- 2026-02-21, **Joint Post-Training Quantization of Vision Transformers with Learned Prompt-Guided Data Generation**, Shile Li et.al., Paper: [http://arxiv.org/abs/2602.18861](http://arxiv.org/abs/2602.18861)
+- 2026-02-20, **Effect of Patch Size on Fine-Tuning Vision Transformers in Two-Dimensional and Three-Dimensional Medical Image Classification**, Massoud Dehghan et.al., Paper: [http://arxiv.org/abs/2602.18614](http://arxiv.org/abs/2602.18614)
 - 2026-02-20, **Evaluating Graphical Perception Capabilities of Vision Transformers**, Poonam Poonam et.al., Paper: [http://arxiv.org/abs/2602.18178](http://arxiv.org/abs/2602.18178)
 - 2026-02-20, **ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging**, Athanasios Angelakis et.al., Paper: [http://arxiv.org/abs/2602.17929](http://arxiv.org/abs/2602.17929)
-- 2026-02-19, **VidEoMT: Your ViT is Secretly Also a Video Segmentation Model**, Narges Norouzi et.al., Paper: [http://arxiv.org/abs/2602.17807](http://arxiv.org/abs/2602.17807)
+- 2026-02-23, **VidEoMT: Your ViT is Secretly Also a Video Segmentation Model**, Narges Norouzi et.al., Paper: [http://arxiv.org/abs/2602.17807](http://arxiv.org/abs/2602.17807)
 - 2026-02-19, **A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN**, Asif Hasan Chowdhury et.al., Paper: [http://arxiv.org/abs/2602.17566](http://arxiv.org/abs/2602.17566)
 - 2026-02-19, **Powering Up Zeroth-Order Training via Subspace Gradient Orthogonalization**, Yicheng Lang et.al., Paper: [http://arxiv.org/abs/2602.17155](http://arxiv.org/abs/2602.17155)
 - 2026-02-18, **Xray-Visual Models: Scaling Vision models on Industry Scale Data**, Shlok Mishra et.al., Paper: [http://arxiv.org/abs/2602.16918](http://arxiv.org/abs/2602.16918)
@@ -2756,10 +2782,12 @@
 - 2021-10-25, **Multi-Exit Vision Transformer for Dynamic Inference**, Arian Bakhtiarnia et.al., Paper: [http://arxiv.org/abs/2106.15183](http://arxiv.org/abs/2106.15183)
 - 2021-06-07, **Glance-and-Gaze Vision Transformer**, Qihang Yu et.al., Paper: [http://arxiv.org/abs/2106.02277](http://arxiv.org/abs/2106.02277)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## NeRF
 
+- 2026-02-23, **Augmented Radiance Field: A General Framework for Enhanced Gaussian Splatting**, Yixin Yang et.al., Paper: [http://arxiv.org/abs/2602.19916](http://arxiv.org/abs/2602.19916)
+- 2026-02-21, **PhysConvex: Physics-Informed 3D Dynamic Convex Radiance Fields for Reconstruction and Simulation**, Dan Wang et.al., Paper: [http://arxiv.org/abs/2602.18886](http://arxiv.org/abs/2602.18886)
 - 2026-02-20, **Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2602.18322](http://arxiv.org/abs/2602.18322)
 - 2026-02-18, **HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**, Kibon Ku et.al., Paper: [http://arxiv.org/abs/2602.16950](http://arxiv.org/abs/2602.16950)
 - 2026-02-18, **Subtractive Modulative Network with Learnable Periodic Activations**, Tiou Wang et.al., Paper: [http://arxiv.org/abs/2602.16337](http://arxiv.org/abs/2602.16337)
@@ -2911,10 +2939,12 @@
 - 2022-02-11, **Block-NeRF: Scalable Large Scene Neural View Synthesis**, Matthew Tancik et.al., Paper: [http://arxiv.org/abs/2202.05263](http://arxiv.org/abs/2202.05263)
 - 2021-01-18, **Neural Volume Rendering: NeRF And Beyond**, Frank Dellaert et.al., Paper: [http://arxiv.org/abs/2101.05204](http://arxiv.org/abs/2101.05204)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Super Resolution
 
+- 2026-02-23, **InfScene-SR: Spatially Continuous Inference for Arbitrary-Size Image Super-Resolution**, Shoukun Sun et.al., Paper: [http://arxiv.org/abs/2602.19736](http://arxiv.org/abs/2602.19736)
+- 2026-02-21, **Robust Self-Supervised Cross-Modal Super-Resolution against Real-World Misaligned Observations**, Xiaoyu Dong et.al., Paper: [http://arxiv.org/abs/2602.18822](http://arxiv.org/abs/2602.18822)
 - 2026-02-20, **Super-Resolution Structured-Illumination X-Ray Microscopy based on Fourier Decomposition**, Stefan Schwaiger et.al., Paper: [http://arxiv.org/abs/2602.18343](http://arxiv.org/abs/2602.18343)
 - 2026-02-20, **Extremely Large Antenna Spacing Method for Enhanced Wideband Near-Field Sensing**, Tommaso Bacchielli et.al., Paper: [http://arxiv.org/abs/2602.18076](http://arxiv.org/abs/2602.18076)
 - 2026-02-19, **Multi-material Multi-physics Topology Optimization with Physics-informed Gaussian Process Priors**, Xiangyu Sun et.al., Paper: [http://arxiv.org/abs/2602.17783](http://arxiv.org/abs/2602.17783)
@@ -3310,10 +3340,13 @@
 - 2019-07-30, **Benefiting from Multitask Learning to Improve Single Image Super-Resolution**, Mohammad Saeed Rad et.al., Paper: [http://arxiv.org/abs/1907.12488](http://arxiv.org/abs/1907.12488)
 - 2010-10-28, **Selective Image Super-Resolution**, Ju Sun et.al., Paper: [http://arxiv.org/abs/1010.5610](http://arxiv.org/abs/1010.5610)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Depth Estimation
 
+- 2026-02-23, **One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**, Pengfei Wang et.al., Paper: [http://arxiv.org/abs/2602.19766](http://arxiv.org/abs/2602.19766)
+- 2026-02-23, **Training Deep Stereo Matching Networks on Tree Branch Imagery: A Benchmark Study for Real-Time UAV Forestry Applications**, Yida Lin et.al., Paper: [http://arxiv.org/abs/2602.19763](http://arxiv.org/abs/2602.19763)
+- 2026-02-21, **Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**, Shengjie Zhu et.al., Paper: [http://arxiv.org/abs/2602.18906](http://arxiv.org/abs/2602.18906)
 - 2026-02-20, **A Single Image and Multimodality Is All You Need for Novel View Synthesis**, Amirhosein Javadi et.al., Paper: [http://arxiv.org/abs/2602.17909](http://arxiv.org/abs/2602.17909)
 - 2026-02-19, **Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**, Xinwei Ju et.al., Paper: [http://arxiv.org/abs/2602.17785](http://arxiv.org/abs/2602.17785)
 - 2026-02-18, **StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**, Zeyu Ren et.al., Paper: [http://arxiv.org/abs/2602.16915](http://arxiv.org/abs/2602.16915)
@@ -3647,10 +3680,12 @@
 - 2020-04-01, **Self-supervised Monocular Trained Depth Estimation using Self-attention and Discrete Disparity Volume**, Adrian Johnston et.al., Paper: [http://arxiv.org/abs/2003.13951](http://arxiv.org/abs/2003.13951)
 - 2019-09-04, **Unsupervised Video Depth Estimation Based on Ego-motion and Disparity Consensus**, Lingtao Zhou et.al., Paper: [http://arxiv.org/abs/1909.01028](http://arxiv.org/abs/1909.01028)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## View Synthesis
 
+- 2026-02-23, **tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2602.20160](http://arxiv.org/abs/2602.20160)
+- 2026-02-23, **SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis**, Xinya Chen et.al., Paper: [http://arxiv.org/abs/2602.20079](http://arxiv.org/abs/2602.20079)
 - 2026-02-20, **Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2602.18322](http://arxiv.org/abs/2602.18322)
 - 2026-02-20, **A Single Image and Multimodality Is All You Need for Novel View Synthesis**, Amirhosein Javadi et.al., Paper: [http://arxiv.org/abs/2602.17909](http://arxiv.org/abs/2602.17909)
 - 2026-02-18, **StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**, Zeyu Ren et.al., Paper: [http://arxiv.org/abs/2602.16915](http://arxiv.org/abs/2602.16915)
@@ -3960,10 +3995,15 @@
 - 2020-04-24, **Single-View View Synthesis with Multiplane Images**, Richard Tucker et.al., Paper: [http://arxiv.org/abs/2004.11364](http://arxiv.org/abs/2004.11364)
 - 2013-11-12, **Two-View Matching with View Synthesis Revisited**, Dmytro Mishkin et.al., Paper: [http://arxiv.org/abs/1306.3855](http://arxiv.org/abs/1306.3855)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Gaussian Splatting
 
+- 2026-02-23, **tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2602.20160](http://arxiv.org/abs/2602.20160)
+- 2026-02-23, **Augmented Radiance Field: A General Framework for Enhanced Gaussian Splatting**, Yixin Yang et.al., Paper: [http://arxiv.org/abs/2602.19916](http://arxiv.org/abs/2602.19916)
+- 2026-02-23, **One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**, Pengfei Wang et.al., Paper: [http://arxiv.org/abs/2602.19766](http://arxiv.org/abs/2602.19766)
+- 2026-02-23, **RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing**, Kaifa Yang et.al., Paper: [http://arxiv.org/abs/2602.19753](http://arxiv.org/abs/2602.19753)
+- 2026-02-22, **DefenseSplat: Enhancing the Robustness of 3D Gaussian Splatting via Frequency-Aware Filtering**, Yiran Qiao et.al., Paper: [http://arxiv.org/abs/2602.19323](http://arxiv.org/abs/2602.19323)
 - 2026-02-20, **Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2602.18322](http://arxiv.org/abs/2602.18322)
 - 2026-02-20, **Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting**, Tianyi Song et.al., Paper: [http://arxiv.org/abs/2602.18314](http://arxiv.org/abs/2602.18314)
 - 2026-02-19, **4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**, Jiwei Shan et.al., Paper: [http://arxiv.org/abs/2602.17473](http://arxiv.org/abs/2602.17473)
@@ -4528,7 +4568,7 @@
 - 2023-08-09, **3D Gaussian Splatting for Real-Time Radiance Field Rendering**, Bernhard Kerbl et.al., Paper: [http://arxiv.org/abs/2308.04079](http://arxiv.org/abs/2308.04079)
 - 2025-08-12, **NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**, Kyle Gao et.al., Paper: [http://arxiv.org/abs/2210.00379](http://arxiv.org/abs/2210.00379)
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
