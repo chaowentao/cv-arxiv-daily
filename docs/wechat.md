@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2026.02.28
+> Updated on 2026.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -920,7 +920,7 @@
 - 2020-08-05, **BSD-GAN: Branched Generative Adversarial Network for Scale-Disentangled Representation Learning and Image Synthesis**, Zili Yi et.al., Paper: [http://arxiv.org/abs/1803.08467](http://arxiv.org/abs/1803.08467)
 - 2015-09-30, **Retinex filtering of foggy images: generation of a bulk set with selection and ranking**, Roberto Marazzato et.al., Paper: [http://arxiv.org/abs/1509.08715](http://arxiv.org/abs/1509.08715)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Light Field Super Resolution
 
@@ -956,7 +956,7 @@
 - 2018-08-01, **Light Field Super-Resolution Via Graph-Based Regularization**, Mattia Rossi et.al., Paper: [http://arxiv.org/abs/1701.02141](http://arxiv.org/abs/1701.02141)
 - 2016-07-13, **Super-resolved multimodal multiphoton microscopy with spatial frequency-modulated imaging**, Jeffrey J. Field et.al., Paper: [http://arxiv.org/abs/1508.03541](http://arxiv.org/abs/1508.03541)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Light Field Depth Estimation
 
@@ -989,7 +989,7 @@
 - 2019-09-20, **Learning to Think Outside the Box: Wide-Baseline Light Field Depth Estimation with EPI-Shift**, Titus Leistner et.al., Paper: [http://arxiv.org/abs/1909.09059](http://arxiv.org/abs/1909.09059)
 - 2018-11-20, **VommaNet: an End-to-End Network for Disparity Estimation from Reflective and Texture-less Light Field Images**, Haoxin Ma et.al., Paper: [http://arxiv.org/abs/1811.07124](http://arxiv.org/abs/1811.07124)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Light Field View Synthesis
 
@@ -1036,7 +1036,7 @@
 - 2020-02-27, **Learning Light Field Angular Super-Resolution via a Geometry-Aware Network**, Jing Jin et.al., Paper: [http://arxiv.org/abs/2002.11263](http://arxiv.org/abs/2002.11263)
 - 2020-09-18, **High-dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction**, Nan Meng et.al., Paper: [http://arxiv.org/abs/1910.01426](http://arxiv.org/abs/1910.01426)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Light Field Other Applications
 
@@ -1069,7 +1069,7 @@
 - 2017-04-19, **Light Field Blind Motion Deblurring**, Pratul P. Srinivasan et.al., Paper: [http://arxiv.org/abs/1704.05416](http://arxiv.org/abs/1704.05416)
 - 2017-05-22, **Richardson-Lucy Deblurring for Moving Light Field Cameras**, Donald G. Dansereau et.al., Paper: [http://arxiv.org/abs/1606.04308](http://arxiv.org/abs/1606.04308)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2204,7 +2204,7 @@
 - 2014-03-27, **Diffusion in LanCoIn3n+2 phases studied by perturbed angular correlation**, Randal Newhouse et.al., Paper: [http://arxiv.org/abs/1109.2262](http://arxiv.org/abs/1109.2262)
 - 2014-03-27, **Diffusion in binary and pseudo-binary L12 indides, stannides, gallides and aluminides of rare-earth elements as studied using perturbed angular correlation of 111In/Cd**, Randal Newhouse et.al., Paper: [http://arxiv.org/abs/1109.2261](http://arxiv.org/abs/1109.2261)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Vision Transformer
 
@@ -2828,7 +2828,7 @@
 - 2021-10-25, **Multi-Exit Vision Transformer for Dynamic Inference**, Arian Bakhtiarnia et.al., Paper: [http://arxiv.org/abs/2106.15183](http://arxiv.org/abs/2106.15183)
 - 2021-06-07, **Glance-and-Gaze Vision Transformer**, Qihang Yu et.al., Paper: [http://arxiv.org/abs/2106.02277](http://arxiv.org/abs/2106.02277)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## NeRF
 
@@ -2990,7 +2990,7 @@
 - 2022-02-11, **Block-NeRF: Scalable Large Scene Neural View Synthesis**, Matthew Tancik et.al., Paper: [http://arxiv.org/abs/2202.05263](http://arxiv.org/abs/2202.05263)
 - 2021-01-18, **Neural Volume Rendering: NeRF And Beyond**, Frank Dellaert et.al., Paper: [http://arxiv.org/abs/2101.05204](http://arxiv.org/abs/2101.05204)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -3398,16 +3398,16 @@
 - 2019-07-30, **Benefiting from Multitask Learning to Improve Single Image Super-Resolution**, Mohammad Saeed Rad et.al., Paper: [http://arxiv.org/abs/1907.12488](http://arxiv.org/abs/1907.12488)
 - 2010-10-28, **Selective Image Super-Resolution**, Ju Sun et.al., Paper: [http://arxiv.org/abs/1010.5610](http://arxiv.org/abs/1010.5610)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Depth Estimation
 
 - 2026-02-26, **EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**, Yinheng Lin et.al., Paper: [http://arxiv.org/abs/2602.21893](http://arxiv.org/abs/2602.21893)
-- 2026-02-25, **Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**, Juan Yang et.al., Paper: [http://arxiv.org/abs/2602.21740](http://arxiv.org/abs/2602.21740)
+- 2026-02-25, **Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**, Juan Yang et.al., Paper: [http://arxiv.org/abs/2602.21740](http://arxiv.org/abs/2602.21740), Code: **[https://github.com/YyangJJuan/PC-S2I](https://github.com/YyangJJuan/PC-S2I)**
 - 2026-02-24, **Progressive Per-Branch Depth Optimization for DEFOM-Stereo and SAM3 Joint Analysis in UAV Forestry Applications**, Yida Lin et.al., Paper: [http://arxiv.org/abs/2602.20539](http://arxiv.org/abs/2602.20539)
 - 2026-02-23, **One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**, Pengfei Wang et.al., Paper: [http://arxiv.org/abs/2602.19766](http://arxiv.org/abs/2602.19766)
 - 2026-02-23, **Training Deep Stereo Matching Networks on Tree Branch Imagery: A Benchmark Study for Real-Time UAV Forestry Applications**, Yida Lin et.al., Paper: [http://arxiv.org/abs/2602.19763](http://arxiv.org/abs/2602.19763)
-- 2026-02-21, **Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**, Shengjie Zhu et.al., Paper: [http://arxiv.org/abs/2602.18906](http://arxiv.org/abs/2602.18906)
+- 2026-02-21, **Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**, Shengjie Zhu et.al., Paper: [http://arxiv.org/abs/2602.18906](http://arxiv.org/abs/2602.18906), Code: **[https://github.com/ShngJZ/Marginalized-Bundle-Adjustment](https://github.com/ShngJZ/Marginalized-Bundle-Adjustment)**
 - 2026-02-20, **A Single Image and Multimodality Is All You Need for Novel View Synthesis**, Amirhosein Javadi et.al., Paper: [http://arxiv.org/abs/2602.17909](http://arxiv.org/abs/2602.17909)
 - 2026-02-19, **Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**, Xinwei Ju et.al., Paper: [http://arxiv.org/abs/2602.17785](http://arxiv.org/abs/2602.17785)
 - 2026-02-18, **StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**, Zeyu Ren et.al., Paper: [http://arxiv.org/abs/2602.16915](http://arxiv.org/abs/2602.16915)
@@ -3741,7 +3741,7 @@
 - 2020-04-01, **Self-supervised Monocular Trained Depth Estimation using Self-attention and Discrete Disparity Volume**, Adrian Johnston et.al., Paper: [http://arxiv.org/abs/2003.13951](http://arxiv.org/abs/2003.13951)
 - 2019-09-04, **Unsupervised Video Depth Estimation Based on Ego-motion and Disparity Consensus**, Lingtao Zhou et.al., Paper: [http://arxiv.org/abs/1909.01028](http://arxiv.org/abs/1909.01028)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## View Synthesis
 
@@ -4061,7 +4061,7 @@
 - 2020-04-24, **Single-View View Synthesis with Multiplane Images**, Richard Tucker et.al., Paper: [http://arxiv.org/abs/2004.11364](http://arxiv.org/abs/2004.11364)
 - 2013-11-12, **Two-View Matching with View Synthesis Revisited**, Dmytro Mishkin et.al., Paper: [http://arxiv.org/abs/1306.3855](http://arxiv.org/abs/1306.3855)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -4651,7 +4651,7 @@
 - 2023-08-09, **3D Gaussian Splatting for Real-Time Radiance Field Rendering**, Bernhard Kerbl et.al., Paper: [http://arxiv.org/abs/2308.04079](http://arxiv.org/abs/2308.04079)
 - 2025-08-12, **NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**, Kyle Gao et.al., Paper: [http://arxiv.org/abs/2210.00379](http://arxiv.org/abs/2210.00379)
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
