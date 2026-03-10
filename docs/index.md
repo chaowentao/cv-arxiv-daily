@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**Variational Flow Maps: Make Some Noise for One-Step Conditional Generation**|Abbas Mammadov et.al.|[2603.07276](http://arxiv.org/abs/2603.07276)|**[link](https://github.com/abbasmammadov/VFM)**|
+|**2026-03-07**|**HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing**|Tencent HY Team et.al.|[2603.07236](http://arxiv.org/abs/2603.07236)|**[link](https://github.com/Tencent-Hunyuan/HY-WU)**|
+|**2026-03-07**|**Agentic Planning with Reasoning for Image Styling via Offline RL**|Subhojyoti Mukherjee et.al.|[2603.07148](http://arxiv.org/abs/2603.07148)|null|
+|**2026-03-06**|**Implementation of Quantum Implicit Neural Representation in Deterministic and Probabilistic Autoencoders for Image Reconstruction/Generation Tasks**|Saadet Müzehher Eren et.al.|[2603.06755](http://arxiv.org/abs/2603.06755)|null|
+|**2026-03-06**|**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**|Lijiang Li et.al.|[2603.06577](http://arxiv.org/abs/2603.06577)|null|
+|**2026-03-06**|**NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion**|Taewon Kang et.al.|[2603.06533](http://arxiv.org/abs/2603.06533)|null|
 |**2026-03-06**|**Pinterest Canvas: Large-Scale Image Generation at Pinterest**|Yu Wang et.al.|[2603.06453](http://arxiv.org/abs/2603.06453)|null|
 |**2026-03-06**|**3D CBCT Artefact Removal Using Perpendicular Score-Based Diffusion Models**|Susanne Schaub et.al.|[2603.06300](http://arxiv.org/abs/2603.06300)|null|
 |**2026-03-06**|**Optimizing 3D Diffusion Models for Medical Imaging via Multi-Scale Reward Learning**|Yueying Tian et.al.|[2603.06173](http://arxiv.org/abs/2603.06173)|null|
@@ -1101,6 +1107,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**DiffSIM: Unconditional and conditional facies simulation based on denoising diffusion generative models**|Minghui Xu et.al.|[2603.07383](http://arxiv.org/abs/2603.07383)|null|
+|**2026-03-07**|**N-Tree Diffusion for Long-Horizon Wildfire Risk Forecasting**|Yucheng Xing et.al.|[2603.07361](http://arxiv.org/abs/2603.07361)|null|
+|**2026-03-07**|**Latent Generative Models with Tunable Complexity for Compressed Sensing and other Inverse Problems**|Sean Gunn et.al.|[2603.07357](http://arxiv.org/abs/2603.07357)|null|
+|**2026-03-07**|**Causal Attribution of Coastal Water Clarity Degradation to Nickel Processing Expansion at the Indonesia Morowali Industrial Park, Sulawesi**|Sandy Hardian Susanto Herho et.al.|[2603.07331](http://arxiv.org/abs/2603.07331)|null|
+|**2026-03-07**|**A note on diffusive/random-walk behaviour in Metropolis--Hastings algorithms**|Yuxin Liu et.al.|[2603.07310](http://arxiv.org/abs/2603.07310)|null|
+|**2026-03-07**|**Virtual Try-On for Cultural Clothing: A Benchmarking Study**|Muhammad Tausif Ul Islam et.al.|[2603.07291](http://arxiv.org/abs/2603.07291)|null|
+|**2026-03-07**|**Variational Flow Maps: Make Some Noise for One-Step Conditional Generation**|Abbas Mammadov et.al.|[2603.07276](http://arxiv.org/abs/2603.07276)|null|
+|**2026-03-07**|**FabricGen: Microstructure-Aware Woven Fabric Generation**|Yingjie Tang et.al.|[2603.07240](http://arxiv.org/abs/2603.07240)|null|
+|**2026-03-07**|**Single Image Super-Resolution via Bivariate `A Trous Wavelet Diffusion**|Heidari Maryam et.al.|[2603.07234](http://arxiv.org/abs/2603.07234)|null|
+|**2026-03-07**|**From debt crises to financial crashes (and back): a stock-flow consistent model for stock price bubbles**|Matheus R. Grasselli et.al.|[2603.07213](http://arxiv.org/abs/2603.07213)|null|
 |**2026-03-06**|**Lie symmetry method for a nonlinear heat-diffusion equation**|Julieta Bollati et.al.|[2603.06519](http://arxiv.org/abs/2603.06519)|null|
 |**2026-03-06**|**Tomographic collective modes in a magnetic field**|Jeff Maki et.al.|[2603.06518](http://arxiv.org/abs/2603.06518)|null|
 |**2026-03-06**|**Constraining turbulent solar flare acceleration regions by connecting kinetic modeling and X-ray observations**|Morgan Stores et.al.|[2603.06517](http://arxiv.org/abs/2603.06517)|null|
@@ -2286,6 +2302,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**StructSAM: Structure- and Spectrum-Preserving Token Merging for Segment Anything Models**|Duy M. H. Nguyen et.al.|[2603.07307](http://arxiv.org/abs/2603.07307)|null|
+|**2026-03-07**|**ACD-U: Asymmetric co-teaching with machine unlearning for robust learning with noisy labels**|Reo Fukunaga et.al.|[2603.07166](http://arxiv.org/abs/2603.07166)|null|
+|**2026-03-06**|**ButterflyViT: 354 $\times$ Expert Compression for Edge Vision Transformers**|Aryan Karmore et.al.|[2603.06746](http://arxiv.org/abs/2603.06746)|null|
 |**2026-03-06**|**Locating and Editing Figure-Ground Organization in Vision Transformers**|Stefan Arnold et.al.|[2603.06407](http://arxiv.org/abs/2603.06407)|null|
 |**2026-03-06**|**Latent Transfer Attack: Adversarial Examples via Generative Latent Spaces**|Eitan Shaar et.al.|[2603.06311](http://arxiv.org/abs/2603.06311)|null|
 |**2026-03-06**|**Beyond Static Frames: Temporal Aggregate-and-Restore Vision Transformer for Human Pose Estimation**|Hongwei Fang et.al.|[2603.05929](http://arxiv.org/abs/2603.05929)|null|
@@ -2941,6 +2960,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**FTSplat: Feed-forward Triangle Splatting Network**|Xiong Jinlin et.al.|[2603.05932](http://arxiv.org/abs/2603.05932)|null|
 |**2026-03-05**|**Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.|[2603.05473](http://arxiv.org/abs/2603.05473)|null|
 |**2026-03-05**|**GloSplat: Joint Pose-Appearance Optimization for Faster and More Accurate 3D Reconstruction**|Tianyu Xiong et.al.|[2603.04847](http://arxiv.org/abs/2603.04847)|null|
 |**2026-03-03**|**R3GW: Relightable 3D Gaussians for Outdoor Scenes in the Wild**|Margherita Lea Corona et.al.|[2603.02801](http://arxiv.org/abs/2603.02801)|null|
@@ -3111,6 +3131,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**Single Image Super-Resolution via Bivariate `A Trous Wavelet Diffusion**|Heidari Maryam et.al.|[2603.07234](http://arxiv.org/abs/2603.07234)|null|
+|**2026-03-06**|**Rank-Factorized Implicit Neural Bias: Scaling Super-Resolution Transformer with FlashAttention**|Dongheon Lee et.al.|[2603.06738](http://arxiv.org/abs/2603.06738)|null|
 |**2026-03-06**|**Spectral and Trajectory Regularization for Diffusion Transformer Super-Resolution**|Jingkai Wang et.al.|[2603.06275](http://arxiv.org/abs/2603.06275)|null|
 |**2026-03-06**|**LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Generative Real-World Super-Resolution**|Song Fei et.al.|[2603.05947](http://arxiv.org/abs/2603.05947)|null|
 |**2026-03-05**|**Stochastic inner workings of subdiffraction laser writing**|Julia M. Mikhailova et.al.|[2603.04853](http://arxiv.org/abs/2603.04853)|null|
@@ -3545,6 +3567,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**SurgSync: Time-Synchronized Multi-Modal Data Collection Framework and Dataset for Surgical Robotics**|Haoying Zhou et.al.|[2603.06919](http://arxiv.org/abs/2603.06919)|null|
 |**2026-03-06**|**CHMv2: Improvements in Global Canopy Height Mapping using DINOv3**|John Brandt et.al.|[2603.06382](http://arxiv.org/abs/2603.06382)|null|
 |**2026-03-06**|**RePer-360: Releasing Perspective Priors for 360 $^\circ$ Depth Estimation via Self-Modulation**|Cheng Guan et.al.|[2603.05999](http://arxiv.org/abs/2603.05999)|null|
 |**2026-03-06**|**Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D**|Ping Chen et.al.|[2603.05906](http://arxiv.org/abs/2603.05906)|null|
@@ -3903,6 +3926,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**MipSLAM: Alias-Free Gaussian Splatting SLAM**|Yingzhao Li et.al.|[2603.06989](http://arxiv.org/abs/2603.06989)|null|
+|**2026-03-07**|**Optimizing Multi-Modal Models for Image-Based Shape Retrieval: The Role of Pre-Alignment and Hard Contrastive Learning**|Paul Julius Kühn et.al.|[2603.06982](http://arxiv.org/abs/2603.06982)|null|
+|**2026-03-06**|**ColonSplat: Reconstruction of Peristaltic Motion in Colonoscopy with Dynamic Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2603.06860](http://arxiv.org/abs/2603.06860)|null|
 |**2026-03-06**|**CylinderSplat: 3D Gaussian Splatting with Cylindrical Triplanes for Panoramic Novel View Synthesis**|Qiwei Wang et.al.|[2603.05882](http://arxiv.org/abs/2603.05882)|null|
 |**2026-03-06**|**Systematic Evaluation of Novel View Synthesis for Video Place Recognition**|Muhammad Zawad Mahmud et.al.|[2603.05876](http://arxiv.org/abs/2603.05876)|null|
 |**2026-03-06**|**AnyCamVLA: Zero-Shot Camera Adaptation for Viewpoint Robust Vision-Language-Action Models**|Hyeongjun Heo et.al.|[2603.05868](http://arxiv.org/abs/2603.05868)|null|
@@ -4245,6 +4271,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**MipSLAM: Alias-Free Gaussian Splatting SLAM**|Yingzhao Li et.al.|[2603.06989](http://arxiv.org/abs/2603.06989)|null|
+|**2026-03-06**|**ColonSplat: Reconstruction of Peristaltic Motion in Colonoscopy with Dynamic Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2603.06860](http://arxiv.org/abs/2603.06860)|**[link](https://github.com/wMito/ColonSplat)**|
+|**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](http://arxiv.org/abs/2603.06852)|null|
 |**2026-03-06**|**EntON: Eigenentropy-Optimized Neighborhood Densification in 3D Gaussian Splatting**|Miriam Jäger et.al.|[2603.06216](http://arxiv.org/abs/2603.06216)|null|
 |**2026-03-06**|**VG3S: Visual Geometry Grounded Gaussian Splatting for Semantic Occupancy Prediction**|Xiaoyang Yan et.al.|[2603.06210](http://arxiv.org/abs/2603.06210)|null|
 |**2026-03-06**|**Transforming Omnidirectional RGB-LiDAR data into 3D Gaussian Splatting**|Semin Bae et.al.|[2603.06061](http://arxiv.org/abs/2603.06061)|null|
