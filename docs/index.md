@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.13
+## Updated on 2026.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-12**|**EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation**|Yan Li et.al.|[2603.12108](http://arxiv.org/abs/2603.12108)|null|
+|**2026-03-12**|**GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing**|Mingxin Liu et.al.|[2603.12264](http://arxiv.org/abs/2603.12264)|null|
+|**2026-03-12**|**The Latent Color Subspace: Emergent Order in High-Dimensional Chaos**|Mateusz Pach et.al.|[2603.12261](http://arxiv.org/abs/2603.12261)|null|
+|**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|Xiangyu Zhao et.al.|[2603.12247](http://arxiv.org/abs/2603.12247)|**[link](https://github.com/VisionXLab/FIRM-Reward)**|
+|**2026-03-12**|**EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation**|Yan Li et.al.|[2603.12108](http://arxiv.org/abs/2603.12108)|**[link](https://github.com/VisionXLab/EvoTok)**|
 |**2026-03-12**|**Single Pixel Image Classification using an Ultrafast Digital Light Projector**|Aisha Kanwal et.al.|[2603.12036](http://arxiv.org/abs/2603.12036)|null|
 |**2026-03-12**|**VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On**|Xiaoye Liang et.al.|[2603.11734](http://arxiv.org/abs/2603.11734)|null|
 |**2026-03-12**|**PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On**|Haohua Chen et.al.|[2603.11675](http://arxiv.org/abs/2603.11675)|null|
@@ -1133,6 +1136,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|Yujie Wei et.al.|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
+|**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|Xuanlang Dai et.al.|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
+|**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
+|**2026-03-12**|**One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers**|Moayed Haji-Ali et.al.|[2603.12245](http://arxiv.org/abs/2603.12245)|null|
+|**2026-03-12**|**BiGain: Unified Token Compression for Joint Generation and Classification**|Jiacheng Liu et.al.|[2603.12240](http://arxiv.org/abs/2603.12240)|null|
+|**2026-03-12**|**Thermalisation as Diffusion in Hilbert Space**|Aleksey Lunkin et.al.|[2603.12234](http://arxiv.org/abs/2603.12234)|null|
+|**2026-03-12**|**FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance**|Quanhao Li et.al.|[2603.12146](http://arxiv.org/abs/2603.12146)|null|
 |**2026-03-12**|**Maximum-Entropy Random Walks on Hypergraphs**|Anqi Dong et.al.|[2603.12098](http://arxiv.org/abs/2603.12098)|null|
 |**2026-03-12**|**Spatiotemporal Characterization of Active Brownian Dynamics in Channels**|Yanis Baouche et.al.|[2603.12080](http://arxiv.org/abs/2603.12080)|null|
 |**2026-03-12**|**Coarse-Guided Visual Generation via Weighted h-Transform Sampling**|Yanghao Wang et.al.|[2603.12057](http://arxiv.org/abs/2603.12057)|null|
@@ -2358,6 +2368,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing**|Baifeng Shi et.al.|[2603.12254](http://arxiv.org/abs/2603.12254)|null|
+|**2026-03-12**|**HiAP: A Multi-Granular Stochastic Auto-Pruning Framework for Vision Transformers**|Andy Li et.al.|[2603.12222](http://arxiv.org/abs/2603.12222)|null|
 |**2026-03-12**|**Locating Demographic Bias at the Attention-Head Level in CLIP's Vision Encoder**|Alaa Yasser et.al.|[2603.11793](http://arxiv.org/abs/2603.11793)|null|
 |**2026-03-12**|**HELM: Hierarchical and Explicit Label Modeling with Graph Learning for Multi-Label Image Classification**|Marjan Stoimchev et.al.|[2603.11783](http://arxiv.org/abs/2603.11783)|null|
 |**2026-03-12**|**Cross-Resolution Attention Network for High-Resolution PM2.5 Prediction**|Ammar Kheder et.al.|[2603.11725](http://arxiv.org/abs/2603.11725)|null|
@@ -3665,6 +3677,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
 |**2026-03-12**|**R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection**|Zhongyu Xia et.al.|[2603.11566](http://arxiv.org/abs/2603.11566)|null|
 |**2026-03-11**|**WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation**|Rafi Ibn Sultan et.al.|[2603.10703](http://arxiv.org/abs/2603.10703)|null|
 |**2026-03-11**|**AsyncMDE: Real-Time Monocular Depth Estimation via Asynchronous Spatial Memory**|Lianjie Ma et.al.|[2603.10438](http://arxiv.org/abs/2603.10438)|null|
