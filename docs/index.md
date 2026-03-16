@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation**|Zhou Fang et.al.|[2603.13116](http://arxiv.org/abs/2603.13116)|null|
+|**2026-03-13**|**Reference-Free Image Quality Assessment for Virtual Try-On via Human Feedback**|Yuki Hirakawa et.al.|[2603.13057](http://arxiv.org/abs/2603.13057)|null|
+|**2026-03-13**|**Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch**|Qichen Zhao et.al.|[2603.13028](http://arxiv.org/abs/2603.13028)|null|
+|**2026-03-13**|**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**|Tangzheng Lian et.al.|[2603.12998](http://arxiv.org/abs/2603.12998)|null|
+|**2026-03-13**|**Editing Away the Evidence: Diffusion-Based Image Manipulation and the Failure Modes of Robust Watermarking**|Qian Qi et.al.|[2603.12949](http://arxiv.org/abs/2603.12949)|null|
+|**2026-03-13**|**Rethinking VLMs for Image Forgery Detection and Localization**|Shaofeng Guo et.al.|[2603.12930](http://arxiv.org/abs/2603.12930)|null|
+|**2026-03-13**|**coDrawAgents: A Multi-Agent Dialogue Framework for Compositional Image Generation**|Chunhan Li et.al.|[2603.12829](http://arxiv.org/abs/2603.12829)|null|
+|**2026-03-13**|**Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation**|Yichen Zhang et.al.|[2603.12793](http://arxiv.org/abs/2603.12793)|null|
+|**2026-03-13**|**AccelAes: Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation**|Xuanhua Yin et.al.|[2603.12575](http://arxiv.org/abs/2603.12575)|null|
+|**2026-03-12**|**Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation**|Joong Ho Kim et.al.|[2603.12506](http://arxiv.org/abs/2603.12506)|null|
 |**2026-03-12**|**GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing**|Mingxin Liu et.al.|[2603.12264](http://arxiv.org/abs/2603.12264)|null|
 |**2026-03-12**|**The Latent Color Subspace: Emergent Order in High-Dimensional Chaos**|Mateusz Pach et.al.|[2603.12261](http://arxiv.org/abs/2603.12261)|null|
 |**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|Xiangyu Zhao et.al.|[2603.12247](http://arxiv.org/abs/2603.12247)|**[link](https://github.com/VisionXLab/FIRM-Reward)**|
@@ -1136,6 +1146,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
+|**2026-03-13**|**Ridged Lagrangian Perturbation Theory (RLPT)**|Francisco-Shu Kitaura et.al.|[2603.13106](http://arxiv.org/abs/2603.13106)|null|
+|**2026-03-13**|**InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing**|Yebin Yang et.al.|[2603.13082](http://arxiv.org/abs/2603.13082)|null|
+|**2026-03-13**|**Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection**|Yunzhuo Chen et.al.|[2603.13070](http://arxiv.org/abs/2603.13070)|null|
+|**2026-03-13**|**Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems**|Ann Dooms et.al.|[2603.13069](http://arxiv.org/abs/2603.13069)|null|
+|**2026-03-13**|**Interpretable Semantic Gradients in SSD: A PCA Sweep Approach and a Case Study on AI Discourse**|Hubert Plisiecki et.al.|[2603.13038](http://arxiv.org/abs/2603.13038)|null|
+|**2026-03-13**|**Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch**|Qichen Zhao et.al.|[2603.13028](http://arxiv.org/abs/2603.13028)|null|
+|**2026-03-13**|**SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**|Sampath Rapuri et.al.|[2603.13024](http://arxiv.org/abs/2603.13024)|null|
+|**2026-03-13**|**Accelerating Stroke MRI with Diffusion Probabilistic Models through Large-Scale Pre-training and Target-Specific Fine-Tuning**|Yamin Arefeen et.al.|[2603.13007](http://arxiv.org/abs/2603.13007)|null|
+|**2026-03-13**|**Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs**|Bumjun Kim et.al.|[2603.12996](http://arxiv.org/abs/2603.12996)|null|
 |**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|Yujie Wei et.al.|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
 |**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|Xuanlang Dai et.al.|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
 |**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
@@ -2368,6 +2388,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Rooftop Wind Field Reconstruction Using Sparse Sensors: From Deterministic to Generative Learning Methods**|Yihang Zhou et.al.|[2603.13077](http://arxiv.org/abs/2603.13077)|null|
+|**2026-03-13**|**FedBPrompt: Federated Domain Generalization Person Re-Identification via Body Distribution Aware Visual Prompts**|Xin Xu et.al.|[2603.12912](http://arxiv.org/abs/2603.12912)|null|
+|**2026-03-13**|**STRAP-ViT: Segregated Tokens with Randomized -- Transformations for Defense against Adversarial Patches in ViTs**|Nandish Chattopadhyay et.al.|[2603.12688](http://arxiv.org/abs/2603.12688)|null|
+|**2026-03-13**|**Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains**|Guodong Sun et.al.|[2603.12624](http://arxiv.org/abs/2603.12624)|null|
+|**2026-03-12**|**Alternating Gradient Flow Utility: A Unified Metric for Structural Pruning and Dynamic Routing in Deep Networks**|Tianhao Qian et.al.|[2603.12354](http://arxiv.org/abs/2603.12354)|null|
 |**2026-03-12**|**Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing**|Baifeng Shi et.al.|[2603.12254](http://arxiv.org/abs/2603.12254)|null|
 |**2026-03-12**|**HiAP: A Multi-Granular Stochastic Auto-Pruning Framework for Vision Transformers**|Andy Li et.al.|[2603.12222](http://arxiv.org/abs/2603.12222)|null|
 |**2026-03-12**|**Locating Demographic Bias at the Attention-Head Level in CLIP's Vision Encoder**|Alaa Yasser et.al.|[2603.11793](http://arxiv.org/abs/2603.11793)|null|
@@ -3051,7 +3076,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-12**|**Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs**|Hiran Sarkar et.al.|[2603.12078](http://arxiv.org/abs/2603.12078)|null|
+|**2026-03-13**|**Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**|Yinuo Jiang et.al.|[2603.12903](http://arxiv.org/abs/2603.12903)|null|
+|**2026-03-13**|**Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation**|Shifeng Chen et.al.|[2603.12766](http://arxiv.org/abs/2603.12766)|null|
+|**2026-03-13**|**Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs**|Hiran Sarkar et.al.|[2603.12078](http://arxiv.org/abs/2603.12078)|null|
 |**2026-03-10**|**DenoiseSplat: Feed-Forward Gaussian Splatting for Noisy 3D Scene Reconstruction**|Fuzhen Jiang et.al.|[2603.09291](http://arxiv.org/abs/2603.09291)|null|
 |**2026-03-10**|**Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists**|Jiaqi Liu et.al.|[2603.09277](http://arxiv.org/abs/2603.09277)|null|
 |**2026-03-09**|**SkipGS: Post-Densification Backward Skipping for Efficient 3DGS Training**|Jingxing Li et.al.|[2603.08997](http://arxiv.org/abs/2603.08997)|null|
@@ -3228,6 +3255,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution**|Shijie Zhao et.al.|[2603.12811](http://arxiv.org/abs/2603.12811)|null|
+|**2026-03-12**|**RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution**|Ali Mosleh et.al.|[2603.12493](http://arxiv.org/abs/2603.12493)|null|
 |**2026-03-12**|**UCAN: Unified Convolutional Attention Network for Expansive Receptive Fields in Lightweight Super-Resolution**|Cao Thien Tan et.al.|[2603.11680](http://arxiv.org/abs/2603.11680)|null|
 |**2026-03-10**|**CycleULM: A unified label-free deep learning framework for ultrasound localisation microscopy**|Su Yan et.al.|[2603.09840](http://arxiv.org/abs/2603.09840)|null|
 |**2026-03-10**|**TriFusion-SR: Joint Tri-Modal Medical Image Fusion and SR**|Fayaz Ali Dharejo et.al.|[2603.09702](http://arxiv.org/abs/2603.09702)|null|
@@ -4045,6 +4074,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**|Yinuo Jiang et.al.|[2603.12903](http://arxiv.org/abs/2603.12903)|null|
+|**2026-03-13**|**LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction**|Ziyu Chen et.al.|[2603.12647](http://arxiv.org/abs/2603.12647)|null|
 |**2026-03-11**|**InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**|Dingqiang Ye et.al.|[2603.11298](http://arxiv.org/abs/2603.11298)|null|
 |**2026-03-10**|**ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare**|Freeman Cheng et.al.|[2603.09968](http://arxiv.org/abs/2603.09968)|null|
 |**2026-03-10**|**ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation**|Liudi Yang et.al.|[2603.09819](http://arxiv.org/abs/2603.09819)|null|
@@ -4403,6 +4434,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Spectral Defense Against Resource-Targeting Attack in 3D Gaussian Splatting**|Yang Chen et.al.|[2603.12796](http://arxiv.org/abs/2603.12796)|null|
+|**2026-03-13**|**LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction**|Ziyu Chen et.al.|[2603.12647](http://arxiv.org/abs/2603.12647)|null|
 |**2026-03-12**|**AstroSplat: Physics-Based Gaussian Splatting for Rendering and Reconstruction of Small Celestial Bodies**|Jennifer Nolan et.al.|[2603.11969](http://arxiv.org/abs/2603.11969)|null|
 |**2026-03-12**|**Mango-GS: Enhancing Spatio-Temporal Consistency in Dynamic Scenes Reconstruction using Multi-Frame Node-Guided 4D Gaussian Splatting**|Tingxuan Huang et.al.|[2603.11543](http://arxiv.org/abs/2603.11543)|null|
 |**2026-03-12**|**Mobile-GS: Real-time Gaussian Splatting for Mobile Devices**|Xiaobiao Du et.al.|[2603.11531](http://arxiv.org/abs/2603.11531)|null|
