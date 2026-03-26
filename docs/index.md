@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-24**|**DAK-UCB: Diversity-Aware Prompt Routing for LLMs and Generative Models**|Donya Jafari et.al.|[2603.23140](http://arxiv.org/abs/2603.23140)|null|
+|**2026-03-25**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Haodong Yu et.al.|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
+|**2026-03-25**|**LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation**|Ryugo Morita et.al.|[2603.24086](http://arxiv.org/abs/2603.24086)|null|
+|**2026-03-25**|**When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm**|Ye Leng et.al.|[2603.24079](http://arxiv.org/abs/2603.24079)|null|
+|**2026-03-25**|**Human Factors in Detecting AI-Generated Portraits: Age, Sex, Device, and Confidence**|Sunwhi Kim et.al.|[2603.24048](http://arxiv.org/abs/2603.24048)|null|
+|**2026-03-25**|**HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models**|Yeqi He et.al.|[2603.24043](http://arxiv.org/abs/2603.24043)|null|
+|**2026-03-25**|**GenMask: Adapting DiT for Segmentation via Direct Mask**|Yuhuan Yang et.al.|[2603.23906](http://arxiv.org/abs/2603.23906)|null|
+|**2026-03-25**|**Latent Bias Alignment for High-Fidelity Diffusion Inversion in Real-World Image Reconstruction and Manipulation**|Weiming Chen et.al.|[2603.23903](http://arxiv.org/abs/2603.23903)|null|
+|**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)|null|
+|**2026-03-24**|**Mamba-driven MRI-to-CT Synthesis for MRI-only Radiotherapy Planning**|Konstantinos Barmpounakis et.al.|[2603.23295](http://arxiv.org/abs/2603.23295)|null|
+|**2026-03-25**|**DAK-UCB: Diversity-Aware Prompt Routing for LLMs and Generative Models**|Donya Jafari et.al.|[2603.23140](http://arxiv.org/abs/2603.23140)|null|
 |**2026-03-24**|**Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards**|Orhun Buğra Baran et.al.|[2603.23086](http://arxiv.org/abs/2603.23086)|null|
 |**2026-03-24**|**Zero-Shot Personalization of Objects via Textual Inversion**|Aniket Roy et.al.|[2603.23010](http://arxiv.org/abs/2603.23010)|null|
 |**2026-03-24**|**PersonalQ: Select, Quantize, and Serve Personalized Diffusion Models for Efficient Inference**|Qirui Wang et.al.|[2603.22943](http://arxiv.org/abs/2603.22943)|null|
@@ -1211,6 +1220,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Long-time dynamics and threshold Phenomena for a free-boundary SIS Model with asymmetric kernels in advective periodic environments**|Soufiane Bentout et.al.|[2603.24368](http://arxiv.org/abs/2603.24368)|null|
+|**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
+|**2026-03-25**|**Generative Artificial Intelligence and the Knowledge Gap: Toward a New Form of Informational Inequality**|Raphael Morisco et.al.|[2603.24335](http://arxiv.org/abs/2603.24335)|null|
+|**2026-03-25**|**A High-Order Finite Volume GENO Scheme with Implicit Time Integration for Three-Temperature Radiation Diffusion Equations**|Fengxiang Zhao et.al.|[2603.24314](http://arxiv.org/abs/2603.24314)|null|
+|**2026-03-25**|**TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification**|Guan Luo et.al.|[2603.24278](http://arxiv.org/abs/2603.24278)|null|
+|**2026-03-25**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Haodong Yu et.al.|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
+|**2026-03-25**|**Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep**|Tianyi Liu et.al.|[2603.24260](http://arxiv.org/abs/2603.24260)|null|
+|**2026-03-25**|**Green's Function Framework for Boundary Value Problems with the Regularized Prabhakar Fractional Derivative**|Erkinjon Karimov et.al.|[2603.24252](http://arxiv.org/abs/2603.24252)|null|
+|**2026-03-25**|**InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment**|Zixin Guo et.al.|[2603.24240](http://arxiv.org/abs/2603.24240)|null|
+|**2026-03-25**|**Diffusion coefficients of multi-principal element alloys from first principles**|Damien K. J. Lee et.al.|[2603.24228](http://arxiv.org/abs/2603.24228)|null|
 |**2026-03-24**|**Gimbal360: Differentiable Auto-Leveling for Canonicalized $360^\circ$ Panoramic Image Completion**|Yuqin Lu et.al.|[2603.23179](http://arxiv.org/abs/2603.23179)|null|
 |**2026-03-24**|**Formation of Ag and Au Plasmonic Nanoparticles by Ion Implantation in Ga $_2$O$_3$ thin films**|Inês Freitas et.al.|[2603.23110](http://arxiv.org/abs/2603.23110)|null|
 |**2026-03-24**|**Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards**|Orhun Buğra Baran et.al.|[2603.23086](http://arxiv.org/abs/2603.23086)|null|
@@ -2533,6 +2552,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Learning Cross-Joint Attention for Generalizable Video-Based Seizure Detection**|Omar Zamzam et.al.|[2603.23757](http://arxiv.org/abs/2603.23757)|null|
+|**2026-03-25**|**The NCS-Model: A seismic foundation model trained on the Norwegian repository of public data**|Alba Ordonez et.al.|[2603.23211](http://arxiv.org/abs/2603.23211)|null|
 |**2026-03-23**|**CanViT: Toward Active-Vision Foundation Models**|Yohaï-Eliel Berreby et.al.|[2603.22570](http://arxiv.org/abs/2603.22570)|null|
 |**2026-03-23**|**FeatDistill: A Feature Distillation Enhanced Multi-Expert Ensemble Framework for Robust AI-generated Image Detection**|Zhilin Tu et.al.|[2603.21939](http://arxiv.org/abs/2603.21939)|null|
 |**2026-03-23**|**Multi-View Deformable Convolution Meets Visual Mamba for Coronary Artery Segmentation**|Xiaochan Yuan et.al.|[2603.21829](http://arxiv.org/abs/2603.21829)|null|
@@ -3257,6 +3278,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**UniQueR: Unified Query-based Feedforward 3D Reconstruction**|Chensheng Peng et.al.|[2603.22851](http://arxiv.org/abs/2603.22851)|null|
 |**2026-03-23**|**SatGeo-NeRF: Geometrically Regularized NeRF for Satellite Imagery**|Valentin Wagner et.al.|[2603.21931](http://arxiv.org/abs/2603.21931)|null|
 |**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|null|
 |**2026-03-22**|**FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction**|Yuqiu Liu et.al.|[2603.21356](http://arxiv.org/abs/2603.21356)|null|
@@ -3447,6 +3469,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Shape-Dependent, Deep-Learning-Assisted Metamaterial Solid Immersion Lens (mSIL) Super-Resolution Imaging**|Baidong Wu et.al.|[2603.24371](http://arxiv.org/abs/2603.24371)|null|
+|**2026-03-25**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Haodong Yu et.al.|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
+|**2026-03-25**|**InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment**|Zixin Guo et.al.|[2603.24240](http://arxiv.org/abs/2603.24240)|null|
+|**2026-03-25**|**RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution**|Yushuai Song et.al.|[2603.24198](http://arxiv.org/abs/2603.24198)|null|
 |**2026-03-24**|**VoDaSuRe: A Large-Scale Dataset Revealing Domain Shift in Volumetric Super-Resolution**|August Leander Høeg et.al.|[2603.23153](http://arxiv.org/abs/2603.23153)|null|
 |**2026-03-24**|**From Pixels to Semantics: A Multi-Stage AI Framework for Structural Damage Detection in Satellite Imagery**|Bijay Shakya et.al.|[2603.22768](http://arxiv.org/abs/2603.22768)|null|
 |**2026-03-23**|**Single-Subject Multi-View MRI Super-Resolution via Implicit Neural Representations**|Heejong Kim et.al.|[2603.22627](http://arxiv.org/abs/2603.22627)|null|
@@ -3927,6 +3953,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|null|
 |**2026-03-24**|**Active Robotic Perception for Disease Detection and Mapping in Apple Trees**|Hayden Feddock et.al.|[2603.23112](http://arxiv.org/abs/2603.23112)|null|
 |**2026-03-24**|**Generative Event Pretraining with Foundation Model Alignment**|Jianwen Cao et.al.|[2603.23032](http://arxiv.org/abs/2603.23032)|null|
 |**2026-03-23**|**GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning**|Yixuan Luo et.al.|[2603.22270](http://arxiv.org/abs/2603.22270)|null|
@@ -4324,10 +4351,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision**|Avigail Cohen Rimon et.al.|[2603.24036](http://arxiv.org/abs/2603.24036)|null|
+|**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|null|
+|**2026-03-24**|**I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation**|Jia Li et.al.|[2603.23413](http://arxiv.org/abs/2603.23413)|null|
+|**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|null|
 |**2026-03-24**|**Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis**|Chamuditha Jayanga Galappaththige et.al.|[2603.22786](http://arxiv.org/abs/2603.22786)|null|
 |**2026-03-23**|**Repurposing Geometric Foundation Models for Multi-view Diffusion**|Wooseok Jang et.al.|[2603.22275](http://arxiv.org/abs/2603.22275)|null|
 |**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|null|
-|**2026-03-22**|**F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting**|Injae Kim et.al.|[2603.21304](http://arxiv.org/abs/2603.21304)|null|
+|**2026-03-25**|**F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting**|Injae Kim et.al.|[2603.21304](http://arxiv.org/abs/2603.21304)|null|
 |**2026-03-22**|**Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images**|Jiatong Xia et.al.|[2603.21166](http://arxiv.org/abs/2603.21166)|null|
 |**2026-03-21**|**Fast and Robust Deformable 3D Gaussian Splatting**|Han Jiao et.al.|[2603.20857](http://arxiv.org/abs/2603.20857)|null|
 |**2026-03-21**|**Satellite-to-Street: Synthesizing Post-Disaster Views from Satellite Imagery via Generative Vision Models**|Yifan Yang et.al.|[2603.20697](http://arxiv.org/abs/2603.20697)|null|
@@ -4711,8 +4742,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision**|Avigail Cohen Rimon et.al.|[2603.24036](http://arxiv.org/abs/2603.24036)|null|
+|**2026-03-25**|**FilterGS: Traversal-Free Parallel Filtering and Adaptive Shrinking for Large-Scale LoD 3D Gaussian Splatting**|Yixian Wang et.al.|[2603.23891](http://arxiv.org/abs/2603.23891)|null|
+|**2026-03-24**|**AdvSplat: Adversarial Attacks on Feed-Forward Gaussian Splatting Models**|Yiran Qiao et.al.|[2603.23686](http://arxiv.org/abs/2603.23686)|null|
+|**2026-03-24**|**Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting**|Peiyu Xu et.al.|[2603.23637](http://arxiv.org/abs/2603.23637)|null|
+|**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|null|
+|**2026-03-23**|**Drop-In Perceptual Optimization for 3D Gaussian Splatting**|Ezgi Ozyilkan et.al.|[2603.23297](http://arxiv.org/abs/2603.23297)|null|
+|**2026-03-24**|**GTLR-GS: Geometry-Texture Aware LiDAR-Regularized 3D Gaussian Splatting for Realistic Scene Reconstruction**|Yan Fang et.al.|[2603.23192](http://arxiv.org/abs/2603.23192)|null|
 |**2026-03-24**|**PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding**|Lirong Che et.al.|[2603.22796](http://arxiv.org/abs/2603.22796)|null|
-|**2026-03-24**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
+|**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
 |**2026-03-24**|**Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis**|Chamuditha Jayanga Galappaththige et.al.|[2603.22786](http://arxiv.org/abs/2603.22786)|null|
 |**2026-03-23**|**FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario**|Hang Dai et.al.|[2603.22102](http://arxiv.org/abs/2603.22102)|null|
 |**2026-03-23**|**Fast undersampled dynamic MRI reconstruction using explicit representation learning with Gaussian splatting**|M. L. Terpstra et.al.|[2603.21980](http://arxiv.org/abs/2603.21980)|null|
