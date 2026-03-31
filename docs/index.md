@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.28
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation**|Sanghyeon Lee et.al.|[2603.27637](http://arxiv.org/abs/2603.27637)|null|
+|**2026-03-28**|**Unsafe by Reciprocity: How Generation-Understanding Coupling Undermines Safety in Unified Multimodal Models**|Kaishen Wang et.al.|[2603.27332](http://arxiv.org/abs/2603.27332)|null|
+|**2026-03-28**|**HiFlow: Tokenization-Free Scale-Wise Autoregressive Policy Learning via Flow Matching**|Daichi Yashima et.al.|[2603.27281](http://arxiv.org/abs/2603.27281)|null|
+|**2026-03-28**|**Let Triggers Control: Frequency-Aware Dropout for Effective Token Control**|Junyoung Koh et.al.|[2603.27199](http://arxiv.org/abs/2603.27199)|null|
+|**2026-03-28**|**SJD-VP: Speculative Jacobi Decoding with Verification Prediction for Autoregressive Image Generation**|Bingqi Shan et.al.|[2603.27115](http://arxiv.org/abs/2603.27115)|null|
+|**2026-03-27**|**LACON: Training Text-to-Image Model from Uncurated Data**|Zhiyang Liang et.al.|[2603.26866](http://arxiv.org/abs/2603.26866)|null|
+|**2026-03-27**|**Hybrid Diffusion Model for Breast Ultrasound Image Augmentation**|Farhan Fuad Abir et.al.|[2603.26834](http://arxiv.org/abs/2603.26834)|null|
+|**2026-03-27**|**CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions**|Chonghuinan Wang et.al.|[2603.26174](http://arxiv.org/abs/2603.26174)|null|
+|**2026-03-27**|**TaxaAdapter: Vision Taxonomy Models are Key to Fine-grained Image Generation over the Tree of Life**|Mridul Khurana et.al.|[2603.26128](http://arxiv.org/abs/2603.26128)|null|
 |**2026-03-26**|**BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation**|Yan Li et.al.|[2603.25732](http://arxiv.org/abs/2603.25732)|null|
 |**2026-03-26**|**RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models**|Yufeng Yang et.al.|[2603.25502](http://arxiv.org/abs/2603.25502)|null|
 |**2026-03-26**|**CIAR: Interval-based Collaborative Decoding for Image Generation Acceleration**|Keming Ye et.al.|[2603.25463](http://arxiv.org/abs/2603.25463)|null|
@@ -1119,7 +1128,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-25**|**MODEST: Multi-Optics Depth-of-Field Stereo Dataset**|Nisarg K. Trivedi et.al.|[2511.20853](http://arxiv.org/abs/2511.20853)|null|
 |**2025-11-25**|**DeLightMono: Enhancing Self-Supervised Monocular Depth Estimation in Endoscopy by Decoupling Uneven Illumination**|Mingyang Ou et.al.|[2511.20058](http://arxiv.org/abs/2511.20058)|null|
-|**2025-11-08**|**Light-Field Dataset for Disparity Based Depth Estimation**|Suresh Nehra et.al.|[2511.05866](http://arxiv.org/abs/2511.05866)|null|
+|**2025-11-08**|**Light-Field Dataset for Disparity Based Depth Estimation**|Suresh Nehra et.al.|[2511.05866](http://arxiv.org/abs/2511.05866)|**[link](https://github.com/aupendu/light-field-dataset)**|
 |**2025-10-25**|**I2-NeRF: Learning Neural Radiance Fields Under Physically-Grounded Media Interactions**|Shuhong Liu et.al.|[2510.22161](http://arxiv.org/abs/2510.22161)|null|
 |**2025-10-08**|**Unveiling the evolution of the CO excitation ladder through cross-correlation of CONCERTO-like experiments and galaxy redshift surveys**|Mathilde Van Cuyck et.al.|[2510.07596](http://arxiv.org/abs/2510.07596)|null|
 |**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
@@ -1131,10 +1140,10 @@ layout: default
 |**2025-08-08**|**Neural Field Representations of Mobile Computational Photography**|Ilya Chugunov et.al.|[2508.05907](http://arxiv.org/abs/2508.05907)|null|
 |**2025-05-14**|**Iterative Occlusion-Aware Light Field Depth Estimation using 4D Geometrical Cues**|Rui Lourenço et.al.|[2403.02043](http://arxiv.org/abs/2403.02043)|null|
 |**2023-11-15**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129](http://arxiv.org/abs/2311.08129)|null|
-|**2023-05-28**|**OccCasNet: Occlusion-aware Cascade Cost Volume for Light Field Depth Estimation**|Wentao Chao et.al.|[2305.17710](http://arxiv.org/abs/2305.17710)|null|
-|**2023-08-18**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang et.al.|[2301.08433](http://arxiv.org/abs/2301.08433)|null|
+|**2023-05-28**|**OccCasNet: Occlusion-aware Cascade Cost Volume for Light Field Depth Estimation**|Wentao Chao et.al.|[2305.17710](http://arxiv.org/abs/2305.17710)|**[link](https://github.com/chaowentao/OccCasNet)**|
+|**2023-08-18**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang et.al.|[2301.08433](http://arxiv.org/abs/2301.08433)|**[link](https://github.com/USTCPCS/CVPR2018_attention)**|
 |**2023-02-22**|**Matching entropy based disparity estimation from light field**|Ligen Shi et.al.|[2210.15948](http://arxiv.org/abs/2210.15948)|null|
-|**2023-11-21**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao et.al.|[2208.09688](http://arxiv.org/abs/2208.09688)|null|
+|**2023-11-21**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao et.al.|[2208.09688](http://arxiv.org/abs/2208.09688)|**[link](https://github.com/chaowentao/SubFocal)**|
 |**2023-09-07**|**Light Field Depth Estimation via Stitched Epipolar Plane Images**|Ping Zhou et.al.|[2203.15201](http://arxiv.org/abs/2203.15201)|null|
 |**2022-03-29**|**Self-Supervised Light Field Depth Estimation Using Epipolar Plane Images**|Kunyuan Li et.al.|[2203.15171](http://arxiv.org/abs/2203.15171)|null|
 |**2022-03-31**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231](http://arxiv.org/abs/2203.02231)|null|
@@ -1230,6 +1239,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
+|**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
+|**2026-03-29**|**Explicit relaxation Particle-in-Cell methods for Vlasov-Poisson equations with a strong magnetic field**|Lina Wang et.al.|[2603.27652](http://arxiv.org/abs/2603.27652)|null|
+|**2026-03-29**|**OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery**|Qi Guo et.al.|[2603.27645](http://arxiv.org/abs/2603.27645)|null|
+|**2026-03-29**|**OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation**|Sanghyeon Lee et.al.|[2603.27637](http://arxiv.org/abs/2603.27637)|null|
+|**2026-03-29**|**The spectrum of the stochastic Bessel operator at high temperature**|Laure Dumaz et.al.|[2603.27602](http://arxiv.org/abs/2603.27602)|null|
+|**2026-03-29**|**You Only Erase Once: Erasing Anything without Bringing Unexpected Content**|Yixing Zhu et.al.|[2603.27599](http://arxiv.org/abs/2603.27599)|null|
+|**2026-03-29**|**STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding**|Junho Kim et.al.|[2603.27593](http://arxiv.org/abs/2603.27593)|null|
+|**2026-03-29**|**SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion**|Minzhang Li et.al.|[2603.27573](http://arxiv.org/abs/2603.27573)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
 |**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
 |**2026-03-26**|**Unleashing Guidance Without Classifiers for Human-Object Interaction Animation**|Ziyin Wang et.al.|[2603.25734](http://arxiv.org/abs/2603.25734)|null|
@@ -2572,6 +2591,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-28**|**Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations**|Soyeon Park et.al.|[2603.27321](http://arxiv.org/abs/2603.27321)|null|
+|**2026-03-27**|**From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition**|Nazia Aslam et.al.|[2603.26336](http://arxiv.org/abs/2603.26336)|null|
+|**2026-03-27**|**ARTA: Adaptive Mixed-Resolution Token Allocation for Efficient Dense Feature Extraction**|David Hagerman et.al.|[2603.26258](http://arxiv.org/abs/2603.26258)|null|
+|**2026-03-27**|**Finding Distributed Object-Centric Properties in Self-Supervised Transformers**|Samyak Rawlekar et.al.|[2603.26127](http://arxiv.org/abs/2603.26127)|null|
+|**2026-03-26**|**Do All Vision Transformers Need Registers? A Cross-Architectural Reassessment**|Spiros Baxevanakis et.al.|[2603.25803](http://arxiv.org/abs/2603.25803)|null|
+|**2026-03-26**|**Vision Transformers and Graph Neural Networks for Charged Particle Tracking in the ATLAS Muon Spectrometer**|Jonathan Renusch et.al.|[2603.25793](http://arxiv.org/abs/2603.25793)|null|
+|**2026-03-26**|**A Survey of OCR Evaluation Methods and Metrics and the Invisibility of Historical Documents**|Fitsum Sileshi Beyene et.al.|[2603.25761](http://arxiv.org/abs/2603.25761)|null|
 |**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|
 |**2026-03-26**|**MoireMix: A Formula-Based Data Augmentation for Improving Image Classification Robustness**|Yuto Matsuo et.al.|[2603.25109](http://arxiv.org/abs/2603.25109)|null|
 |**2026-03-25**|**From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition**|Francesco Gentile et.al.|[2603.24653](http://arxiv.org/abs/2603.24653)|null|
@@ -3302,12 +3328,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-26**|**Few TensoRF: Enhance the Few-shot on Tensorial Radiance Fields**|Thanh-Hai Le et.al.|[2603.25008](http://arxiv.org/abs/2603.25008)|null|
+|**2026-03-27**|**Few TensoRF: Enhance the Few-shot on Tensorial Radiance Fields**|Thanh-Hai Le et.al.|[2603.25008](http://arxiv.org/abs/2603.25008)|null|
 |**2026-03-24**|**UniQueR: Unified Query-based Feedforward 3D Reconstruction**|Chensheng Peng et.al.|[2603.22851](http://arxiv.org/abs/2603.22851)|null|
 |**2026-03-23**|**SatGeo-NeRF: Geometrically Regularized NeRF for Satellite Imagery**|Valentin Wagner et.al.|[2603.21931](http://arxiv.org/abs/2603.21931)|null|
 |**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|null|
-|**2026-03-22**|**FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction**|Yuqiu Liu et.al.|[2603.21356](http://arxiv.org/abs/2603.21356)|null|
-|**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|null|
+|**2026-03-27**|**FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction**|Yuqiu Liu et.al.|[2603.21356](http://arxiv.org/abs/2603.21356)|null|
+|**2026-03-28**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|null|
 |**2026-03-21**|**GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction**|Di Kong et.al.|[2603.20611](http://arxiv.org/abs/2603.20611)|null|
 |**2026-03-20**|**Benchmarking Efficient & Effective Camera Pose Estimation Strategies for Novel View Synthesis**|Jhacson Meza et.al.|[2603.20428](http://arxiv.org/abs/2603.20428)|null|
 |**2026-03-20**|**Generalizable NGP-SR: Generalizable Neural Radiance Fields Super-Resolution via Neural Graph Primitives**|Wanqi Yuan et.al.|[2603.20128](http://arxiv.org/abs/2603.20128)|null|
@@ -3494,6 +3520,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-28**|**Multidimensional Gradient-MUSIC: A Global Nonconvex Optimization Framework for Optimal Resolution**|Albert Fannjiang et.al.|[2603.27379](http://arxiv.org/abs/2603.27379)|null|
+|**2026-03-28**|**Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution**|Ji-Xuan He et.al.|[2603.27301](http://arxiv.org/abs/2603.27301)|null|
+|**2026-03-28**|**Azimuthal super-pupil beam engineering for improved fluorescence depletion microscopy**|Costanza Agazzi et.al.|[2603.27193](http://arxiv.org/abs/2603.27193)|null|
+|**2026-03-27**|**On-Device Super Resolution Imaging Using Low-Cost SPAD Array and Embedded Lightweight Deep Learning**|Zhenya Zang et.al.|[2603.27018](http://arxiv.org/abs/2603.27018)|null|
+|**2026-03-27**|**Conditional Diffusion for 3D CT Volume Reconstruction from 2D X-rays**|Martin Rath et.al.|[2603.26509](http://arxiv.org/abs/2603.26509)|null|
+|**2026-03-27**|**InstaVSR: Taming Diffusion for Efficient and Temporally Consistent Video Super-Resolution**|Jintong Hu et.al.|[2603.26134](http://arxiv.org/abs/2603.26134)|null|
 |**2026-03-25**|**Shape-Dependent, Deep-Learning-Assisted Metamaterial Solid Immersion Lens (mSIL) Super-Resolution Imaging**|Baidong Wu et.al.|[2603.24371](http://arxiv.org/abs/2603.24371)|null|
 |**2026-03-26**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Haodong Yu et.al.|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
 |**2026-03-25**|**InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment**|Zixin Guo et.al.|[2603.24240](http://arxiv.org/abs/2603.24240)|null|
@@ -3978,6 +4010,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**S3KF: Spherical State-Space Kalman Filtering for Panoramic 3D Multi-Object Tracking**|Zhongyuan Liu et.al.|[2603.27534](http://arxiv.org/abs/2603.27534)|null|
+|**2026-03-28**|**UniDAC: Universal Metric Depth Estimation for Any Camera**|Girish Chandar Ganesan et.al.|[2603.27105](http://arxiv.org/abs/2603.27105)|null|
+|**2026-03-27**|**Computer Vision with a Superpixelation Camera**|Sasidharan Mahalingam et.al.|[2603.26900](http://arxiv.org/abs/2603.26900)|null|
+|**2026-03-26**|**Deep Learning Aided Vision System for Planetary Rovers**|Lomash Relia et.al.|[2603.26802](http://arxiv.org/abs/2603.26802)|null|
+|**2026-03-26**|**Seeing Through Smoke: Surgical Desmoking for Improved Visual Perception**|Jingpei Lu et.al.|[2603.25867](http://arxiv.org/abs/2603.25867)|null|
 |**2026-03-25**|**EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction**|Falong Fan et.al.|[2603.24577](http://arxiv.org/abs/2603.24577)|null|
 |**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|null|
 |**2026-03-24**|**Active Robotic Perception for Disease Detection and Mapping in Apple Trees**|Hayden Feddock et.al.|[2603.23112](http://arxiv.org/abs/2603.23112)|null|
@@ -4377,12 +4414,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis**|Ranran Huang et.al.|[2603.27455](http://arxiv.org/abs/2603.27455)|null|
 |**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
 |**2026-03-26**|**MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data**|Zhekai Chen et.al.|[2603.25319](http://arxiv.org/abs/2603.25319)|null|
 |**2026-03-26**|**ViewSplat: View-Adaptive Dynamic Gaussian Splatting for Feed-Forward Synthesis**|Moonyeon Jeong et.al.|[2603.25265](http://arxiv.org/abs/2603.25265)|null|
 |**2026-03-26**|**AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting**|Minh-Quan Viet Bui et.al.|[2603.25129](http://arxiv.org/abs/2603.25129)|null|
 |**2026-03-26**|**Learning Explicit Continuous Motion Representation for Dynamic Gaussian Splatting from Monocular Videos**|Xuankai Zhang et.al.|[2603.25058](http://arxiv.org/abs/2603.25058)|null|
-|**2026-03-26**|**GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**|Liyuan Zhu et.al.|[2603.25053](http://arxiv.org/abs/2603.25053)|null|
+|**2026-03-27**|**GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**|Liyuan Zhu et.al.|[2603.25053](http://arxiv.org/abs/2603.25053)|null|
 |**2026-03-25**|**Accurate Point Measurement in 3DGS -- A New Alternative to Traditional Stereoscopic-View Based Measurements**|Deyan Deng et.al.|[2603.24716](http://arxiv.org/abs/2603.24716)|null|
 |**2026-03-25**|**SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision**|Avigail Cohen Rimon et.al.|[2603.24036](http://arxiv.org/abs/2603.24036)|null|
 |**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|null|
@@ -4775,6 +4813,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**SGS-Intrinsic: Semantic-Invariant Gaussian Splatting for Sparse-View Indoor Inverse Rendering**|Jiahao Niu et.al.|[2603.27516](http://arxiv.org/abs/2603.27516)|null|
+|**2026-03-28**|**DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification**|Kenji Tojo et.al.|[2603.27151](http://arxiv.org/abs/2603.27151)|null|
+|**2026-03-26**|**arg-VU: Affordance Reasoning with Physics-Aware 3D Geometry for Visual Understanding in Robotic Surgery**|Nan Xiao et.al.|[2603.26814](http://arxiv.org/abs/2603.26814)|null|
+|**2026-03-27**|**Detailed Geometry and Appearance from Opportunistic Motion**|Ryosuke Hirai et.al.|[2603.26665](http://arxiv.org/abs/2603.26665)|null|
+|**2026-03-27**|**Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting**|Nitin Kulkarni et.al.|[2603.26638](http://arxiv.org/abs/2603.26638)|null|
+|**2026-03-27**|**Scene Grounding In the Wild**|Tamir Cohen et.al.|[2603.26584](http://arxiv.org/abs/2603.26584)|null|
+|**2026-03-27**|**GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport**|Youngju Na et.al.|[2603.26181](http://arxiv.org/abs/2603.26181)|null|
+|**2026-03-27**|**R-PGA: Robust Physical Adversarial Camouflage Generation via Relightable 3D Gaussian Splatting**|Tianrui Lou et.al.|[2603.26067](http://arxiv.org/abs/2603.26067)|null|
 |**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
 |**2026-03-26**|**ViewSplat: View-Adaptive Dynamic Gaussian Splatting for Feed-Forward Synthesis**|Moonyeon Jeong et.al.|[2603.25265](http://arxiv.org/abs/2603.25265)|null|
 |**2026-03-26**|**AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting**|Minh-Quan Viet Bui et.al.|[2603.25129](http://arxiv.org/abs/2603.25129)|null|
