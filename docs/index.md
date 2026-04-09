@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|null|
+|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
+|**2026-04-08**|**SurFITR: A Dataset for Surveillance Image Forgery Detection and Localisation**|Qizhou Wang et.al.|[2604.07101](http://arxiv.org/abs/2604.07101)|null|
+|**2026-04-08**|**MAR-GRPO: Stabilized GRPO for AR-diffusion Hybrid Image Generation**|Xiaoxiao Ma et.al.|[2604.06966](http://arxiv.org/abs/2604.06966)|null|
+|**2026-04-08**|**RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details**|Dewei Zhou et.al.|[2604.06870](http://arxiv.org/abs/2604.06870)|null|
+|**2026-04-08**|**FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching**|Junchao Yi et.al.|[2604.06757](http://arxiv.org/abs/2604.06757)|null|
+|**2026-04-08**|**A Noise Constrained Diffusion (NC-Diffusion) Framework for High Fidelity Image Compression**|Zhenyu Du et.al.|[2604.06568](http://arxiv.org/abs/2604.06568)|null|
+|**2026-04-07**|**ODE-free Neural Flow Matching for One-Step Generative Modeling**|Xiao Shou et.al.|[2604.06413](http://arxiv.org/abs/2604.06413)|null|
+|**2026-04-07**|**PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer**|David Picard et.al.|[2604.06129](http://arxiv.org/abs/2604.06129)|null|
+|**2026-04-07**|**Leveraging Image Editing Foundation Models for Data-Efficient CT Metal Artifact Reduction**|Ahmet Rasim Emirdagi et.al.|[2604.05934](http://arxiv.org/abs/2604.05934)|null|
 |**2026-04-07**|**Controllable Image Generation with Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2604.05730](http://arxiv.org/abs/2604.05730)|null|
 |**2026-04-07**|**Probing Intrinsic Medical Task Relationships: A Contrastive Learning Perspective**|Jonas Muth et.al.|[2604.05651](http://arxiv.org/abs/2604.05651)|null|
 |**2026-04-06**|**MIRAGE: Benchmarking and Aligning Multi-Instance Image Editing**|Ziqian Liu et.al.|[2604.05180](http://arxiv.org/abs/2604.05180)|**[link](https://github.com/ZiqianLiu666/MIRAGE)**|
@@ -1276,6 +1286,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
+|**2026-04-08**|**Diffusion Processes on Implicit Manifolds**|Victor Kawasaki-Borruat et.al.|[2604.07213](http://arxiv.org/abs/2604.07213)|null|
+|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
+|**2026-04-08**|**Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media**|João V. T. Neves et.al.|[2604.07203](http://arxiv.org/abs/2604.07203)|null|
+|**2026-04-08**|**Cut Finite Element Methods for Convection-Diffusion in Mixed-Dimensional Domains**|Erik Burman et.al.|[2604.07162](http://arxiv.org/abs/2604.07162)|null|
+|**2026-04-08**|**SBBTS: A Unified Schrödinger-Bass Framework for Synthetic Financial Time Series**|Alexandre Alouadi et.al.|[2604.07159](http://arxiv.org/abs/2604.07159)|null|
+|**2026-04-08**|**Bridging MRI and PET physiology: Untangling complementarity through orthogonal representations**|Sonja Adomeit et.al.|[2604.07154](http://arxiv.org/abs/2604.07154)|null|
+|**2026-04-08**|**Towards viable H $_2$ storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo**|Yasmine S. Al-Hamdani et.al.|[2604.07110](http://arxiv.org/abs/2604.07110)|null|
+|**2026-04-08**|**A new high-order finite-volume advection scheme on spherical Voronoi grids and a comparative study in a mimetic finite-volume moist shallow-water model**|Luan F. Santos et.al.|[2604.07103](http://arxiv.org/abs/2604.07103)|null|
+|**2026-04-08**|**Granular mixing and flow dynamics in horizontal stirred bed reactors**|Sahar Pourandi et.al.|[2604.07082](http://arxiv.org/abs/2604.07082)|null|
 |**2026-04-07**|**Reference Energies for Non-Relativistic Core Ionization Potentials**|Antoine Marie et.al.|[2604.05920](http://arxiv.org/abs/2604.05920)|null|
 |**2026-04-07**|**Emergent Rotation of Passive Clusters in a Chiral Active Bath**|Divya Kushwaha et.al.|[2604.05909](http://arxiv.org/abs/2604.05909)|null|
 |**2026-04-07**|**Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction**|Yangyi Xiao et.al.|[2604.05908](http://arxiv.org/abs/2604.05908)|null|
@@ -2687,6 +2707,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**LiveStre4m: Feed-Forward Live Streaming of Novel Views from Unposed Multi-View Video**|Pedro Quesado et.al.|[2604.06740](http://arxiv.org/abs/2604.06740)|null|
+|**2026-04-08**|**WeatherRemover: All-in-one Adverse Weather Removal with Multi-scale Feature Map Compression**|Weikai Qu et.al.|[2604.06623](http://arxiv.org/abs/2604.06623)|null|
+|**2026-04-07**|**Visual prompting reimagined: The power of the Activation Prompts**|Yihua Zhang et.al.|[2604.06440](http://arxiv.org/abs/2604.06440)|null|
+|**2026-04-07**|**Extending ZACH-ViT to Robust Medical Imaging: Corruption and Adversarial Stress Testing in Low-Data Regimes**|Athanasios Angelakis et.al.|[2604.06099](http://arxiv.org/abs/2604.06099)|null|
+|**2026-04-08**|**CodecFlow: Codec-Guided End-to-End Optimization for Streaming Video Analytics**|Yulin Zou et.al.|[2604.06036](http://arxiv.org/abs/2604.06036)|null|
+|**2026-04-07**|**Toward Aristotelian Medical Representations: Backpropagation-Free Layer-wise Analysis for Interpretable Generalized Metric Learning on MedMNIST**|Michael Karnes et.al.|[2604.06017](http://arxiv.org/abs/2604.06017)|null|
+|**2026-04-07**|**Gated-SwinRMT: Unifying Swin Windowed Attention with Retentive Manhattan Decay via Input-Dependent Gating**|Dipan Maity et.al.|[2604.06014](http://arxiv.org/abs/2604.06014)|null|
+|**2026-04-07**|**Multi-Modal Landslide Detection from Sentinel-1 SAR and Sentinel-2 Optical Imagery Using Multi-Encoder Vision Transformers and Ensemble Learning**|Ioannis Nasios et.al.|[2604.05959](http://arxiv.org/abs/2604.05959)|null|
 |**2026-04-07**|**Learn to Rank: Visual Attribution by Learning Importance Ranking**|David Schinagl et.al.|[2604.05819](http://arxiv.org/abs/2604.05819)|null|
 |**2026-04-07**|**MPM: Mutual Pair Merging for Efficient Vision Transformers**|Simon Ravé et.al.|[2604.05718](http://arxiv.org/abs/2604.05718)|null|
 |**2026-04-06**|**Predicting spin-orbit coupling in hole spin qubit arrays with vision-transformer-based neural networks on a generalized Hubbard model**|Jacob R. Taylor et.al.|[2604.05052](http://arxiv.org/abs/2604.05052)|null|
@@ -3458,7 +3486,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-07**|**3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models**|Jae Joong Lee et.al.|[2604.05366](http://arxiv.org/abs/2604.05366)|null|
 |**2026-04-03**|**Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices**|Kim Jun-Seong et.al.|[2604.02836](http://arxiv.org/abs/2604.02836)|null|
-|**2026-04-06**|**GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending**|Haomin Li et.al.|[2604.02120](http://arxiv.org/abs/2604.02120)|**[link](https://github.com/shieldforever/GEMM-GS)**|
+|**2026-04-06**|**GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending**|Haomin Li et.al.|[2604.02120](http://arxiv.org/abs/2604.02120)|null|
 |**2026-03-30**|**SVGS: Single-View to 3D Object Editing via Gaussian Splatting**|Pengcheng Xue et.al.|[2603.28126](http://arxiv.org/abs/2603.28126)|null|
 |**2026-03-30**|**To View Transform or Not to View Transform: NeRF-based Pre-training Perspective**|Hyeonjun Jeong et.al.|[2603.28090](http://arxiv.org/abs/2603.28090)|null|
 |**2026-03-30**|**Few TensoRF: Enhance the Few-shot on Tensorial Radiance Fields**|Thanh-Hai Le et.al.|[2603.25008](http://arxiv.org/abs/2603.25008)|null|
@@ -3653,6 +3681,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**IQ-LUT: interpolated and quantized LUT for efficient image super-resolution**|Yuxuan Zhang et.al.|[2604.07000](http://arxiv.org/abs/2604.07000)|null|
+|**2026-04-08**|**Enhanced Self-Supervised Multi-Image Super-Resolution for Camera Array Images**|Yating Chen et.al.|[2604.06816](http://arxiv.org/abs/2604.06816)|null|
+|**2026-04-08**|**From Static to Interactive: Adapting Visual in-Context Learners for User-Driven Tasks**|Carlos Schmidt et.al.|[2604.06748](http://arxiv.org/abs/2604.06748)|null|
 |**2026-04-07**|**Multiscale Physics-Informed Neural Network for Complex Fluid Flows with Long-Range Dependencies**|Prashant Kumar et.al.|[2604.05652](http://arxiv.org/abs/2604.05652)|null|
 |**2026-04-06**|**MVis-Fold: A Three-Dimensional Microvascular Structure Inference Model for Super-Resolution Ultrasound**|Jincao Yao et.al.|[2604.04477](http://arxiv.org/abs/2604.04477)|null|
 |**2026-04-06**|**TinyNina: A Resource-Efficient Edge-AI Framework for Sustainable Air Quality Monitoring via Intra-Image Satellite Super-Resolution**|Prasanjit Dey et.al.|[2604.04445](http://arxiv.org/abs/2604.04445)|null|
@@ -4157,6 +4188,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**VDPP: Video Depth Post-Processing for Speed and Scalability**|Daewon Yoon et.al.|[2604.06665](http://arxiv.org/abs/2604.06665)|null|
+|**2026-04-08**|**LiftFormer: Lifting and Frame Theory Based Monocular Depth Estimation Using Depth and Edge Oriented Subspace Representation**|Shuai Li et.al.|[2604.06576](http://arxiv.org/abs/2604.06576)|null|
 |**2026-04-07**|**In Depth We Trust: Reliable Monocular Depth Supervision for Gaussian Splatting**|Wenhui Xiao et.al.|[2604.05715](http://arxiv.org/abs/2604.05715)|null|
 |**2026-04-06**|**Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking**|Alessandro Tarsi et.al.|[2604.04690](http://arxiv.org/abs/2604.04690)|null|
 |**2026-04-06**|**ZeD-MAP: Bundle Adjustment Guided Zero-Shot Depth Maps for Real-Time Aerial Imaging**|Selim Ahmet Iz et.al.|[2604.04667](http://arxiv.org/abs/2604.04667)|null|
@@ -4577,10 +4610,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
+|**2026-04-08**|**LiveStre4m: Feed-Forward Live Streaming of Novel Views from Unposed Multi-View Video**|Pedro Quesado et.al.|[2604.06740](http://arxiv.org/abs/2604.06740)|null|
 |**2026-04-07**|**3D Smoke Scene Reconstruction Guided by Vision Priors from Multimodal Large Language Models**|Xinye Zheng et.al.|[2604.05687](http://arxiv.org/abs/2604.05687)|null|
 |**2026-04-06**|**LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows**|Zhengqin Li et.al.|[2604.05182](http://arxiv.org/abs/2604.05182)|null|
 |**2026-04-07**|**PR-IQA: Partial-Reference Image Quality Assessment for Diffusion-Based Novel View Synthesis**|Inseong Choi et.al.|[2604.04576](http://arxiv.org/abs/2604.04576)|null|
-|**2026-04-04**|**PhaseFlow4D: Physically Constrained 4D Beam Reconstruction via Feedback-Guided Latent Diffusion**|Alexander Scheinker et.al.|[2604.03885](http://arxiv.org/abs/2604.03885)|null|
+|**2026-04-07**|**PhaseFlow4D: Physically Constrained 4D Beam Reconstruction via Feedback-Guided Latent Diffusion**|Alexander Scheinker et.al.|[2604.03885](http://arxiv.org/abs/2604.03885)|null|
 |**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552](http://arxiv.org/abs/2604.03552)|null|
 |**2026-04-06**|**GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model**|Qida Cao et.al.|[2604.03039](http://arxiv.org/abs/2604.03039)|null|
 |**2026-04-03**|**NavCrafter: Exploring 3D Scenes from a Single Image**|Hongbo Duan et.al.|[2604.02828](http://arxiv.org/abs/2604.02828)|null|
@@ -4995,6 +5030,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Splats under Pressure: Exploring Performance-Energy Trade-offs in Real-Time 3D Gaussian Splatting under Constrained GPU Budgets**|Muhammad Fahim Tajwar et.al.|[2604.07177](http://arxiv.org/abs/2604.07177)|null|
+|**2026-04-08**|**Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama**|Zhijun Li et.al.|[2604.07105](http://arxiv.org/abs/2604.07105)|null|
+|**2026-04-08**|**Radio-Frequency Inverse Rendering for Wireless Environment Modeling**|Fuhai Wang et.al.|[2604.07086](http://arxiv.org/abs/2604.07086)|null|
+|**2026-04-08**|**DOC-GS: Dual-Domain Observation and Calibration for Reliable Sparse-View Gaussian Splatting**|Hantang Li et.al.|[2604.06739](http://arxiv.org/abs/2604.06739)|null|
+|**2026-04-08**|**4D Vessel Reconstruction for Benchtop Thrombectomy Analysis**|Ethan Nguyen et.al.|[2604.06671](http://arxiv.org/abs/2604.06671)|null|
+|**2026-04-07**|**GS-Surrogate: Deformable Gaussian Splatting for Parameter Space Exploration of Ensemble Simulations**|Ziwei Li et.al.|[2604.06358](http://arxiv.org/abs/2604.06358)|null|
 |**2026-04-07**|**Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction**|Yangyi Xiao et.al.|[2604.05908](http://arxiv.org/abs/2604.05908)|null|
 |**2026-04-07**|**GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance**|Weiqi Zhang et.al.|[2604.05721](http://arxiv.org/abs/2604.05721)|null|
 |**2026-04-07**|**In Depth We Trust: Reliable Monocular Depth Supervision for Gaussian Splatting**|Wenhui Xiao et.al.|[2604.05715](http://arxiv.org/abs/2604.05715)|null|
