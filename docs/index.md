@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.18
+## Updated on 2026.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1167,16 +1167,16 @@ layout: default
 |**2025-11-26**|**Low-dose Chemically Specific Bioimaging via Deep-UV Lensless Holographic Microscopy on a Standard Camera**|Piotr Arcab et.al.|[2511.21311](http://arxiv.org/abs/2511.21311)|null|
 |**2025-10-09**|**Light Field Super-Resolution: A Critical Review on Challenges and Opportunities**|Sumit Sharma et.al.|[2510.07879](http://arxiv.org/abs/2510.07879)|null|
 |**2025-10-07**|**Mapping complex optical light field distributions with single fluorescent molecules**|Daniel Marx et.al.|[2510.05791](http://arxiv.org/abs/2510.05791)|null|
-|**2025-09-19**|**Deep Learning Empowered Super-Resolution: A Comprehensive Survey and Future Prospects**|Le Zhang et.al.|[2509.22692](http://arxiv.org/abs/2509.22692)|null|
+|**2025-09-19**|**Deep Learning Empowered Super-Resolution: A Comprehensive Survey and Future Prospects**|Le Zhang et.al.|[2509.22692](http://arxiv.org/abs/2509.22692)|**[link](https://github.com/AVC2-UESTC/Holistic-Super-Resolution-Review)**|
 |**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|null|
-|**2025-09-05**|**Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**|Haosong Liu et.al.|[2509.04824](http://arxiv.org/abs/2509.04824)|null|
+|**2025-09-05**|**Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**|Haosong Liu et.al.|[2509.04824](http://arxiv.org/abs/2509.04824)|**[link](https://github.com/hsliu01/LFMT)**|
 |**2025-08-27**|**WaveHiT-SR: Hierarchical Wavelet Network for Efficient Image Super-Resolution**|Fayaz Ali et.al.|[2508.19927](http://arxiv.org/abs/2508.19927)|null|
 |**2025-08-15**|**LKFMixer: Exploring Large Kernel Feature For Efficient Image Super-Resolution**|Yinggan Tang et.al.|[2508.11391](http://arxiv.org/abs/2508.11391)|null|
 |**2025-08-11**|**AU-IQA: A Benchmark Dataset for Perceptual Quality Assessment of AI-Enhanced User-Generated Content**|Shushi Wang et.al.|[2508.05016](http://arxiv.org/abs/2508.05016)|null|
 |**2025-07-28**|**Enhancing Spectroscopy and Microscopy with Emerging Methods in Photon-Correlation and Quantum Illumination**|Chieh Tsao et.al.|[2507.21356](http://arxiv.org/abs/2507.21356)|null|
 |**2025-07-22**|**High-throughput Super-Resolution Imaging Chip based on Miniaturized Full-frequency Encoded-illumination**|Xiaoyu Yang et.al.|[2507.16693](http://arxiv.org/abs/2507.16693)|null|
 |**2025-03-25**|**$L^2$ FMamba: Lightweight Light Field Image Super-Resolution with State Space Model**|Zeqiang Wei et.al.|[2503.19253](http://arxiv.org/abs/2503.19253)|null|
-|**2024-10-09**|**MaskBlur: Spatial and Angular Data Augmentation for Light Field Image Super-Resolution**|Wentao Chao et.al.|[2410.06478](http://arxiv.org/abs/2410.06478)|null|
+|**2024-10-09**|**MaskBlur: Spatial and Angular Data Augmentation for Light Field Image Super-Resolution**|Wentao Chao et.al.|[2410.06478](http://arxiv.org/abs/2410.06478)|**[link](https://github.com/chaowentao/MaskBlur)**|
 |**2024-09-26**|**LGFN: Lightweight Light Field Image Super-Resolution using Local Convolution Modulation and Global Attention Feature Extraction**|Zhongxin Yu et.al.|[2409.17759](http://arxiv.org/abs/2409.17759)|null|
 |**2026-02-18**|**Less is More: Skim Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329](http://arxiv.org/abs/2407.15329)|null|
 |**2024-06-23**|**Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning**|Ruisheng Gao et.al.|[2406.16083](http://arxiv.org/abs/2406.16083)|null|
@@ -2776,7 +2776,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-16**|**Improved Multiscale Structural Mapping with Supervertex Vision Transformer for the Detection of Alzheimer's Disease Neurodegeneration**|Geonwoo Baek et.al.|[2604.14837](http://arxiv.org/abs/2604.14837)|null|
-|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)|null|
+|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)|**[link](https://github.com/Mingqj/SEPatch3D)**|
 |**2026-04-16**|**FreqTrack: Frequency Learning based Vision Transformer for RGB-Event Object Tracking**|Jinlin You et.al.|[2604.14526](http://arxiv.org/abs/2604.14526)|null|
 |**2026-04-15**|**Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers**|Nina Żukowska et.al.|[2604.14477](http://arxiv.org/abs/2604.14477)|null|
 |**2026-04-15**|**Zero-Ablation Overstates Register Content Dependence in DINO Vision Transformers**|Felipe Parodi et.al.|[2604.14433](http://arxiv.org/abs/2604.14433)|null|
