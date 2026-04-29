@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-27**|**Meta-CoT: Enhancing Granularity and Generalization in Image Editing**|Shiyi Zhang et.al.|[2604.24625](http://arxiv.org/abs/2604.24625)|**[link](https://github.com/shiyi-zh0408/Meta-CoT)**|
+|**2026-04-28**|**DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing**|Hanqing Yang et.al.|[2604.25477](http://arxiv.org/abs/2604.25477)|null|
+|**2026-04-28**|**Benchmarking Layout-Guided Diffusion Models through Unified Semantic-Spatial Evaluation in Closed and Open Settings**|Luca Parolari et.al.|[2604.25358](http://arxiv.org/abs/2604.25358)|**[link](https://github.com/lparolari/cobench)**|
+|**2026-04-28**|**Golden RPG: Confidence-Adaptive Region-Aware Noise for Compositional Text-to-Image Generation**|Hao Li et.al.|[2604.25314](http://arxiv.org/abs/2604.25314)|null|
+|**2026-04-28**|**The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents**|Yuwei Sun et.al.|[2604.25299](http://arxiv.org/abs/2604.25299)|null|
+|**2026-04-28**|**ResetEdit: Precise Text-guided Editing of Generated Image via Resettable Starting Latent**|Hanyi Wang et.al.|[2604.25128](http://arxiv.org/abs/2604.25128)|null|
+|**2026-04-27**|**Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation**|Zhiheng Liu et.al.|[2604.24763](http://arxiv.org/abs/2604.24763)|null|
+|**2026-04-27**|**Meta-CoT: Enhancing Granularity and Generalization in Image Editing**|Shiyi Zhang et.al.|[2604.24625](http://arxiv.org/abs/2604.24625)|null|
 |**2026-04-27**|**CA-IDD: Cross-Attention Guided Identity-Conditional Diffusion for Identity-Consistent Face Swapping**|Md Shohel Rana et.al.|[2604.24493](http://arxiv.org/abs/2604.24493)|null|
 |**2026-04-27**|**TextGround4M: A Prompt-Aligned Dataset for Layout-Aware Text Rendering**|Dongxing Mao et.al.|[2604.24459](http://arxiv.org/abs/2604.24459)|null|
 |**2026-04-27**|**Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion**|Zhongjie Duan et.al.|[2604.24351](http://arxiv.org/abs/2604.24351)|null|
@@ -1349,6 +1355,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**From Syntax to Emotion: A Mechanistic Analysis of Emotion Inference in LLMs**|Bangzhao Shu et.al.|[2604.25866](http://arxiv.org/abs/2604.25866)|null|
+|**2026-04-28**|**Quantum limit cycles with continuous symmetries from coherent parametric driving: exact solutions and many-body extensions**|Sihan Chen et.al.|[2604.25864](http://arxiv.org/abs/2604.25864)|null|
+|**2026-04-28**|**Efficient boundary elements for the Smoluchowski diffusion equation**|Ignacio Labarca-Figueroa et.al.|[2604.25852](http://arxiv.org/abs/2604.25852)|null|
+|**2026-04-28**|**Fast radio burst dispersion is an unbiased tracer of matter on large scales**|Shion Andrew et.al.|[2604.25828](http://arxiv.org/abs/2604.25828)|null|
+|**2026-04-28**|**Backstepping Observer for the Quasilinear Heat Equation with Linear Design Gains: Beyond Local Stability**|Mohamed Camil Belhadjoudja et.al.|[2604.25815](http://arxiv.org/abs/2604.25815)|null|
+|**2026-04-28**|**Universal transport of active colloids with sensory delay in motility landscapes**|Adrià Garcés et.al.|[2604.25745](http://arxiv.org/abs/2604.25745)|null|
+|**2026-04-28**|**Coherence Revivals and Lifetime Extension of Polariton Condensates by Mirror-Mediated Self-Feedback**|I. Smirnov et.al.|[2604.25743](http://arxiv.org/abs/2604.25743)|null|
+|**2026-04-28**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|Guanglin Niu et.al.|[2604.25693](http://arxiv.org/abs/2604.25693)|null|
+|**2026-04-28**|**HyGAL: Characterizing the Galactic ISM with observations of hydrides and other small molecules. III. The absorption lines of [O I], CH, and OH**|W. -J. Kim et.al.|[2604.25590](http://arxiv.org/abs/2604.25590)|null|
+|**2026-04-28**|**A Speculative Benchmark for the AMS-02 Electron and Positron Spectra from a Time-Symmetric Transport Hypothesis**|Yi Yang et.al.|[2604.25542](http://arxiv.org/abs/2604.25542)|null|
 |**2026-04-27**|**DiffQEC: A versatile diffusion model for quantum error correction**|Tianyi Xu et.al.|[2604.24640](http://arxiv.org/abs/2604.24640)|null|
 |**2026-04-27**|**Point-MF: One-step Point Cloud Generation from a Single Image via Mean Flows**|Yuta Baba et.al.|[2604.24586](http://arxiv.org/abs/2604.24586)|null|
 |**2026-04-27**|**Diffusion Model as a Generalist Segmentation Learner**|Haoxiao Wang et.al.|[2604.24575](http://arxiv.org/abs/2604.24575)|null|
@@ -2860,6 +2876,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Towards Robust Deep Learning-based Rumex Obtusifolius Detection from Drone Images**|Fabian Dionys Schrag et.al.|[2604.25316](http://arxiv.org/abs/2604.25316)|null|
+|**2026-04-28**|**QFlash: Bridging Quantization and Memory Efficiency in Vision Transformer Attention**|Sehyeon Oh et.al.|[2604.25306](http://arxiv.org/abs/2604.25306)|null|
 |**2026-04-27**|**PointTransformerX:Portable and Efficient 3D Point Cloud Processing without Sparse Algorithms**|Laurenz Reichardt et.al.|[2604.24169](http://arxiv.org/abs/2604.24169)|null|
 |**2026-04-26**|**ELSA: Exact Linear-Scan Attention for Fast and Memory-Light Vision Transformers**|Chih-Chung Hsu et.al.|[2604.23798](http://arxiv.org/abs/2604.23798)|null|
 |**2026-04-26**|**A Synergistic CNN-Transformer Network with Pooling Attention Fusion for Hyperspectral Image Classification**|Peng Chen et.al.|[2604.23622](http://arxiv.org/abs/2604.23622)|null|
@@ -3896,6 +3914,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**GramSR: Visual Feature Conditioning for Diffusion-Based Super-Resolution**|Fabio D'Oronzio et.al.|[2604.25457](http://arxiv.org/abs/2604.25457)|null|
+|**2026-04-28**|**Edge-Cloud Collaborative Reconstruction via Structure-Aware Latent Diffusion for Downstream Remote Sensing Perception**|Yun Li et.al.|[2604.25319](http://arxiv.org/abs/2604.25319)|null|
+|**2026-04-28**|**Seeing full vectorial structures of light fields with a single-shot holographic multiplexed detector**|Sitao Qin et.al.|[2604.25216](http://arxiv.org/abs/2604.25216)|null|
 |**2026-04-27**|**Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion**|Zhongjie Duan et.al.|[2604.24351](http://arxiv.org/abs/2604.24351)|null|
 |**2026-04-27**|**Bridging Restoration and Generation Manifolds in One-Step Diffusion for Real-World Super-Resolution**|Shyang-En Weng et.al.|[2604.24136](http://arxiv.org/abs/2604.24136)|null|
 |**2026-04-27**|**Breaking the Scalability Limit of Multi-Projector Calibration with Embedded Cameras**|Takumi Kawano et.al.|[2604.24024](http://arxiv.org/abs/2604.24024)|null|
@@ -4444,6 +4465,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Observation-Guided Neural Surrogate Learning for Scientific Simulation Emulation: A Single-Gauge Flood-Inundation Proof of Concept**|Marzieh Alireza Mirhoseini et.al.|[2604.25890](http://arxiv.org/abs/2604.25890)|null|
+|**2026-04-28**|**Target-depth sensing with metasurface-encoder integrated optoelectronic neural network**|Shuo Wang et.al.|[2604.25160](http://arxiv.org/abs/2604.25160)|null|
 |**2026-04-27**|**Monocular Depth Estimation via Neural Network with Learnable Algebraic Group and Ring Structures**|Qianlei Wang et.al.|[2604.24328](http://arxiv.org/abs/2604.24328)|null|
 |**2026-04-25**|**Sphere-Depth: A Benchmark for Depth Estimation Methods with Varying Spherical Camera Orientations**|Soulayma Gazzeh et.al.|[2604.23432](http://arxiv.org/abs/2604.23432)|null|
 |**2026-04-24**|**Depth-Aware Rover: A Study of Edge AI and Monocular Vision for Real-World Implementation**|Lomash Relia et.al.|[2604.22331](http://arxiv.org/abs/2604.22331)|null|
@@ -5340,13 +5363,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Generalizable Human Gaussian Splatting via Multi-view Semantic Consistency**|Jingi Kim et.al.|[2604.25466](http://arxiv.org/abs/2604.25466)|null|
+|**2026-04-28**|**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**|Yufei Jia et.al.|[2604.25459](http://arxiv.org/abs/2604.25459)|null|
+|**2026-04-28**|**Generalizable 3D Gaussian Splatting enabled Semantic Coding for Real-Time Immersive Video Communications**|Dingxi Yang et.al.|[2604.25330](http://arxiv.org/abs/2604.25330)|null|
 |**2026-04-27**|**Large-Scale Photogrammetric Documentation of St. John's Co-Cathedral: A Workflow for Cultural Heritage Preservation**|Matthew Kenely et.al.|[2604.24316](http://arxiv.org/abs/2604.24316)|null|
 |**2026-04-27**|**Light 'em Up: Enabling Few-Shot Low-Light 3D Gaussian Splatting with Multi-Scale Explicit Retinex Illumination Decoupling**|YuHao Yin et.al.|[2604.24053](http://arxiv.org/abs/2604.24053)|null|
 |**2026-04-26**|**Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting for Egocentric Scene Reconstruction**|Jan Warchocki et.al.|[2604.23803](http://arxiv.org/abs/2604.23803)|null|
 |**2026-04-26**|**GS-DOT: Gaussian splatting-based image reconstruction for diffuse optical tomography**|Jingjing Jiang et.al.|[2604.23675](http://arxiv.org/abs/2604.23675)|null|
 |**2026-04-26**|**Spatiotemporal Degradation-Aware 3D Gaussian Splatting for Realistic Underwater Scene Reconstruction**|Shaohua Liu et.al.|[2604.23551](http://arxiv.org/abs/2604.23551)|null|
 |**2026-04-24**|**NRGS: Neural Regularization for Robust 3D Semantic Gaussian Splatting**|Zaiyan Yang et.al.|[2604.22439](http://arxiv.org/abs/2604.22439)|null|
-|**2026-04-24**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339](http://arxiv.org/abs/2604.22339)|null|
+|**2026-04-28**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339](http://arxiv.org/abs/2604.22339)|null|
 |**2026-04-24**|**EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting**|Feiyu An et.al.|[2604.22183](http://arxiv.org/abs/2604.22183)|null|
 |**2026-04-24**|**PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement**|David Recasens et.al.|[2604.22129](http://arxiv.org/abs/2604.22129)|null|
 |**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
